@@ -1,5 +1,42 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/grammar/index.html",
+      "/vocabulary/index.html",
+      "/communication/index.html",
+      "/negotiation/index.html",
+      "/debate/index.html",
+      "/articles/contingent-and-axiomatic.html",
+      "/articles/dignity-and-gravitas.html",
+      "/articles/disparage-and-extol.html",
+      "/articles/eminent-and-illustrious.html",
+      "/articles/epistemic-verbs-assume-presume-suppose.html",
+      "/articles/fraught-and-serene.html",
+      "/articles/gold-plate-and-clunky.html",
+      "/articles/guise-and-candor.html",
+      "/articles/haphazard-and-methodical.html",
+      "/articles/juxtaposition-and-antithesis.html",
+      "/articles/linchpin-and-fulcrum.html",
+      "/articles/ostensible-and-veridical.html",
+      "/articles/overshadow-and-illuminate.html",
+      "/articles/perennial-and-ephemeral.html",
+      "/articles/peril-and-sanctuary.html",
+      "/articles/sagacity-and-perspicacity.html",
+      "/articles/salient-and-latent.html",
+      "/grammar/parts-of-speech.html",
+      "/grammar/tenses-and-aspects.html",
+      "/vocabulary/academic-and-precise-lexicon.html",
+      "/vocabulary/latin-greek-roots.html",
+      "/communication/active-listening-and-empathy.html",
+      "/communication/clarity-and-brevity.html",
+      "/negotiation/principled-negotiation.html",
+      "/negotiation/tactical-empathy-and-framing.html",
+      "/debate/argument-construction-toulmin.html",
+      "/debate/formal-and-informal-fallacies.html"
+    ]
+  },
+  {
     "listing": "/debate/index.html",
     "items": [
       "/debate/argument-construction-toulmin.html",
@@ -11,6 +48,43 @@
     "items": [
       "/communication/active-listening-and-empathy.html",
       "/communication/clarity-and-brevity.html"
+    ]
+  },
+  {
+    "listing": "/articles.html",
+    "items": [
+      "/grammar/index.html",
+      "/vocabulary/index.html",
+      "/communication/index.html",
+      "/negotiation/index.html",
+      "/debate/index.html",
+      "/articles/contingent-and-axiomatic.html",
+      "/articles/dignity-and-gravitas.html",
+      "/articles/disparage-and-extol.html",
+      "/articles/eminent-and-illustrious.html",
+      "/articles/epistemic-verbs-assume-presume-suppose.html",
+      "/articles/fraught-and-serene.html",
+      "/articles/gold-plate-and-clunky.html",
+      "/articles/guise-and-candor.html",
+      "/articles/haphazard-and-methodical.html",
+      "/articles/juxtaposition-and-antithesis.html",
+      "/articles/linchpin-and-fulcrum.html",
+      "/articles/ostensible-and-veridical.html",
+      "/articles/overshadow-and-illuminate.html",
+      "/articles/perennial-and-ephemeral.html",
+      "/articles/peril-and-sanctuary.html",
+      "/articles/sagacity-and-perspicacity.html",
+      "/articles/salient-and-latent.html",
+      "/grammar/parts-of-speech.html",
+      "/grammar/tenses-and-aspects.html",
+      "/vocabulary/academic-and-precise-lexicon.html",
+      "/vocabulary/latin-greek-roots.html",
+      "/communication/active-listening-and-empathy.html",
+      "/communication/clarity-and-brevity.html",
+      "/negotiation/principled-negotiation.html",
+      "/negotiation/tactical-empathy-and-framing.html",
+      "/debate/argument-construction-toulmin.html",
+      "/debate/formal-and-informal-fallacies.html"
     ]
   },
   {
