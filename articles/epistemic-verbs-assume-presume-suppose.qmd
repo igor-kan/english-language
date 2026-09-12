@@ -1,0 +1,79 @@
+---
+title: "Assume, Presume, Suppose: Calibrating Epistemic Confidence and Cognitive Stances"
+subtitle: "The subtle boundaries between taking for granted, probabilistic inference, and hypothetical conjecture."
+description: "A linguistic breakdown of epistemic verbs—the critical differences between assume, presume, suppose, postulate, surmise, and their verification antonyms."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Lexical-Deep-Dive, Epistemic-States, Logic]
+---
+
+## 1. The Hierarchy of Epistemic Belief
+
+In precise analytical, legal, and philosophical writing, conflating *assume* and *presume* is a major stylistic solecism. These verbs occupy distinct coordinates along the spectrum of **evidence vs. assertion**:
+
+```
+[ Suppose ]  ──> Tentative hypothetical proposition ("What if?")
+    │
+[ Assume ]   ──> Accepting without any empirical evidence for argument's sake
+    │
+[ Presume ]  ──> Accepting based on strong probability or legal default, until disproven
+    │
+[ Posit ]    ──> Formally introducing an axiom into a deductive framework
+```
+
+---
+
+## 2. Definitional Nuances
+
+### A. Assume
+* **Etymology:** From Latin *assumere* (*ad-* to + *sumere* to take $\to$ to take up, adopt).
+* **Nuance:** To take something for granted as true without evidence, often as an arbitrary axiom or thought experiment (*"Let us assume the surface is frictionless"*).
+* **Risk:** High chance of error; *"To assume makes an ass of you and me."*
+
+### B. Presume
+* **Etymology:** From Latin *praesumere* (*prae-* before + *sumere* to take $\to$ to take beforehand, anticipate).
+* **Nuance:** To suppose that something is the case on the basis of **strong probability, convention, or established legal default**.
+* **Legal Anchor:** *"Presumed innocent until proven guilty"* (an evidentiary standard that holds until positive counter-evidence shatters it).
+* **Social Connotation:** Can imply arrogance or overstepping boundaries (*"How dare you presume to speak for our department?"* $\to$ *presumptuous*).
+
+### C. Suppose
+* **Nuance:** To consider a proposition as a tentative hypothesis for the sake of argument or consequence exploration (*"Suppose we lose 30% of database connectivity..."*). Less dogmatic than *assume*.
+
+### D. Surmise & Conjecture
+* **Surmise:** To infer on slight or incomplete evidence; an educated guess.
+* **Conjecture:** A formal unproven proposition that appears likely based on partial patterns (e.g., *Goldbach's Conjecture*).
+
+---
+
+## 3. The Verification Antonym Cluster
+
+The antidote to epistemic presumption is empirical and formal validation:
+
+| Antonym | Nuance | Context |
+| :--- | :--- | :--- |
+| **Verify** | Establish the truth, accuracy, or reality of through empirical testing. | *Verifying cryptographic signatures* |
+| **Corroborate** | Confirm or support with additional, independent witness or experimental evidence. | *Corroborating a whistleblower's claims* |
+| **Substantiate** | Provide solid substance or evidence to back an assertion. | *Substantiating an allegation* |
+| **Falsify** | Prove to be false or incorrect via a counterexample (Popperian science). | *Falsifying a hypothesis* |
+
+---
+
+## 4. Idioms and Phrasal Expressions
+
+### Expressing Epistemic Presumption
+* **Take for Granted:** Accept without question or appreciation, assuming it will always persist.
+* **Leap to Conclusions:** Form an opinion or judgment prematurely before reviewing the facts.
+* **Building Castles in the Air:** Generating complex theories based entirely on unverified assumptions.
+
+### Expressing Verification & Groundedness
+* **Down to Earth:** Grounded in practical, observable reality.
+* **In Black and White:** Documented clearly, explicitly, and incontrovertibly.
+* **Ironclad Guarantee:** An assurance backed by undeniable, enforceable proof.
+
+---
+
+## 5. Model Sentences
+
+* **Legal:** *"Under common law, a person missing for seven continuous years is **presumed** dead, though this presumption may be rebutted by eyewitness testimony."*
+* **Mathematical Physics:** *"In deriving the Navier-Stokes equations, continuum mechanics **assumes** fluid particles can be represented as infinitely divisible mathematical points."*
+* **Analytical:** *"Without independent telemetry data to **substantiate** the telemetry drop, any root-cause assertion remains mere **conjecture**."*

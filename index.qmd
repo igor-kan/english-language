@@ -2,38 +2,57 @@
 title: "English Mastery"
 subtitle: "A systematic curriculum covering linguistic architecture, precision vocabulary, rhetoric, negotiation, and debate."
 page-layout: full
+listing:
+  contents:
+    - "articles/*.qmd"
+    - "grammar/*.qmd"
+    - "vocabulary/*.qmd"
+    - "communication/*.qmd"
+    - "negotiation/*.qmd"
+    - "debate/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 15
+  fields: [date, title, description, categories]
 ---
 
 ::: {.hero-banner}
 # English Mastery
-### A rigorous, systematic guide to the mechanics and art of the English language.
+### A rigorous, tag-driven exploration of syntax, etymology, rhetoric, and debate.
 :::
 
 ::: {.card-grid}
 
 ::: {.course-card}
-### [Grammar](grammar/index.qmd)
+### [Grammar](articles.qmd#category=Grammar)
 Master syntax, morphology, clause architecture, and grammatical precision.
 :::
 
 ::: {.course-card}
-### [Vocabulary](vocabulary/index.qmd)
-Expand your lexicon through etymology, Latin and Greek roots, and elevated diction.
+### [Vocabulary](articles.qmd#category=Vocabulary)
+Expand your lexicon through etymology, Latin/Greek roots, and lexical deep dives.
 :::
 
 ::: {.course-card}
-### [Communication](communication/index.qmd)
+### [Communication](articles.qmd#category=Communication)
 Develop clarity, brevity, and emotional resonance in written and spoken discourse.
 :::
 
 ::: {.course-card}
-### [Negotiation](negotiation/index.qmd)
+### [Negotiation](articles.qmd#category=Negotiation)
 Apply tactical empathy, framing, and principled bargaining to high-stakes agreements.
 :::
 
 ::: {.course-card}
-### [Debate & Logic](debate/index.qmd)
+### [Debate & Logic](articles.qmd#category=Debate)
 Construct sound dialectical arguments and systematically dismantle logical fallacies.
 :::
 
 :::
+
+## Latest Articles & Lexical Deep Dives
+
+Use the category tags on the right to instantly filter by semantic group or topic.

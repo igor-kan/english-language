@@ -1,0 +1,48 @@
+---
+title: "The English Mastery Roadmap"
+subtitle: "A progressive pedagogical framework spanning syntax, diction, rhetoric, and dialectic."
+author: "Igor Kan"
+date: "2026-09-12"
+---
+
+## The Four Ascending Tiers of Mastery
+
+Rather than treating language as isolated trivia lists, this curriculum progresses logically through four structural layers:
+
+```
+[ Tier 4: Dialectic & Debate ]      ──> Argument construction, logic, fallacy dismantling
+              │
+[ Tier 3: Tactical Persuasion ]     ──> Principled negotiation, tactical empathy, Minto Pyramid
+              │
+[ Tier 2: Precision Lexicon ]       ──> Root morphemes, semantic clusters, nuanced distinctions
+              │
+[ Tier 1: Syntax & Morphology ]     ──> Parts of speech, clause architecture, tense-aspect paradigms
+```
+
+---
+
+## 1. Tier 1: Syntax & Architectural Foundations
+* **Target:** Flawless grammatical intuition.
+* **Core Domains:** Functional parts of speech, the 12 tense-aspect combinations, coordination vs. subordination, non-standard inversions.
+* **Tag Filter:** [`Grammar`](articles.qmd#category=Grammar)
+
+---
+
+## 2. Tier 2: The Precision Lexicon & Etymological Deductions
+* **Target:** High-resolution diction and contextual nuance.
+* **Core Domains:** Greco-Roman root decomposition, paired synonyms and subtle register divergences (*salient* vs. *prominent*, *eminent* vs. *illustrious*), semantic antonym polarity (*haphazard* vs. *methodical*).
+* **Tag Filter:** [`Vocabulary`](articles.qmd#category=Vocabulary) • [`Lexical-Deep-Dive`](articles.qmd#category=Lexical-Deep-Dive)
+
+---
+
+## 3. Tier 3: Tactical Communication & Principled Persuasion
+* **Target:** Strategic clarity and interpersonal influence.
+* **Core Domains:** The Minto Pyramid Principle (BLUF), executive brevity, active listening, Harvard principled negotiation, and FBI tactical empathy.
+* **Tag Filter:** [`Communication`](articles.qmd#category=Communication) • [`Negotiation`](articles.qmd#category=Negotiation)
+
+---
+
+## 4. Tier 4: Dialectic, Logic & Competitive Debate
+* **Target:** Bulletproof argumentative defense and real-time fallacy refutation.
+* **Core Domains:** The Toulmin structural model (Claims, Warrants, Backing, Qualifiers), cross-examination heuristics, and logical fallacy deconstruction.
+* **Tag Filter:** [`Debate`](articles.qmd#category=Debate) • [`Logic`](articles.qmd#category=Logic)

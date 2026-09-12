@@ -1,0 +1,25 @@
+---
+title: "Article Directory & Semantic Tag Library"
+subtitle: "Explore all grammar guides, vocabulary masterclasses, lexical deep dives, and rhetorical models using the interactive category filters."
+page-layout: full
+listing:
+  contents:
+    - "articles/*.qmd"
+    - "grammar/*.qmd"
+    - "vocabulary/*.qmd"
+    - "communication/*.qmd"
+    - "negotiation/*.qmd"
+    - "debate/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 30
+  fields: [date, title, description, categories]
+---
+
+::: {.callout-note}
+### Interactive Tag Filtering
+Use the **Categories** filter sidebar on the right (or tap Categories on mobile) to filter the collection by semantic domain, part of speech, or conceptual register (e.g., `Vocabulary`, `Lexical-Deep-Dive`, `Grammar`, `Negotiation`, `Debate`, `Chaos-vs-Order`, `Epistemic-States`). You can also use the live search bar above the table to search for any word, root, or concept.
+:::

@@ -13,22 +13,16 @@ website:
   title: "English Mastery"
   site-url: "https://igor-kan.github.io/english-language"
   repo-url: "https://github.com/igor-kan/english-language"
-  description: "A comprehensive guide to English grammar, vocabulary, rhetoric, effective communication, negotiation, and debate."
+  description: "A comprehensive, tag-driven curriculum covering linguistic architecture, precision vocabulary, rhetoric, negotiation, and debate."
   page-footer: "© 2026 Igor Kan"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: grammar/index.qmd
-        text: Grammar
-      - href: vocabulary/index.qmd
-        text: Vocabulary
-      - href: communication/index.qmd
-        text: Communication
-      - href: negotiation/index.qmd
-        text: Negotiation
-      - href: debate/index.qmd
-        text: Debate & Logic
+      - href: articles.qmd
+        text: All Articles & Tags
+      - href: curriculum.qmd
+        text: Learning Roadmap
       - href: about.qmd
         text: About
 
