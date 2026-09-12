@@ -1,0 +1,61 @@
+---
+title: "Obtain, Pertain, and Ascribe: Formal Verbs of Existence, Relevance, and Attribution"
+subtitle: "Deconstructing the precise legal, scientific, and philosophical verbs that govern formal intellectual registers."
+description: "A deep dive into 'obtain' (in its intransitive formal sense of prevailing), 'pertain to' (relevance and jurisdiction), and 'ascribe' (causal attribution), with etymologies, antonyms, and idioms."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Lexical-Deep-Dive, Formal-Discourse, Epistemic-States]
+---
+
+## 1. The High-Register Triple: Existence, Relevance, and Cause
+
+In standard conversational English, speakers rely on basic verbs like *exist*, *relate to*, and *blame*. In formal legal statutes, philosophical treatises, and scientific papers, these concepts are articulated with three surgical verbs:
+
+```
+[ Obtain ]   ──> Formal Existence: To be prevalent, customary, or established as valid
+[ Pertain ]  ──> Formal Relevance: To have reference, relation, or statutory jurisdiction
+[ Ascribe ]  ──> Formal Attribution: To assign causal origin, authorship, or credit
+```
+
+---
+
+## 2. Obtain (Intransitive: To Prevail or Hold Good)
+
+* **Etymology:** From Latin *obtinere* (*ob-* thoroughly + *tenere* to hold $\to$ to take hold of, prevail).
+* **Conversational Meaning (Transitive):** To acquire or get possession of (*"obtain a passport"*).
+* **High-Register Formal Meaning (Intransitive):** To be prevalent, customary, established, or legally valid in a particular realm or epoch.
+  * *Single-word Equivalent:* *Prevail, exist, hold good, apply.*
+  * *Antonyms on Spectrum:* **Lapse, expire, vanish, fall into disuse.**
+  * *Example:* *"The severe feudal penalties that **obtained** in 14th-century England no longer apply under modern constitutional jurisprudence."*
+  * *Philosophy:* *"In a frictionless vacuum, different physical equations **obtain** than those observed in turbulent fluids."*
+
+---
+
+## 3. Pertain (Governed with "To")
+
+* **Etymology:** From Old French *partenir*, from Latin *pertinere* (*per-* thoroughly + *tenere* to hold $\to$ to reach to, belong to, relate to).
+* **Core Definition:** To have reference or relation; to relate to; to belong to as a part, member, or attribute.
+  * *Single-word Equivalent:* *Appertain, relate to, concern, touch upon.*
+  * *Antonyms on Spectrum:* **Irrelevant, extraneous, impertinent.**
+  * *Example:* *"The magistrate ruled that questions regarding the defendant's past debts did not **pertain to** the immediate criminal indictment."*
+  * *Adjective Derivative:* *Pertinent* (relevant, on-point; antonym: *impertinent*).
+
+---
+
+## 4. Ascribe (Governed with "To")
+
+* **Etymology:** From Latin *ascribere* (*ad-* to + *scribere* to write $\to$ to enter in a list, attribute).
+* **Core Definition:** To attribute something to a cause, source, or author; to regard a quality as belonging to someone.
+  * *Single-word Equivalent:* *Attribute, impute, assign, credit.*
+  * *Example:* *"Literary scholars generally **ascribe** the anonymous manuscript to a Franciscan scribe working in Oxford."*
+  * *Analytical:* *"Psychologists warn against **ascribing** purely malicious intent to bureaucratic decisions that can be explained by mere administrative incompetence."*
+
+---
+
+## 5. Comparative Matrix
+
+| Verb | Grammar Construction | High-Register Synonym | Antonym |
+| :--- | :--- | :--- | :--- |
+| **Obtain** | *[Condition] obtains* | *Prevails, holds true* | *Lapses, expires* |
+| **Pertain to** | *Pertains to [Domain]* | *Appertains, concerns* | *Irrelevant to, extraneous* |
+| **Ascribe to** | *Ascribe [X] to [Y]* | *Imputes, attributes* | *Disassociate from, detach* |

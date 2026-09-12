@@ -1,0 +1,92 @@
+---
+title: "The Phrasal Verbs of 'TURN': Rejection, Transformation, Attendance, and Inversion"
+subtitle: "Deconstructing the semantic spectra of 'turn'—from market turnarounds to dialectical turnabouts."
+description: "A comprehensive guide to the phrasal verbs of 'turn'—including 'turn down', 'turn out', 'turn around', 'turn into', and 'turn against'—mapped across functional antonyms and idioms."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Phrasal-Verbs, Lexical-Deep-Dive, Verb-Systems]
+---
+
+## 1. The Rotational Geometry of "Turn"
+
+From Old English *tyrnan* (to turn, rotate, wheel, revolve), **turn** denotes directional rotation. In phrasal combinations, this rotational dynamic shifts metaphorically to represent **rejection of offers, radical reversals of fortune, metamorphic transformations, and ideological betrayals**.
+
+```
+[ Spectrum 1: Rejection vs. Acceptance ]       ──> turn down       <──> accept / embrace
+[ Spectrum 2: Transformation & Metamorphosis ] ──> turn into       <──> preserve / remain
+[ Spectrum 3: Reversal of Fortune ]            ──> turn around     <──> deteriorate / collapse
+[ Spectrum 4: Loyalty vs. Defection ]          ──> turn against    <──> rally behind / support
+[ Spectrum 5: Emergence vs. Absence ]          ──> turn up         <──> vanish / fail to appear
+```
+
+---
+
+## 2. Spectrum 1: Rejection vs. Acceptance
+
+### A. Turn Down
+* **Sense 1 (Rejection of Offer/Request):** To reject, refuse, or decline an application, proposal, invitation, or candidate.
+  * *Single-word Equivalent:* *Decline, reject, rebuff, spurn.*
+  * *Polar Opposite:* **Accept, embrace, ratify, adopt.**
+  * *Example:* *"The brilliant researcher **turned down** lucrative private equity offers to pursue fundamental research in mathematical physics."*
+* **Sense 2 (Volume/Intensity Attenuation):** Reduce the volume, heat, or brightness of a device (*"turn down the volume"*; antonym: *turn up*).
+
+---
+
+## 3. Spectrum 2: Metamorphosis and Evolution
+
+### A. Turn Into
+* **Core Definition:** To change, metamorphose, or be transformed completely into something different.
+  * *Single-word Equivalent:* *Metamorphose, transmute, convert, evolve into.*
+  * *Polar Opposite:* **Remain immutable, preserve integrity.**
+  * *Example:* *"What began as a minor disagreement over code formatting quickly **turned into** an acrimonious theological flame war."*
+
+---
+
+## 4. Spectrum 3: Reversals of Fortune and Revitalization
+
+### A. Turn Around
+* **Sense 1 (Economic / Organizational Revitalization):** To take a failing, insolvent, or stagnant enterprise and transform it into a profitable, successful operation.
+  * *Single-word Equivalent:* *Revitalize, resuscitate, rehabilitate.*
+  * *Polar Opposite:* **Run into the ground, mismanage into insolvency.**
+  * *Example:* *"The new CEO **turned around** the struggling semiconductor manufacturer within three quarters by canceling unviable speculative projects."*
+* **Sense 2 (Inversion of Logic):** To reinterpret an opponent's argument to work against them (*"turn the tables"*).
+
+---
+
+## 5. Spectrum 4: Defection, Betrayal, and Loyalty
+
+### A. Turn Against
+* **Core Definition:** To stop supporting, liking, or trusting someone and become hostile or adversarial toward them.
+  * *Single-word Equivalent:* *Defect, betray, turn hostile, repudiate.*
+  * *Polar Opposite on Spectrum:* **Rally behind, stand by, champion, remain loyal.**
+  * *Example:* *"When the public relations crisis erupted, the board of directors quickly **turned against** the founder they had lionized weeks earlier."*
+  * *Idiom on Spectrum:* *Stab in the back / bite the hand that feeds you*.
+
+---
+
+## 6. Spectrum 5: Eventuation, Attendance, and Emergence
+
+### A. Turn Out
+* **Sense 1 (Eventuation / Final Result):** To develop, happen, or end in a specific way.
+  * *Single-word Equivalent:* *Eventuate, transpire, resolve.*
+  * *Example:* *"Despite our early anxieties about memory usage, the deployment **turned out** to be remarkably stable."*
+* **Sense 2 (Public Attendance):** For people to assemble or attend an event in a collective crowd (*"over ten thousand people turned out for the rally"*).
+* **Sense 3 (Production):** To manufacture or produce goods (*"the foundry turns out five thousand ingots a day"*).
+
+### B. Turn Up
+* **Sense 1 (Fortuitous Discovery):** To be discovered or found, often unexpectedly, after being lost (*"the missing contract turned up in the archives"*).
+* **Sense 2 (Arrival):** To arrive, especially unexpectedly or after a delay (*"he turned up two hours late to the defense"*).
+
+---
+
+## 7. Comparative Quick-Reference Matrix
+
+| Phrasal Verb | Semantic Axis | High-Register Single Verb | Antonymic Phrasal / Single Verb |
+| :--- | :--- | :--- | :--- |
+| **Turn down** | Rejection | *Decline, spurn* | *Accept, embrace, ratify* |
+| **Turn into** | Metamorphosis | *Transmute, convert* | *Preserve, retain* |
+| **Turn around** | Revitalization | *Rehabilitate, revitalize* | *Deteriorate, collapse* |
+| **Turn against** | Defection | *Betray, repudiate* | *Rally behind, support* |
+| **Turn out (1)** | Eventuation | *Eventuate, transpire* | *Preclude, abort* |
+| **Turn out (2)** | Assembly | *Congregate, convene* | *Disperse, scatter* |
+| **Turn up** | Appearance | *Arrive, materialize* | *Disappear, vanish* |

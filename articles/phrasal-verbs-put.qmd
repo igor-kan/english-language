@@ -1,0 +1,94 @@
+---
+title: "The Phrasal Verbs of 'PUT': Tolerance, Postponement, Assertion, and Suppression"
+subtitle: "Deconstructing the semantic spectra of 'put'—from executive proposals to psychological forbearance."
+description: "A comprehensive guide to the phrasal verbs of 'put'—including 'put up with', 'put off', 'put forward', 'put down', and 'put through'—organized along antonymic and register spectra."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Phrasal-Verbs, Lexical-Deep-Dive, Verb-Systems]
+---
+
+## 1. The Spatial Architecture of "Put"
+
+Originating in Old English *putian* (to push, thrust, place), **put** fundamentally describes the deliberate placement of an object into physical or conceptual space. In phrasal combinations, it governs **temporal deferral, psychological tolerance, intellectual assertion, and authoritarian suppression**.
+
+```
+[ Spectrum 1: Postponement vs. Acceleration ] ──> put off             <──> expedite / bring forward
+[ Spectrum 2: Forbearance vs. Repudiation ]    ──> put up with        <──> reject / repudiate
+[ Spectrum 3: Intellectual Assertion ]         ──> put forth/forward  <──> retract / withhold
+[ Spectrum 4: Disparagement vs. Elevation ]    ──> put down           <──> extol / elevate
+[ Spectrum 5: Imposition of Ordeal ]          ──> put through        <──> spare / shield
+```
+
+---
+
+## 2. Spectrum 1: Temporal Deferral vs. Acceleration
+
+### A. Put Off
+* **Sense 1 (Postponement):** To delay an event, meeting, or decision to a later time or date.
+  * *Single-word Equivalent:* *Postpone, defer, adjourn, delay.*
+  * *Polar Opposite:* **Expedite, accelerate, bring forward.**
+  * *Example:* *"The engineering director decided to **put off** the infrastructure migration until after the fourth-quarter shopping rush."*
+  * *Idiom on Spectrum:* *Kick the can down the road*.
+* **Sense 2 (Aversion / Disgust):** To cause someone to feel disgust, dislike, or disinterest.
+  * *Single-word Equivalent:* *Repel, alienate, discourage.*
+  * *Example:* *"The abrasive, condescending tone of the technical documentation **put off** potential contributors."*
+
+---
+
+## 3. Spectrum 2: Forbearance and Psychological Tolerance
+
+### A. Put Up With
+* **Core Definition:** To endure, tolerate, or bear an unpleasant, irritating, or difficult person or situation without actively complaining.
+  * *Single-word Equivalent:* *Tolerate, brook, endure, countenance.*
+  * *Polar Opposite:* **Reject, repudiate, dispute, refuse to countenance.**
+  * *Example:* *"The lead researcher refused to **put up with** chronic sloppy documentation from the contracting agency."*
+  * *Idiom on Spectrum:* *Grin and bear it / swallow a bitter pill*.
+
+---
+
+## 4. Spectrum 3: Intellectual Assertion and Proposal
+
+### A. Put Forward & Put Forth
+* **Core Definition:** To submit, propose, or state an idea, hypothesis, theorem, or candidate for formal consideration or debate.
+  * *Single-word Equivalent:* *Propose, advance, submit, postulate, propound.*
+  * *Polar Opposite:* **Retract, withdraw, suppress.**
+  * *Example:* *"In his 1905 paper, Einstein **put forward** the radical postulate that the speed of light is invariant across all inertial frames."*
+
+### B. Put Across
+* **Core Definition:** To communicate, express, or explain an idea persuasively and effectively to an audience.
+  * *Single-word Equivalent:* *Convey, articulate, elucidate.*
+  * *Example:* *"The defense attorney **put across** his closing argument with devastating rhetorical clarity."*
+
+---
+
+## 5. Spectrum 4: Disparagement and Suppression
+
+### A. Put Down
+* **Sense 1 (Disparagement):** To belittle, criticize, or humiliate someone in front of others.
+  * *Single-word Equivalent:* *Disparage, demean, belittle, denigrate.*
+  * *Polar Opposite:* **Extol, praise, laud, elevate.**
+  * *Example:* *"A toxic manager constantly **puts down** junior associates rather than coaching them through errors."*
+* **Sense 2 (Insurrection Suppression):** To suppress, quash, or crush a rebellion or strike by force (*"the imperial guard put down the peasant uprising"*).
+
+### B. Put Out
+* **Sense 1 (Extinguishment):** Extinguish a fire or cigarette (*"put out the blaze"*).
+* **Sense 2 (Inconvenience):** Cause trouble or inconvenience to someone (*"I don't want to put you out, but could you review this pull request?"*).
+
+### C. Put Through
+* **Core Meaning:** To cause someone to undergo or experience a severe trial, ordeal, or painful transition.
+  * *Idiom on Spectrum:* *Put someone through the wringer / put through the paces*.
+  * *Example:* *"The candidate was **put through** six grueling hours of whiteboard algorithms and system architecture interviews."*
+
+---
+
+## 6. Comparative Quick-Reference Matrix
+
+| Phrasal Verb | Semantic Axis | High-Register Single Verb | Antonymic Phrasal / Single Verb |
+| :--- | :--- | :--- | :--- |
+| **Put off (1)** | Deferral | *Postpone, defer* | *Expedite, bring forward* |
+| **Put off (2)** | Aversion | *Repel, alienate* | *Attract, entice, charm* |
+| **Put up with** | Tolerance | *Tolerate, brook* | *Repudiate, reject* |
+| **Put forward** | Proposal | *Propose, propound* | *Retract, withdraw* |
+| **Put down (1)** | Disparagement | *Demean, belittle* | *Extol, laud, elevate* |
+| **Put down (2)** | Quashing | *Suppress, quell* | *Foment, instigate* |
+| **Put through** | Ordeal | *Subject to, test* | *Shield, spare* |

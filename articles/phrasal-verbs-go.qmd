@@ -1,0 +1,81 @@
+---
+title: "The Phrasal Verbs of 'GO': Endurance, Examination, Defiance, and Acquiescence"
+subtitle: "Deconstructing the semantic spectra of 'go'—from rigorous audit scrutiny to ideological dissent."
+description: "A comprehensive guide to the phrasal verbs of 'go'—including 'go through', 'go over', 'go off', 'go against', and 'go along with'—organized along clear antonymic spectra."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Phrasal-Verbs, Lexical-Deep-Dive, Verb-Systems]
+---
+
+## 1. The Trajectory of "Go"
+
+From Old English *gān* (to go, walk, depart, proceed), **go** represents pure forward velocity and change of location. In its phrasal architecture, this directional momentum shifts into **the endurance of arduous trials, detailed analytical auditing, explosive detonation, and moral compliance or rebellion**.
+
+```
+[ Spectrum 1: Systematic Auditing & Ordeal ] ──> go through        <──> bypass / avoid
+[ Spectrum 2: Detailed Scrutiny & Review ]   ──> go over           <──> gloss over / skim
+[ Spectrum 3: Dissent vs. Compliance ]       ──> go against        <──> go along with / acquiesce
+[ Spectrum 4: Detonation & Aversion ]        ──> go off            <──> remain stable / warm to
+```
+
+---
+
+## 2. Spectrum 1: The Dual Faces of "Go Through"
+
+### A. Go Through
+* **Sense 1 (Endurance of Adversity):** To experience or undergo a difficult, painful, or traumatic period.
+  * *Single-word Equivalent:* *Endure, suffer, weather, sustain.*
+  * *Example:* *"The young refugee had **gone through** unspeakable deprivations before finding asylum."*
+* **Sense 2 (Exhaustive Inspection / Scrutiny):** To examine, search, or audit every component or document methodically.
+  * *Single-word Equivalent:* *Scrutinize, inspect, audit, sift through.*
+  * *Polar Opposite:* **Gloss over, skim, ignore.**
+  * *Example:* *"Before certifying the cryptographic library, the security auditors **went through** every line of assembly code by hand."*
+* **Sense 3 (Depletion):** To consume or spend money or supplies rapidly (*"they went through their quarterly runway in six weeks"*).
+
+---
+
+## 3. Spectrum 2: Scrutiny and Rehearsal vs. Superficial Skimming
+
+### A. Go Over
+* **Core Definition:** To examine, review, explain, or rehearse something in detail to verify its accuracy or internalize it.
+  * *Single-word Equivalent:* *Review, scrutinize, iterate, rehearse.*
+  * *Polar Opposite on Spectrum:* **Gloss over, skip, ignore.**
+  * *Example:* *"Let us **go over** the contract line by line before the closing signatures are executed."*
+
+---
+
+## 4. Spectrum 3: Dissent vs. Compliance and Conformity
+
+### A. Go Against
+* **Core Definition:** To oppose, contravene, or be in direct conflict with a rule, principle, consensus, or natural law.
+  * *Single-word Equivalent:* *Contravene, defy, breach, oppose.*
+  * *Example:* *"Merging unvalidated database changes **goes against** our fundamental engineering tenets."*
+
+### B. Go Along With
+* **Core Definition:** To agree to or accept a decision, proposal, or rule, often out of social compliance or passive consensus rather than deep conviction.
+  * *Single-word Equivalent:* *Acquiesce, concur, comply, toe the line.*
+  * *Polar Opposite on Spectrum:* **Go against, rebel, dissent, challenge.**
+  * *Example:* *"Rather than precipitating a boardroom crisis, the minority shareholders chose to **go along with** the restructuring plan."*
+
+---
+
+## 5. Spectrum 4: Detonation, Decay, and Disaffection
+
+### A. Go Off
+* **Sense 1 (Detonation / Sound):** Explode or trigger an alarm (*"the bomb went off"*, *"the fire alarm went off"*).
+* **Sense 2 (Biological Spoilage):** (Of food or milk) to decompose, sour, or turn rancid (*"the cream has gone off"*).
+* **Sense 3 (Loss of Affinity):** To stop liking or lose enthusiasm for someone or something (*"he went off corporate finance after the scandal"*).
+
+---
+
+## 6. Comparative Quick-Reference Matrix
+
+| Phrasal Verb | Semantic Axis | High-Register Single Verb | Antonymic Phrasal / Single Verb |
+| :--- | :--- | :--- | :--- |
+| **Go through (1)** | Endurance | *Endure, undergo* | *Bypass, evade* |
+| **Go through (2)** | Auditing | *Scrutinize, inspect* | *Gloss over, skim* |
+| **Go over** | Review | *Rehearse, audit* | *Neglect, disregard* |
+| **Go against** | Dissent | *Contravene, defy* | *Go along with, align* |
+| **Go along with** | Acquiescence | *Acquiesce, concur* | *Go against, dissent* |
+| **Go off (1)** | Detonation | *Explode, detonate* | *Defuse, quench* |
+| **Go off (2)** | Spoilage | *Decompose, decay* | *Preserve, stay fresh* |

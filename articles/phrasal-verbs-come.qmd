@@ -1,0 +1,112 @@
+---
+title: "The Phrasal Verbs of 'COME': Distillation, Acquisition, Confrontation, and Emergence"
+subtitle: "Deconstructing the polysemous particle combinations of 'come' across analytical, interpersonal, and operational registers."
+description: "A comprehensive guide to the phrasal verbs of 'come'—including 'come down to', 'come by', 'come in for', 'come up against', and 'come around'—mapped across semantic spectra with antonyms and idioms."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Phrasal-Verbs, Lexical-Deep-Dive, Analytical-Prose]
+---
+
+## 1. The Semantic Trajectory of "Come"
+
+From Old English *cuman* (to move toward, arrive, approach), **come** inherently denotes movement toward a reference point. When paired with functional prepositions and particles, it shifts from physical spatial arrival into **epistemic reduction, psychological concession, causal origination, and systemic friction**.
+
+```
+[ Spectrum 1: Reduction & Essence ]          ──> come down to       <──> disperse into trivia
+[ Spectrum 2: Procurement & Acquisition ]    ──> come by            <──> forfeit / squander
+[ Spectrum 3: Reception of Criticism ]       ──> come in for        <──> escape scrutiny
+[ Spectrum 4: Ideation vs. Stagnation ]      ──> come up with       <──> stall / hit creative block
+[ Spectrum 5: Confrontation vs. Smooth Path ] ──> come up against    <──> sail through / bypass
+[ Spectrum 6: Concession vs. Obstinacy ]     ──> come around        <──> dig in heels / resist
+```
+
+---
+
+## 2. Spectrum 1: Distillation and the Analytical Core
+
+### A. Come Down To
+* **Core Definition:** To be the most essential, decisive, or fundamental factor of a complex problem; to be reduced to a single core issue.
+  * *Single-word Equivalent:* *Reduce to, distill to, hinge upon, boil down to.*
+  * *Semantic Architecture:* When secondary complications, political rhetoric, or cosmetic distractions are stripped away, what remains at the bottom is what the situation *comes down to*.
+  * *Typical Collocations:* *It all comes down to...*, *ultimately comes down to a question of...*
+  * *Example:* *"We can debate software architecture patterns for months, but commercial viability ultimately **comes down to** user retention metrics."*
+
+---
+
+## 3. Spectrum 2: Procurement and Acquisition vs. Forfeiture
+
+### A. Come By
+* **Core Definition:** To acquire, obtain, or lay hands on something, particularly when it requires diligent search, luck, or unusual effort.
+  * *Single-word Equivalent:* *Procure, acquire, obtain, secure.*
+  * *Antonyms on Spectrum:* **Forfeit, lose, misplace, surrender.**
+  * *Example:* *"Rare first-edition printings of Newton's *Principia* are exceedingly difficult to **come by** outside private European archives."*
+  * *Idiom on Spectrum:* *Hard to come by / scarce as hen's teeth*.
+
+---
+
+## 4. Spectrum 3: Reception of Scrutiny and Criticism
+
+### A. Come In For
+* **Core Definition:** To receive, attract, or be subjected to something, specifically an onslaught of negative evaluation, blame, or public condemnation.
+  * *Single-word Equivalent:* *Incur, invite, draw, sustain.*
+  * *Antonyms on Spectrum:* **Escape scrutiny, fly under the radar, receive accolades.**
+  * *Typical Collocations:* *Come in for severe criticism*, *come in for intense flak*, *come in for public censure*.
+  * *Example:* *"The central bank **came in for** harsh criticism after misjudging the stickiness of core inflation indicators."*
+
+---
+
+## 5. Spectrum 4: Ideation and Intellectual Creation
+
+### A. Come Up With
+* **Core Definition:** To produce, devise, originate, or invent an idea, solution, mathematical proof, or financial resource through mental effort.
+  * *Single-word Equivalent:* *Devise, formulate, engineer, conceive.*
+  * *Polar Opposite:* **Draw a blank, stall, hit a mental wall.**
+  * *Example:* *"Under extreme deadline pressure, the computational team **came up with** a novel Fourier approximation algorithm that slashed inference latency by 40%."*
+
+---
+
+## 6. Spectrum 5: Systemic Confrontation and Obstacles
+
+### A. Come Up Against
+* **Core Definition:** To encounter, collide with, or be faced with serious opposition, unexpected obstacles, or entrenched institutional resistance.
+  * *Single-word Equivalent:* *Confront, encounter, collide with.*
+  * *Polar Opposite:* **Sail through, encounter zero resistance, have smooth sailing.**
+  * *Example:* *"The antitrust initiative **came up against** fierce lobbying from entrenched telecommunication cartels."*
+  * *Idiom on Spectrum:* *Run into a brick wall / hit a snag*.
+
+---
+
+## 7. Spectrum 6: Concession, Relenting, and Persuasion
+
+### A. Come Around (or Come Round)
+* **Sense 1 (Psychological Concession):** To gradually change one's opinion or stance, finally agreeing to something previously rejected.
+  * *Single-word Equivalent:* *Concede, relent, acquiesce.*
+  * *Polar Opposite:* **Dig in one's heels, remain intransigent, hold out indefinitely.**
+  * *Example:* *"Although the lead developer originally resisted automated testing frameworks, he eventually **came around** after seeing the reduction in production regressions."*
+* **Sense 2 (Consciousness / Medical):** To regain consciousness after fainting or anesthesia (*synonym: come to*).
+
+---
+
+## 8. Secondary Phrasal Verbs of "Come"
+
+* **Come About:** To happen, occur, or transpire (*"How did this catastrophic outage come about?"*).
+* **Come Across:** 
+  1. *Transitive:* To encounter or find fortuitously (*"I came across an obscure paper in the library"*).
+  2. *Intransitive (Impression):* To project a specific personality or impression (*"She comes across as aloof, but is remarkably kind"*).
+* **Come Off:** To succeed, occur as planned, or achieve fruition (*"The ambitious technical migration came off without a single dropped packet"*).
+* **Come Through:** To endure a difficult crisis successfully; to deliver on a promise under pressure (*"When the cluster collapsed, our backups came through"*).
+
+---
+
+## 9. Comparative Quick-Reference Matrix
+
+| Phrasal Verb | Semantic Axis | High-Register Single Verb | Antonymic Phrasal / Single Verb |
+| :--- | :--- | :--- | :--- |
+| **Come down to** | Essence / Reduction | *Distill to, reduce to* | *Disperse, distract from* |
+| **Come by** | Procurement | *Procure, secure* | *Forfeit, squander* |
+| **Come in for** | Incurring scrutiny | *Incur, sustain* | *Escape notice, evade* |
+| **Come up with** | Ideation | *Devise, formulate* | *Draw a blank, stall* |
+| **Come up against** | Opposition | *Confront, collide with* | *Sail through, bypass* |
+| **Come around** | Concession | *Relent, acquiesce* | *Dig in heels, resist* |
+| **Come off** | Fruition | *Succeed, materialize* | *Falter, fall flat, flop* |
+| **Come through** | Resilience | *Deliver, endure* | *Default, capitulate* |

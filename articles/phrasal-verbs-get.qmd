@@ -1,0 +1,104 @@
+---
+title: "The Phrasal Verbs of 'GET': Overcoming, Evasion, Communication, and Resilience"
+subtitle: "Deconstructing the semantic spectra of 'get'—from psychological recovery to regulatory circumnavigation."
+description: "A comprehensive guide to the phrasal verbs of 'get'—including 'get over', 'get away with', 'get across', 'get by', and 'get around'—organized along clear antonymic and register spectra."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Phrasal-Verbs, Lexical-Deep-Dive, Verb-Systems]
+---
+
+## 1. The Dynamic Core of "Get"
+
+From Old Norse *geta* (to obtain, reach, beget), **get** is the ultimate chameleon verb in the English language. In its base form, it denotes acquisition or transition of state. Paired with directional particles, it forms one of the most expressive networks of idiomatic English, governing **psychological resilience, legal evasion, intellectual communication, and survival under scarcity**.
+
+```
+[ Spectrum 1: Psychological Recovery ]     ──> get over           <──> dwell upon / brood
+[ Spectrum 2: Accountability & Evasion ]    ──> get away with      <──> face the music
+[ Spectrum 3: Intellectual Communication ]  ──> get across         <──> obfuscate / muddle
+[ Spectrum 4: Scarcity & Subsistence ]      ──> get by             <──> flourish / thrive
+[ Spectrum 5: Social Harmony ]              ──> get along with     <──> fall out with / feud
+[ Spectrum 6: Inertia vs. Execution ]       ──> get around to      <──> procrastinate / shelve
+```
+
+---
+
+## 2. Spectrum 1: Psychological Recovery vs. Morbid Fixation
+
+### A. Get Over
+* **Core Definition:** To recover from an emotional shock, illness, defeat, or bereavement; to overcome a mental barrier.
+  * *Single-word Equivalent:* *Overcome, transcend, recuperate, surmount.*
+  * *Polar Opposite:* **Dwell on, brood over, obsess over, wallow in.**
+  * *Example:* *"It took the startup team several months to **get over** the crushing rejection of their Series A funding round and rebuild their go-to-market strategy."*
+
+---
+
+## 3. Spectrum 2: Legal Evasion vs. Retribution
+
+### A. Get Away With
+* **Core Definition:** To escape punishment, reprimand, or adverse consequence after committing an illegal, unethical, or sloppy act.
+  * *Single-word Equivalent:* *Evade penalty, escape retribution, skirt consequences.*
+  * *Polar Opposite on Spectrum:* **Face the music, be brought to book, pay the piper.**
+  * *Example:* *"In a rigorous engineering culture, a developer cannot simply **get away with** merging unverified pull requests without unit tests."*
+
+### B. Get Around
+* **Core Definition:** To circumvent, bypass, or find a clever loophole around an obstacle, regulation, or security constraint.
+  * *Single-word Equivalent:* *Circumvent, bypass, skirt, evade.*
+  * *Polar Opposite:* **Comply with, adhere strictly to, run up against.**
+  * *Example:* *"The cryptographic engineers designed a zero-knowledge protocol to **get around** the latency limits of centralized verification."*
+
+---
+
+## 4. Spectrum 3: Semantic Clarity and Pedagogical Transmission
+
+### A. Get Across
+* **Core Definition:** To successfully communicate, explain, or convey an idea, theorem, or emotional state so that it is clearly understood by the audience.
+  * *Single-word Equivalent:* *Convey, communicate, transmit, articulate.*
+  * *Antonym on Spectrum:* **Obfuscate, muddle, confuse.**
+  * *Example:* *"Despite the formidable differential geometry involved, the lecturer managed to **get across** the physical intuition of curved spacetime."*
+
+### B. Get Through To
+* **Core Definition:** To succeed in making someone understand your advice or feelings, especially when they are stubbornly defensive or emotionally closed.
+  * *Single-word Equivalent:* *Penetrate comprehension, resonate with.*
+  * *Idiom on Spectrum:* *Fall on deaf ears* (the opposite: total failure to penetrate).
+  * *Example:* *"The mentor tried repeatedly to warn the young founder about cash burn, but she simply could not **get through to** him."*
+
+---
+
+## 5. Spectrum 4: Scarcity, Subsistence, and Survival
+
+### A. Get By
+* **Core Definition:** To manage to survive or live with limited financial, technical, or cognitive resources; to scrape along.
+  * *Single-word Equivalent:* *Subsist, scrape by, manage, survive.*
+  * *Polar Opposites:* **Flourish, thrive, prosper, luxuriate.**
+  * *Example:* *"During his undergraduate years, he **got by** on instant ramen and secondhand physics textbooks while maintaining a top GPA."*
+
+---
+
+## 6. Spectrum 5: Social Dynamics and Execution Velocity
+
+### A. Get Along (or Get On) With
+* **Core Definition:** To have a harmonious, cooperative, or friendly relationship with someone.
+  * *Single-word Equivalent:* *Cooperate, harmonize, cohere.*
+  * *Polar Opposite:* **Clash, feud, bicker, fall out with.**
+  * *Example:* *"High-velocity software engineering requires developers and product managers to **get along** constructively even during high-pressure crunches."*
+
+### B. Get Around To
+* **Core Definition:** To finally find the time, discipline, or opportunity to execute a task that has been lingering on one's backlog.
+  * *Single-word Equivalent:* *Attend to, execute, address.*
+  * *Polar Opposite:* **Procrastinate, defer, kick the can down the road.**
+  * *Example:* *"I finally **got around to** refactoring our database indexing strategy after months of latency complaints."*
+
+---
+
+## 7. Comparative Quick-Reference Matrix
+
+| Phrasal Verb | Semantic Axis | High-Register Single Verb | Antonymic Phrasal / Single Verb |
+| :--- | :--- | :--- | :--- |
+| **Get over** | Recovery | *Transcend, surmount* | *Brood over, dwell on* |
+| **Get away with** | Evasion | *Evade penalty, skirt* | *Face the music, pay the piper* |
+| **Get around** | Circumvention | *Circumvent, bypass* | *Comply with, adhere to* |
+| **Get across** | Communication | *Articulate, convey* | *Muddle, obfuscate* |
+| **Get through to** | Penetration | *Resonate with, reach* | *Fall on deaf ears* |
+| **Get by** | Subsistence | *Subsist, scrape by* | *Flourish, thrive* |
+| **Get along with** | Harmony | *Harmonize, cooperate* | *Clash, fall out with* |
+| **Get around to** | Execution | *Attend to, dispatch* | *Procrastinate, shelve* |
