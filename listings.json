@@ -1,0 +1,37 @@
+[
+  {
+    "listing": "/debate/index.html",
+    "items": [
+      "/debate/argument-construction-toulmin.html",
+      "/debate/formal-and-informal-fallacies.html"
+    ]
+  },
+  {
+    "listing": "/communication/index.html",
+    "items": [
+      "/communication/active-listening-and-empathy.html",
+      "/communication/clarity-and-brevity.html"
+    ]
+  },
+  {
+    "listing": "/grammar/index.html",
+    "items": [
+      "/grammar/parts-of-speech.html",
+      "/grammar/tenses-and-aspects.html"
+    ]
+  },
+  {
+    "listing": "/negotiation/index.html",
+    "items": [
+      "/negotiation/principled-negotiation.html",
+      "/negotiation/tactical-empathy-and-framing.html"
+    ]
+  },
+  {
+    "listing": "/vocabulary/index.html",
+    "items": [
+      "/vocabulary/academic-and-precise-lexicon.html",
+      "/vocabulary/latin-greek-roots.html"
+    ]
+  }
+]
