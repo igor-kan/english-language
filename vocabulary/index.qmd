@@ -1,0 +1,23 @@
+---
+title: "Vocabulary Acquisition & Etymological Lexicon"
+subtitle: "Systematic mastery of the English lexicon through morphology and root analysis."
+listing:
+  contents: .
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories]
+---
+
+## Overview
+
+A commanding vocabulary is not about ostentatious verbosity; it is about semantic resolution. Having the exact word prevents paragraphs of rambling qualification. 
+
+English is a composite language: a Germanic grammatical core overlaid with a massive Norman French, Latin, and Ancient Greek intellectual lexicon. By mastering root morphemes, prefixes, and suffixes, you unlock thousands of words deductively.
+
+### Modules in this Section
+* **Etymological Roots:** Latin and Greek affixes that govern academic, scientific, and legal discourse.
+* **Elevated Diction:** Precise vocabulary for critical analysis, philosophical debate, and technical literature.
+* **Idiomatic Nuance:** Collocations, phrasal verbs, and context-dependent connotation.

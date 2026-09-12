@@ -1,0 +1,21 @@
+---
+title: "Effective Communication & Discourse"
+subtitle: "The mechanics of clarity, conversational dynamics, and strategic listening."
+listing:
+  contents: .
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories]
+---
+
+## Overview
+
+Communication is not merely transmitting data; it is managing cognitive load in the mind of the listener or reader. Whether drafting an engineering specification, leading an asynchronous team, or addressing an auditorium, clarity is achieved through structure, brevity, and empathetic perspective-taking.
+
+### Modules in this Section
+* **Clarity & Brevity:** Eliminating bureaucratic obfuscation and implementing the Minto Pyramid Principle.
+* **Conversational Psychology:** High-fidelity active listening, managing status differentials, and emotional resonance.
+* **Technical and Executive Prose:** Structuring RFCs, incident postmortems, and persuasive proposals.

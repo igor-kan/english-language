@@ -1,0 +1,33 @@
+---
+title: "The Toulmin Model of Argumentation"
+subtitle: "Deconstructing persuasive reasoning into an airtight, defensible framework."
+description: "How to assemble Claims, Grounds, Warrants, Backings, Qualifiers, and Rebuttals to form bulletproof dialectic arguments."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Debate, Logic, Argumentation]
+---
+
+## Beyond Syllogisms
+
+While classical Aristotelian syllogisms (*All men are mortal...*) provide mathematical elegance, practical human debate deals with probabilistic evidence and contingent reality. British philosopher Stephen Toulmin developed a practical model that mirrors how robust arguments function in law, academia, and policy.
+
+## The Six Elements of the Toulmin Model
+
+```
+   [ Grounds / Data ] ────────( Warrant )────────> [ Claim ]
+                             │                      ▲
+                         ( Backing )                │
+                                              ( Qualifier )
+                                                    ▲
+                                                    │
+                                              ( Rebuttal )
+```
+
+1. **Claim:** The assertion you are asking the audience to accept (*"Our distributed system requires idempotent retry semantics"*).
+2. **Grounds (Data / Evidence):** The empirical facts or data verifying the assertion (*"Network partition metrics show 2.4% transient packet drops leading to duplicate billing events"*).
+3. **Warrant:** The underlying principle or logical bridge connecting the grounds to the claim (*"Duplicate billing causes immediate customer churn and financial audit failures"*).
+4. **Backing:** Additional evidence validating the warrant (*"Financial industry studies demonstrate a 40% churn rate after incorrect billing charges"*).
+5. **Qualifier:** The scope or degree of certainty (*"Under heavy cross-region network congestion, almost certainly..."*).
+6. **Rebuttal / Counter-Condition:** Explicitly addressing the conditions under which the claim would not hold (*"Unless transactions are secured via a strictly local atomic commit protocol"*).
+
+By systematically filling in all six slots, you protect your thesis from trivial dismissal and expose hidden assumptions in your opponent's case.

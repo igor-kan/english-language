@@ -1,0 +1,35 @@
+---
+title: "The Architecture of Brevity: The Minto Pyramid Principle"
+subtitle: "Structuring communication top-down to minimize audience cognitive fatigue."
+description: "Why leading with the conclusion (BLUF - Bottom Line Up Front) transforms technical writing and verbal clarity."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Communication, Writing, Strategy]
+---
+
+## The Flaw of Narrative Order
+
+In academic schoolwork, students are trained to write narratively: introduction, methodology, evidence, and finally the grand conclusion. In professional, technical, and executive environments, this structure fails. Readers are busy; they do not have time to solve a mystery novel to learn what action is required.
+
+## The Pyramid Principle
+
+Developed by Barbara Minto at McKinsey, the **Pyramid Principle** states that communications should always present ideas top-down:
+
+```
+          [ Conclusion / Action (BLUF) ]
+                        │
+       ┌────────────────┼────────────────┐
+   [ Key Reason 1 ] [ Key Reason 2 ] [ Key Reason 3 ]
+       │                │                │
+   [ Evidence ]     [ Evidence ]     [ Evidence ]
+```
+
+### Core Rules
+1. **Start with the Answer First:** State the recommendation, decision, or main finding in the very first sentence.
+2. **Group Arguments Vertically:** Summarize lower-level points under higher-level abstractions.
+3. **MECE (Mutually Exclusive, Collectively Exhaustive):** Ensure your supporting categories do not overlap and leave no critical blind spots.
+
+## Ruthless Editing for Fluff
+* Replace nominalizations with verbs (*"conduct an investigation"* $\to$ *"investigate"*).
+* Eliminate throat-clearing preambles (*"It is important to remember that..."* $\to$ delete).
+* Use active voice to anchor accountability (*"Mistakes were made"* $\to$ *"The deployment script dropped the production database"*).

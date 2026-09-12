@@ -1,0 +1,21 @@
+---
+title: "English Grammar Curriculum"
+subtitle: "The architectural framework of English syntax, morphology, and style."
+listing:
+  contents: .
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories]
+---
+
+## Overview
+
+Grammar is not a collection of arbitrary schoolhouse rules; it is the structural engineering of clarity. When syntax breaks, meaning collapses. This section provides a complete, rigorous taxonomy of English grammar from primary parts of speech to advanced rhetorical inversion.
+
+### Modules in this Section
+* **Taxonomy of Speech:** Categorizing nouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections.
+* **Tense and Aspect:** Mapping time, completion, and duration across the twelve canonical tense-aspect permutations.
+* **Sentence Architecture:** Independent vs. dependent clauses, coordination, subordination, and parallel construction.

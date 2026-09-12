@@ -1,0 +1,30 @@
+---
+title: "The Anatomy of Flawed Reasoning: A Catalog of Logical Fallacies"
+subtitle: "Detecting, naming, and dismantling unsound dialectical maneuvers."
+description: "From Strawman and Ad Hominem to Motte-and-Bailey and Begging the Question: how to expose invalid reasoning in real time."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Debate, Logic, Critical-Thinking]
+---
+
+## Why Fallacy Detection Matters
+
+A logical fallacy is an error in reasoning that invalidates an argument. In formal debate, fallacies are structural defects. In informal debate, they are frequently weaponized rhetorical distortions intended to distract, inflame, or obfuscate.
+
+## Classical Informal Fallacies
+
+### 1. The Strawman & Steelman
+* **Strawman:** Misrepresenting an opponent's argument into a cartoonish, exaggerated version that is easy to knock down.
+* **The Antidote (Steelman):** Before refuting an opponent, re-articulate their position in the strongest, most compelling terms possible. When you demolish the steelman, your victory is decisive.
+
+### 2. The Motte-and-Bailey Maneuver
+A dual-position rhetorical retreat:
+* **The Bailey (Bold, controversial assertion):** *"All written language tests should be abolished because language is entirely fluid."*
+* **The Motte (Modest, easily defensible fallback):** *"We just think students should have diverse assessment formats."*
+* When challenged on the radical Bailey, the debater retreats to the unassailable Motte, only to re-occupy the Bailey once scrutiny fades.
+
+### 3. Petitio Principii (Begging the Question)
+Assuming the truth of the conclusion in one of the premises (*"We must obey the rule because breaking the rule is impermissible"*).
+
+### 4. False Dilemma (Bifurcation)
+Presenting complex, nuanced spectra as a binary choice (*"Either we rewrite the entire monolith in Rust, or our infrastructure will collapse"*).

@@ -1,0 +1,23 @@
+---
+title: "About This Platform"
+subtitle: "The pedagogical philosophy and curriculum structure of English Mastery."
+author: "Igor Kan"
+date: "2026-09-12"
+---
+
+## Purpose and Vision
+
+Language is the cognitive operating system through which thought, persuasion, and intellectual collaboration occur. While colloquial fluency allows for basic communication, true mastery of the English language requires understanding its structural engineering:
+
+1. **Foundational Mechanics:** The syntax, morphology, and grammar rules that dictate clarity and eliminate ambiguity.
+2. **Precision Lexicon:** The etymological architecture of vocabulary that enables surgical semantic accuracy.
+3. **Applied Rhetoric:** The psychology of communication, conversational dynamics, and strategic listening.
+4. **Dialectic & Persuasion:** The frameworks of principled negotiation and formal debate.
+
+## Curriculum Architecture
+
+* **Grammar:** From fundamental parts of speech and tense aspect to complex clause subordination and inversion.
+* **Vocabulary:** Systematic acquisition through Greco-Roman roots, elevated academic registers, and contextual collocations.
+* **Communication:** Business prose, technical specification writing, active listening, and the Pyramid Principle.
+* **Negotiation:** Tactical empathy, BATNA analysis, calibrated questioning, and perceptual framing.
+* **Debate & Logic:** Toulmin argumentation, fallacy deconstruction, cross-examination, and poise under cognitive pressure.

@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "!GEMINI.md"
+    - "!README.md"
+
+author: "Igor Kan"
+
+website:
+  title: "English Mastery"
+  site-url: "https://igor-kan.github.io/english-language"
+  repo-url: "https://github.com/igor-kan/english-language"
+  description: "A comprehensive guide to English grammar, vocabulary, rhetoric, effective communication, negotiation, and debate."
+  page-footer: "© 2026 Igor Kan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: grammar/index.qmd
+        text: Grammar
+      - href: vocabulary/index.qmd
+        text: Vocabulary
+      - href: communication/index.qmd
+        text: Communication
+      - href: negotiation/index.qmd
+        text: Negotiation
+      - href: debate/index.qmd
+        text: Debate & Logic
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    math: true
+    code-fold: show
+    code-tools: true
+    code-copy: true
+    date-format: "YYYY-MM-DD"

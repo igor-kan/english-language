@@ -1,0 +1,28 @@
+---
+title: "Tense and Aspect: The 12 Temporal Configurations of English"
+subtitle: "Deconstructing time, duration, and completion across verbal paradigms."
+description: "A complete structural matrix of past, present, and future tenses combined with simple, continuous, perfect, and perfect continuous aspects."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Grammar, Verbs, Morphology]
+---
+
+## The Tense-Aspect Matrix
+
+English does not merely indicate *when* an event occurs (tense: Past, Present, Future). It communicates *how* that event unfolds in time (aspect: Simple, Progressive/Continuous, Perfect, Perfect Continuous). 
+
+Together, these form a $3 \times 4$ grid of twelve distinct temporal states:
+
+| Tense / Aspect | Simple | Continuous (Progressive) | Perfect | Perfect Continuous |
+| :--- | :--- | :--- | :--- | :--- |
+| **Present** | *I write* (habitual/fact) | *I am writing* (ongoing) | *I have written* (completed with present relevance) | *I have been writing* (duration leading to now) |
+| **Past** | *I wrote* (completed past) | *I was writing* (interrupted past) | *I had written* (past prior to another past) | *I had been writing* (past duration prior to past event) |
+| **Future** | *I will write* (volition/prediction) | *I will be writing* (ongoing future) | *I will have written* (completion before future marker) | *I will have been writing* (ongoing duration until future point) |
+
+## Semantic Nuances
+
+### 1. The Perfect Aspect ($Have + V_{3}$)
+The perfect aspect connects two distinct temporal frames. The present perfect (*"She has completed the proof"*) indicates that an event occurred in an unspecified past, but its consequence dictates current reality.
+
+### 2. The Stative Constraint
+Verbs of cognition, emotion, and possession (*know, believe, belong, love*) resist progressive aspects in standard English. Saying *"I am knowing the answer"* violates the aspectual boundary of stative verbs.

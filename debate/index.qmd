@@ -1,0 +1,21 @@
+---
+title: "Debating, Dialectic & Formal Logic"
+subtitle: "The mechanics of argument construction, cross-examination, and fallacy dismantling."
+listing:
+  contents: .
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories]
+---
+
+## Overview
+
+Debate is the crucible in which ideas are stress-tested against rigorous scrutiny. Effective debaters do not rely on oratorical bluster; they understand the structural architecture of deductive and inductive arguments, the Toulmin model of validation, and the precise mechanics of refutation.
+
+### Modules in this Section
+* **Argument Construction:** The Toulmin structural model (Claim, Grounds, Warrant, Backing, Qualifier, Rebuttal).
+* **Catalog of Fallacies:** Identifying and deconstructing cognitive and logical fallacies in real-time.
+* **Refutation & Poise:** Cross-examination tactics, time management, and turning opponent arguments to your advantage.

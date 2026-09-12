@@ -1,0 +1,23 @@
+---
+title: "The Analytical Lexicon: Words for Nuanced Intellectual Discourse"
+subtitle: "Precision terms for academic writing, critical review, and conceptual synthesis."
+description: "Mastering words that delineate subtle gradations of truth, evidence, causality, and argumentation."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Academic-Prose, Rhetoric]
+---
+
+## Precision in Intellectual Debate
+
+In rigorous technical and philosophical writing, approximations dilute force. Here are key terms that define exact analytical relationships:
+
+### Epistemic and Conceptual States
+* **Verisimilitude:** The appearance of being true or real; likelihood (*"The simulation captures the verisimilitude of fluid turbulence"*).
+* **Equivocal vs. Unequivocal:** Allowing the possibility of multiple meanings to deceive vs. leaving no doubt (*"The experimental data yielded an unequivocal validation"*).
+* **Parsimonious:** Frugal with resources or hypotheses; adhering to Occam's razor (*"A parsimonious mathematical model minimizes unnecessary parameters"*).
+* **Heuristic:** Practical, rule-of-thumb problem-solving methods that are not guaranteed to be optimal but suffice for immediate goals.
+
+### Rhetorical and Argumentative Verbs
+* **Corroborate:** To confirm or give support to a statement, theory, or finding with independent evidence.
+* **Obviate:** To remove a need or difficulty; prevent beforehand (*"Type safety obviates an entire class of runtime null-pointer exceptions"*).
+* **Delineate:** To describe or portray something precisely; outline the exact boundaries of a concept.

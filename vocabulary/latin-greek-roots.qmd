@@ -1,0 +1,31 @@
+---
+title: "The Morphological Engine: High-Leverage Latin and Greek Roots"
+subtitle: "Deconstructing polysyllabic English through classical affixes."
+description: "How understanding morphophonemic roots like tract, scrib, chron, and morph multiplies your passive and active vocabulary."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Vocabulary, Etymology, Morphology]
+---
+
+## The Power of Morphemic Decomposition
+
+Over 60% of English words—and upwards of 90% of technical, scientific, and academic terms—derive from Latin and Greek. Rather than memorizing words in isolation, studying roots provides a high-leverage compressive encoding.
+
+### Canonical Latin Stems
+* **Tract (to drag, draw):**
+  * *Abstract* (drawn away from concrete reality)
+  * *Protracted* (drawn out in duration)
+  * *Intractable* (not easily drawn or managed)
+* **Scrib / Script (to write):**
+  * *Proscribe* (to outlaw or condemn in writing)
+  * *Circumscribe* (to draw a boundary around; restrict)
+  * *Ascribe* (to attribute cause or origin to)
+* **Loqu / Locut (to speak):**
+  * *Elocution* (art of clear, expressive speech)
+  * *Grandiloquent* (pompous or bombastic speech)
+  * *Interlocutor* (a participant in a dialogue)
+
+### Canonical Greek Stems
+* **Chron (time):** *Anachronism, Synchronous, Chronic*
+* **Morph (form, shape):** *Amorphous, Polymorphism, Anthropomorphic*
+* **Path (feeling, disease):** *Antipathy, Apathy, Pathos, Idiopathic*

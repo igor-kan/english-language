@@ -1,0 +1,24 @@
+---
+title: "Principled Negotiation: The Harvard Project Framework"
+subtitle: "Separating people from problems and focusing on interests rather than positions."
+description: "Mastering BATNA, ZOPA, and objective criteria to transcend adversarial positional bargaining."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Negotiation, Strategy, Decision-Making]
+---
+
+## The Failure of Positional Bargaining
+
+Traditional negotiation frequently degenerates into positional trench warfare: Party A demands \$100, Party B offers \$60, and both haggle begrudgingly toward an arbitrary midpoint (\$80) where neither party is satisfied. 
+
+The Harvard Negotiation Project (Fisher & Ury, *Getting to Yes*) revolutionized this dynamic by shifting the focus from **positions** (what you say you want) to **interests** (why you want it).
+
+## The Four Pillars of Principled Negotiation
+
+1. **Separate the People from the Problem:** Deal directly with psychological friction, perceptual biases, and emotions without letting interpersonal conflict derail substantive issues.
+2. **Focus on Interests, Not Positions:** Behind opposed positions lie shared and compatible interests. A landlord wants reliable, steady cash flow; a tenant wants stability and predictability.
+3. **Invent Options for Mutual Gain:** Expand the pie before dividing it. Brainstorm creative trade-offs where you concede something low-cost to you that is high-value to your counterpart.
+4. **Insist on Using Objective Criteria:** Anchor terms to market rates, legal precedent, professional standards, or independent scientific benchmarks rather than sheer willpower.
+
+## The Strategic Lever: BATNA
+Your **BATNA** (*Best Alternative to a Negotiated Agreement*) is your ultimate source of power. If your alternative to an agreement is attractive, you can negotiate boldly. If your BATNA is catastrophic, you have little leverage. Always invest time cultivating a strong BATNA *before* entering the negotiation room.

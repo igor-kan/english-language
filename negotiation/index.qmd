@@ -1,0 +1,21 @@
+---
+title: "Tactical Negotiation & Rhetorical Persuasion"
+subtitle: "The science of high-stakes bargaining, tactical empathy, and win-win agreements."
+listing:
+  contents: .
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories]
+---
+
+## Overview
+
+Negotiation is not warfare; it is the art of collaborative problem-solving under conflicting interests. Every interpersonal transaction—from contract renewals and compensation discussions to everyday project prioritization—relies on structured negotiation frameworks.
+
+### Modules in this Section
+* **Principled Negotiation:** Harvard's Fisher and Ury framework (BATNA, ZOPA, interest separation).
+* **Tactical Empathy:** Black Swan hostage negotiation heuristics (Chris Voss methodology).
+* **Anchoring & Framing:** Cognitive bias exploitation, concession strategies, and calibrated questions.

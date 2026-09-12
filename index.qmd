@@ -1,0 +1,39 @@
+---
+title: "English Mastery"
+subtitle: "A systematic curriculum covering linguistic architecture, precision vocabulary, rhetoric, negotiation, and debate."
+page-layout: full
+---
+
+::: {.hero-banner}
+# English Mastery
+### A rigorous, systematic guide to the mechanics and art of the English language.
+:::
+
+::: {.card-grid}
+
+::: {.course-card}
+### [Grammar](grammar/index.qmd)
+Master syntax, morphology, clause architecture, and grammatical precision.
+:::
+
+::: {.course-card}
+### [Vocabulary](vocabulary/index.qmd)
+Expand your lexicon through etymology, Latin and Greek roots, and elevated diction.
+:::
+
+::: {.course-card}
+### [Communication](communication/index.qmd)
+Develop clarity, brevity, and emotional resonance in written and spoken discourse.
+:::
+
+::: {.course-card}
+### [Negotiation](negotiation/index.qmd)
+Apply tactical empathy, framing, and principled bargaining to high-stakes agreements.
+:::
+
+::: {.course-card}
+### [Debate & Logic](debate/index.qmd)
+Construct sound dialectical arguments and systematically dismantle logical fallacies.
+:::
+
+:::

@@ -1,0 +1,38 @@
+---
+title: "The Eight Parts of Speech: Functional Anatomy of English"
+subtitle: "A comprehensive taxonomy of words and their syntactic roles."
+description: "Deconstructing nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections with precision."
+author: "Igor Kan"
+date: "2026-09-12"
+categories: [Grammar, Fundamentals, Syntax]
+---
+
+## Introduction
+
+Every English sentence is an assemblage of words acting in coordinated syntactic roles. Traditional English grammar identifies eight primary parts of speech. Rather than memorizing dictionary labels, one must understand their functional behavior in context.
+
+## 1. Nouns ($N$) and Pronouns ($Pro$)
+* **Nouns:** Semantic anchors designating entities (concrete, abstract, collective, proper).
+* **Pronouns:** Deictic substitutions preventing repetitive strain. Critical distinctions include subjective (*I, he, they*), objective (*me, him, them*), possessive (*mine, his, theirs*), and reflexive (*myself, themselves*).
+
+## 2. Verbs ($V$)
+The engine of the sentence. Verbs convey action, occurrence, or state of being (*copular/linking verbs*). 
+* **Transitive:** Require a direct object ($S-V-O$: *"She analyzed the dataset"*).
+* **Intransitive:** Complete without an object ($S-V$: *"The engine stalled"*).
+* **Linking:** Connect a subject to a subject complement ($S-V-C$: *"The argument remains sound"*).
+
+## 3. Adjectives ($Adj$) and Adverbs ($Adv$)
+* **Adjectives:** Modify nominal elements, answering *which one*, *what kind*, or *how many*.
+* **Adverbs:** Modify verbs, adjectives, or entire clauses, answering *how*, *when*, *where*, or *to what degree*.
+
+## 4. Prepositions ($Prep$)
+Relational connectors establishing spatial, temporal, or logical vectors between nominal phrases and the rest of the clause (*in, on, through, beyond, despite*).
+
+## 5. Conjunctions ($Conj$)
+Structural joints binding words, phrases, or clauses:
+* **Coordinating (FANBOYS):** *For, And, Nor, But, Or, Yet, So* (joins syntactically equivalent units).
+* **Subordinating:** *Although, because, since, while, unless* (creates dependent clauses).
+* **Correlative:** Paired conjunctions (*neither/nor, either/or, not only/but also*).
+
+## 6. Interjections ($Int$)
+Autonomous affective exclamations syntactically independent of the sentence.
