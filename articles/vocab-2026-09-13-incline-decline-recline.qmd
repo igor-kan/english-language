@@ -35,3 +35,13 @@ Latin clīnāre (to lean, bend) ──┼── Recline / Recumbent (re- + clīn
                                ├── Disincline (dis- + in- + clīnāre: to lean away from)
                                └── Declension (dēclīnātiō: falling away from the nominative)
 ```
+
+```text
+PIE *ḱley- (to lean, tilt) ─────┬── Latin clīvus (slope) ──> Proclivity (prō- + clīvus: forward lean)
+                               │                         └── Acclivity (ad- + clīvus: upward slope)
+                               └── Greek klīnein (to lean) ──┬── klīnē (bed/couch) ──> Clinic / Clinical
+                                                             ├── klīmax (ladder/slope) ──> Climax / Anticlimax
+                                                             └── klīma (earth's slope) ──> Climate / Clime
+```
+
+***
