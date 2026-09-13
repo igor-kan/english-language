@@ -285,3 +285,8 @@ Inclination ───────> Propensity ───────> Predilectio
 ## 6. Syntactic Architecture & Prepositional Governance
 
 Precision in high-register English requires mastery of the exact prepositions governed by each morphemic variant:
+
+### Incline & Inclined
+* **Inclined to [infinitive verb]:** *"The appellate court is **inclined to affirm** the lower judge's ruling."*
+* **Inclined toward / to [noun phrase]:** *"A culture **inclined toward** introspection."*
+* **Inclination for / toward:** *"He lacked any natural **inclination for** administrative ledger-keeping."*
