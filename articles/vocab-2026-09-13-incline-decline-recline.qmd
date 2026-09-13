@@ -56,3 +56,5 @@ English exhibits a canonical phonological stress alternation between the verbal 
 
 ### Etymological Architecture
 Compounded from Latin prefix **in-** (into, toward, upon) + **clīnāre** (to bend or lean). Literally: *"to bend toward a direction."*
+
+### Dual Domains: Spatial Gradient vs. Cognitive Propensity
