@@ -58,3 +58,6 @@ English exhibits a canonical phonological stress alternation between the verbal 
 Compounded from Latin prefix **in-** (into, toward, upon) + **clīnāre** (to bend or lean). Literally: *"to bend toward a direction."*
 
 ### Dual Domains: Spatial Gradient vs. Cognitive Propensity
+
+#### A. Spatial & Mechanical Gradient
+As a noun, an **incline** is an ascending or descending slope, gradient, or angled surface (e.g., an inclined plane in Newtonian physics):
