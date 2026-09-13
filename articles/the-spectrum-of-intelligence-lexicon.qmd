@@ -98,6 +98,9 @@ This tier designates standard, conventional, or unremarkable intellectual perfor
 * **Quotidian** *(Adjective)*: Belonging to common daily reality; ordinary, conventional, lacking epistemic distinction.
 * **Prosaic** *(Adjective)*: Matter-of-fact, straightforward, but utterly devoid of poetic elegance or lateral intuition.
 * **Middling** *(Adjective)*: Moderate, average, undistinguished.
+* **Midwit** *(Noun / Attributive Adjective)*: Portmanteau of *middle* and *wit*. Denotes an individual of median intellectual capacity who suffers from unearned epistemic arrogance, reflexively complicating simple, functional truths with fashionable institutional jargon while lacking the first-principles clarity of true genius.
+  * *Usage*: *"The committee's midwit consensus rejected the streamlined proposal in favor of an unworkable, overly bureaucratized procedure."*
+
 
 ---
 
