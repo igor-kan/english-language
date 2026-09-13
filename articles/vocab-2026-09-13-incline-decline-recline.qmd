@@ -379,3 +379,4 @@ D) There is no phonological distinction; both are pronounced identically.
 2. **D — Proclivity.** While *inclination* is neutral, *predilection* implies refined taste, and *penchant* suggests a harmless habit, *proclivity* specifically denotes a natural leaning toward vice, ethical compromise, or dangerous behavior.
 3. **B — An acclivity.** An *acclivity* (Latin *ad-* toward + *clīvus* slope) is an ascending slope viewed from below. A *declivity* (Latin *dē-* down + *clīvus*) is a downward slope viewed from above.
 4. **A — Civility vs. confrontation.** *Decline* expresses polite, respectful non-acceptance that preserves diplomatic decorum. *Refuse* represents a direct, willful boundary that rejects compliance.
+5. **C — The bedside couch.** Greek *klīnē* meant a bed or dining couch (literally "that on which one reclines," from *klīnein* to lean). A *klinikos* was a physician who attended bedridden patients; hence, a *clinic* originated as bedside medicine.
