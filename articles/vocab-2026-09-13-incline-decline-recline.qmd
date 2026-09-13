@@ -364,3 +364,11 @@ A) It was originally a hillside sanatorium built on an incline to capture fresh 
 B) It derives from Greek *klīnein* (to tilt), referring to the surgical tilting of treatment tables.  
 C) It derives from Greek *klīnē* (a bed or couch), referring to a physician who examined a reclining patient at bedside.  
 D) It derives from the clinical thermometer, an early inclinometer for measuring mercury rise.  
+
+#### 6. Identify the phonological distinction between the noun and verb forms of "incline":
+A) The noun is pronounced with a short /ɪ/ and the verb with a long /aɪ/.  
+B) The noun takes initial syllable stress (/ˈɪn.klaɪn/), while the verb takes terminal syllable stress (/ɪnˈklaɪn/).  
+C) The noun is pronounced with a silent 'c', while the verb voices both consonants.  
+D) There is no phonological distinction; both are pronounced identically.  
+
+***
