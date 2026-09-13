@@ -92,3 +92,8 @@ To **disincline** someone is to make them unwilling, reluctant, or averse. The p
 
 
 ## 2. Decline & Declined (Verb & Noun)
+
+### Phonetic Architecture
+Unlike *incline*, *decline* retains its second-syllable stress in both parts of speech:
+* **Verb:** /dɪˈklaɪn/ (*de-CLINE*)
+* **Noun:** /dɪˈklaɪn/ (*de-CLINE*)
