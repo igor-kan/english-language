@@ -186,3 +186,6 @@ Standing ───> Sitting Upright ───> RECLINING ───> Recumbent / 
 * **Sprawling:** Spreading out limbs irregularly, haphazardly, and awkwardly across furniture or the ground.
 * **Slouching:** Poor spinal posture characterized by hunched shoulders and a curved back, signaling fatigue, boredom, or apathy.
 * **Reposing:** A literary and philosophical state of profound rest and mental tranquility.
+
+### Historical & Cultural Resonance: The Roman Triclinium
+In classical antiquity, dining was not conducted sitting upright on chairs. In ancient Rome and Greece, citizens celebrated banquets reclining on three-sided couches known as the **triclinium** (from Greek *treis* three + *klinē* couch).
