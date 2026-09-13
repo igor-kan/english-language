@@ -132,3 +132,4 @@ In communicative registers, to *decline* is to turn down an invitation, nominati
 | Lexical Item | Pragmatic Force | Interpersonal Register | Emotional Valence |
 | :--- | :--- | :--- | :--- |
 | **Decline** | Civil, polite non-acceptance of an offer. | Diplomatic, formal, courteous. | Neutral / Regretful. |
+| **Refuse** | Direct, categorical withholding of consent or compliance. | Direct, assertive, contractual. | Firm / Obstinate. |
