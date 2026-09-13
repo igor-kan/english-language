@@ -338,3 +338,11 @@ A) Because irregular nouns inevitably decay and lose their consonants over centu
 B) Because the subject (nominative case) was viewed as standing upright (*casus rectus*), while all other cases were conceived as "leaning away" or "falling off" (*casus obliquus*).  
 C) Because early scribes wrote case endings along a declining diagonal line on parchment.  
 D) Because Latin scholars believed vernacular dialects were a moral decline from classical standards.  
+
+#### 2. Which word best completes the following sentence with the appropriate formal, pejorative nuance?
+> *"The auditor noticed that the senior accountant had an alarming ________ for approving unvouched expenditures under pressure."*
+
+A) inclination  
+B) predilection  
+C) penchant  
+D) proclivity  
