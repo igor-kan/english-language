@@ -358,3 +358,9 @@ A) "Declined" conveys a courteous, civil non-acceptance, whereas "refused" commu
 B) "Declined" implies the diplomat accepted partially, whereas "refused" implies absolute absence.  
 C) "Declined" is reserved strictly for written invitations, while "refused" is for verbal ones.  
 D) There is no pragmatic difference; they are exact interchangeable synonyms.  
+
+#### 5. How does the medical term "clinic" trace its etymological lineage back to the PIE root \*ḱley-?
+A) It was originally a hillside sanatorium built on an incline to capture fresh air.  
+B) It derives from Greek *klīnein* (to tilt), referring to the surgical tilting of treatment tables.  
+C) It derives from Greek *klīnē* (a bed or couch), referring to a physician who examined a reclining patient at bedside.  
+D) It derives from the clinical thermometer, an early inclinometer for measuring mercury rise.  
