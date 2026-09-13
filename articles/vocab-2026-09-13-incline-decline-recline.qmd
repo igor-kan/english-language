@@ -277,3 +277,6 @@ Inclination ───────> Propensity ───────> Predilectio
 2. **Propensity:** A deeper, enduring behavioral pattern rooted in psychology or genetics (*"a propensity for aggressive risk-taking"*).
 3. **Predilection:** A subjective bias or fond partiality for something aesthetically pleasing or intellectual (*"a predilection for 18th-century French literature"*).
 4. **Proclivity:** A stubborn leaning, often requiring moral effort to restrain (*"a proclivity toward cynicism and suspicion"*).
+5. **Penchant:** A recurring habit or appetite for a specific indulgence (*"a penchant for expensive Havana cigars"*).
+
+***
