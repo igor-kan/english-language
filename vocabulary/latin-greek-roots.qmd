@@ -24,6 +24,12 @@ Over 60% of English words—and upwards of 90% of technical, scientific, and aca
   * *Elocution* (art of clear, expressive speech)
   * *Grandiloquent* (pompous or bombastic speech)
   * *Interlocutor* (a participant in a dialogue)
+* **Clin / Cliv (to lean, bend, slope):**
+  * *Incline* (to bend toward; natural disposition or physical gradient)
+  * *Decline* (to slope downward; gradual decay; polite refusal)
+  * *Recline* (to lean backward; recumbent posture of repose)
+  * *Proclivity* (a natural or habitual forward leaning; propensity)
+  * *Declivity* (a downward topographical slope)
 
 ### Canonical Greek Stems
 * **Chron (time):** *Anachronism, Synchronous, Chronic*
