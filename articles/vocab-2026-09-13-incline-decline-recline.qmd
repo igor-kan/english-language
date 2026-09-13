@@ -4,3 +4,12 @@ subtitle: "Deconstructing physical slopes, psychological propensities, civilizat
 description: "A comprehensive linguistic masterclass exploring the Latin root clināre and PIE *ḱley-—tracing how physical gradients transform into cognitive predispositions, social manners, and architectural lexicons."
 date: "2026-09-13"
 categories: [vocabulary, morphology, etymology, lexical-deep-dive, cognitive-states]
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    minimal: true
+---
