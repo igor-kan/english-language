@@ -243,3 +243,4 @@ From Latin *clīvus* (slope, hillside):
 | Greek Stem | English Derivative | Original Morphemic Meaning | Modern Semantic Field |
 | :--- | :--- | :--- | :--- |
 | **klīnē** (bed, couch) | **Clinic / Clinical** | Pertaining to a bed (where the sick person reclines). | Bedside medicine; detached, objective observation. |
+| **klīmax** (ladder, staircase) | **Climax / Anticlimax** | A sloping staircase or ladder to climb. | The culmination of ascending intensity or drama. |
