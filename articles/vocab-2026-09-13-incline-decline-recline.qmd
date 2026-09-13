@@ -103,3 +103,11 @@ Formed from Latin **dē-** (down from, away) + **clīnāre** (to bend). Literall
 
 ### The Tripartite Semantic Divergence
 The word *decline* has branched into three distinct pragmatic arenas:
+
+```text
+                     ┌── Physical & Topographical Descent (downward slope, declivity)
+                     │
+DECLINE ─────────────┼── Biological, Temporal & Civilizational Decay (gradual deterioration)
+(dē- + clīnāre)      │
+                     └── Social & Diplomatic Volition (polite refusal of an offer)
+```
