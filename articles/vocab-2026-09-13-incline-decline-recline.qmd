@@ -290,3 +290,10 @@ Precision in high-register English requires mastery of the exact prepositions go
 * **Inclined to [infinitive verb]:** *"The appellate court is **inclined to affirm** the lower judge's ruling."*
 * **Inclined toward / to [noun phrase]:** *"A culture **inclined toward** introspection."*
 * **Inclination for / toward:** *"He lacked any natural **inclination for** administrative ledger-keeping."*
+
+### Decline
+* **Decline [direct object] (transitive):** *"She gracefully **declined the ambassadorial post**."*
+* **Decline to [infinitive verb]:** *"The CEO **declined to answer** questions regarding the internal audit."*
+* **Decline in [noun] (intransitive):** *"A catastrophic **decline in** manufacturing output."*
+* **Decline by [percentage/amount]:** *"Revenues **declined by** seven percent year-over-year."*
+* **On the decline:** *"Once a formidable maritime power, their fleet was now decidedly **on the decline**."*
