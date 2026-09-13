@@ -143,3 +143,6 @@ In communicative registers, to *decline* is to turn down an invitation, nominati
   Decline ───────────> Refuse ───────────> Reject ───────────> Repudiate ───────────> Spurn
 (Courteous)            (Firm)             (Evaluative)           (Formal Disavowal)     (Contemptuous)
 ```
+
+### The Grammatical Legacy: Declension
+In historical linguistics and classical grammar (Latin, Greek, Sanskrit, Russian, German), nouns, pronouns, and adjectives do not conjugate—they **decline** into different cases.
