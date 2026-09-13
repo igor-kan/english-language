@@ -148,3 +148,10 @@ In communicative registers, to *decline* is to turn down an invitation, nominati
 In historical linguistics and classical grammar (Latin, Greek, Sanskrit, Russian, German), nouns, pronouns, and adjectives do not conjugate—they **decline** into different cases.
 * **Why "declension"?** Classical grammarians conceived of the **nominative case** (the subject) as standing perfectly erect and upright (*casus rectus*).
 * Every other case—accusative, genitive, dative, ablative—was viewed as having *"fallen away"* or *"sloped down"* (*casus obliquus* $\to$ oblique cases). Hence, traversing the case endings of a noun is called *declension*!
+
+### High-Register Collocations
+* *A precipitous / steady / terminal decline*
+* *Decline an invitation / appointment / honour*
+* *Decline comment* (press/legal register)
+* *In steep economic decline*
+* *On the decline*
