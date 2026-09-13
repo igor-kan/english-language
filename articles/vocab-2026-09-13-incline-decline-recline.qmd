@@ -275,3 +275,4 @@ Inclination ───────> Propensity ───────> Predilectio
 ```
 1. **Inclination:** A flexible, mild tendency that can easily be altered by new evidence or courtesy (*"an inclination toward compromise"*).
 2. **Propensity:** A deeper, enduring behavioral pattern rooted in psychology or genetics (*"a propensity for aggressive risk-taking"*).
+3. **Predilection:** A subjective bias or fond partiality for something aesthetically pleasing or intellectual (*"a predilection for 18th-century French literature"*).
