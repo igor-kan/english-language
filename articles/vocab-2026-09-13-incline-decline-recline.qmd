@@ -121,3 +121,4 @@ In sociology, economics, and biology, *decline* describes a progressive, non-cat
 * It differs crucially from **collapse**, **ruin**, or **catastrophe**, which denote sudden rupture. A *decline* is protracted, structural, and often imperceptible to those living through it.
 * **Edward Gibbon's Archetype:** Edward Gibbon immortalized this register in *The History of the Decline and Fall of the Roman Empire* (1776), cementing "decline" as the slow organic rot that precedes political extinction.
 * **Cognitive decline:** The progressive attenuation of neurological function in neurodegenerative pathology.
+* **Secular economic decline:** A multi-decade structural contraction rather than a transient cyclical recession.
