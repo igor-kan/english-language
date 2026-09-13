@@ -244,3 +244,6 @@ From Latin *clīvus* (slope, hillside):
 | :--- | :--- | :--- | :--- |
 | **klīnē** (bed, couch) | **Clinic / Clinical** | Pertaining to a bed (where the sick person reclines). | Bedside medicine; detached, objective observation. |
 | **klīmax** (ladder, staircase) | **Climax / Anticlimax** | A sloping staircase or ladder to climb. | The culmination of ascending intensity or drama. |
+| **klīma** (inclination / tilt) | **Climate / Clime** | The slope of the Earth's surface relative to solar rays. | Long-term meteorological patterns of a region. |
+
+***
