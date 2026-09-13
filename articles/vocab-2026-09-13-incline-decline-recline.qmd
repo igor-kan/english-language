@@ -172,3 +172,10 @@ Derived from Latin **re-** (back, backward) + **clīnāre** (to lean). Literally
 
 ### Physical Recumbency vs. Postural Nuances
 To **recline** is to assume a resting position where the torso leans back against a support, positioned midway between sitting upright and lying completely horizontal (*recumbent*).
+
+```text
+[ The Spectrum of Human Posture ]
+
+Standing ───> Sitting Upright ───> RECLINING ───> Recumbent / Supine ───> Prostrate
+(Vigilant)      (Formal)           (Reposeful)        (Flat / Asleep)        (Vulnerable)
+```
