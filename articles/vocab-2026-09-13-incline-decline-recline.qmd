@@ -346,3 +346,9 @@ A) inclination
 B) predilection  
 C) penchant  
 D) proclivity  
+
+#### 3. If an engineer standing at the base of a ravine looks upward along a 35-degree rock face, what topographical feature is she observing?
+A) A declivity  
+B) An acclivity  
+C) A recumbency  
+D) A declension  
