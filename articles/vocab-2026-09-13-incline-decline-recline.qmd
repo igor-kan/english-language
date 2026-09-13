@@ -255,3 +255,4 @@ From Latin *clīvus* (slope, hillside):
 
 | Morphemic Variant | Lexeme | Part of Speech | Directional Force | Conceptual Realm | High-Register Collocation |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| *in- + clīnāre* | **Incline** | Verb / Noun | Forward / Toward | Spatial tilt; mental leaning | *Inclined to agree; steep incline* |
