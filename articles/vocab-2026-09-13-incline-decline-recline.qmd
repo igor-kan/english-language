@@ -223,3 +223,14 @@ From Latin *clīvus* (slope, hillside):
   * *"From the summit, the rangers peered into the mist-shrouded **declivity** below."*
 * **Acclivity (Noun):** An upward slope or ascent, viewed from the bottom looking up:
   * *"The infantry struggled under full pack to advance up the rocky **acclivity**."*
+
+```text
+     Observer at Summit
+           ▼
+           \  (Looking Down = DECLIVITY)
+            \
+             \  (Looking Up = ACCLIVITY)
+              \
+               ▲
+        Observer at Base
+```
