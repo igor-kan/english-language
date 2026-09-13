@@ -166,3 +166,6 @@ In historical linguistics and classical grammar (Latin, Greek, Sanskrit, Russian
 ### Phonetic Architecture
 * **Verb:** /rɪˈklaɪn/ (*re-CLINE*)
 * **Adjective:** /rɪˈklaɪnd/ (*re-CLINED*) or /ˈrek.laɪ.nɪŋ/ (*REC-lin-ing*)
+
+### Etymological Architecture
+Derived from Latin **re-** (back, backward) + **clīnāre** (to lean). Literally: *"to lean back, bend backward into repose."*
