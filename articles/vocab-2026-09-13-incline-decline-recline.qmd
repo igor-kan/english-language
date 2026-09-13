@@ -210,3 +210,8 @@ The morphemic power of the *clīnāre* / *\*ḱley-* root radiates throughout En
 ### 1. Proclivity (Noun)
 * **Etymology:** Latin *prōclīvitās* from *prōclīvis* (*prō-* forward + *clīvus* slope $\to$ sloping forward, prone to falling).
 * **Semantic Core:** A natural or habitual inclination or tendency, particularly toward something undesirable, hazardous, indulgent, or controversial.
+* **Nuance Contrast:**
+  * One has an *inclination* for mathematics (neutral/positive).
+  * One has a *predilection* for Italian Renaissance art (refined personal taste).
+  * One has a *propensity* for impulsive decisions (psychological tendency).
+  * One has a **proclivity** toward conspiracy theories, gossip, or litigation (habitual leaning, often carrying a pejorative or cautionary undertone).
