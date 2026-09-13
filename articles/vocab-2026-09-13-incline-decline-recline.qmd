@@ -260,3 +260,5 @@ From Latin *clīvus* (slope, hillside):
 | *dē- + clīnāre* | **Decline** | Verb / Noun | Downward / Aside | Deterioration; courteous refusal | *Precipitous decline; decline an offer* |
 | *re- + clīnāre* | **Recline** | Verb | Backward | Postural repose; leisure | *Languidly recline; reclining seat* |
 | *prō- + clīvus* | **Proclivity** | Noun | Downward slope | Habitual vice or idiosyncratic trait | *Proclivity for exaggeration* |
+| *dē- + clīvus* | **Declivity** | Noun | Downward | Physical topography | *Forested declivity* |
+| *ad- + clīvus* | **Acclivity** | Noun | Upward | Physical topography | *Arduous acclivity* |
