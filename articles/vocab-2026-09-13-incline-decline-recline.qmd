@@ -332,3 +332,9 @@ Read the following passage from a historical analysis of the late Byzantine empi
 ## 8. Knowledge Retention & Conceptual Mastery Quiz
 
 Test your grasp of the etymological roots, semantic nuances, and syntactic prepositions of the *clināre* family:
+
+#### 1. In historical linguistics and classical grammar, why is the inflection of a noun through its case endings termed a "declension"?
+A) Because irregular nouns inevitably decay and lose their consonants over centuries.  
+B) Because the subject (nominative case) was viewed as standing upright (*casus rectus*), while all other cases were conceived as "leaning away" or "falling off" (*casus obliquus*).  
+C) Because early scribes wrote case endings along a declining diagonal line on parchment.  
+D) Because Latin scholars believed vernacular dialects were a moral decline from classical standards.  
