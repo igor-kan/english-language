@@ -264,3 +264,12 @@ From Latin *clīvus* (slope, hillside):
 | *ad- + clīvus* | **Acclivity** | Noun | Upward | Physical topography | *Arduous acclivity* |
 | *klīnē* (Greek) | **Clinical** | Adjective | Bedside / Couch | Medical; dispassionately analytical | *Clinical detachment* |
 | *klīmax* (Greek) | **Climax** | Noun | Ladder / Step | Rhetorical crescendo; peak event | *Emotional climax; anticlimactic* |
+
+### Matrix 2: Nuance Spectrum of Mental Tendency
+
+```text
+[ Spectrum of Dispositional Bias ]
+
+Inclination ───────> Propensity ───────> Predilection ───────> Proclivity ───────> Compulsion
+ (Mild lean)        (Deep tendency)     (Favored taste)       (Habitual vice)     (Involuntary drive)
+```
