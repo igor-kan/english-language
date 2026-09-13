@@ -274,3 +274,4 @@ Inclination ───────> Propensity ───────> Predilectio
  (Mild lean)        (Deep tendency)     (Favored taste)       (Habitual vice)     (Involuntary drive)
 ```
 1. **Inclination:** A flexible, mild tendency that can easily be altered by new evidence or courtesy (*"an inclination toward compromise"*).
+2. **Propensity:** A deeper, enduring behavioral pattern rooted in psychology or genetics (*"a propensity for aggressive risk-taking"*).
