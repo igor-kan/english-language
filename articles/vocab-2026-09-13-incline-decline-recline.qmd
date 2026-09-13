@@ -20,3 +20,10 @@ format:
 In cognitive linguistics, few physical experiences shape our abstract vocabulary as profoundly as the simple concept of **tilting**. Human beings navigate a gravitational world: standing upright signals alertness, sovereignty, and strength; leaning forward suggests desire, curiosity, or movement; leaning backward reflects relaxation, withdrawal, or defensive skepticism; and sloping downward connotes decay, deterioration, and yielding.
 
 At the epicenter of this conceptual architecture sits a single Latin verb root: **clināre** (to bend, slope, lean), which in turn springs from the Proto-Indo-European root **\*ḱley-** (to lean, tilt).
+
+From this generative morpheme, English has constructed a rich constellation of high-register terms that govern:
+1. **Physical topography and mechanics:** *incline*, *decline*, *declivity*, *acclivity*, *inclinometer*.
+2. **Cognitive predispositions and epistemic leanings:** *inclination*, *disinclined*, *proclivity*, *propensity*.
+3. **Historical trajectories and polite social interactions:** *decline* (decay vs. civil refusal), *declension*.
+4. **Physical postures of repose:** *recline*, *recliner*, *recumbent*.
+5. **Medical and rhetorical Greek cognates:** *clinic* (the bedside couch), *climax* (the ascending ladder), *climate* (the slope of the earth to the sun).
