@@ -221,3 +221,5 @@ The morphemic power of the *clīnāre* / *\*ḱley-* root radiates throughout En
 From Latin *clīvus* (slope, hillside):
 * **Declivity (Noun):** A downward slope or descent, viewed from the perspective of an observer looking down:
   * *"From the summit, the rangers peered into the mist-shrouded **declivity** below."*
+* **Acclivity (Noun):** An upward slope or ascent, viewed from the bottom looking up:
+  * *"The infantry struggled under full pack to advance up the rocky **acclivity**."*
