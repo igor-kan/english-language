@@ -53,3 +53,6 @@ PIE *ḱley- (to lean, tilt) ─────┬── Latin clīvus (slope) ─�
 English exhibits a canonical phonological stress alternation between the verbal and nominal forms of this word:
 * **Verb:** /ɪnˈklaɪn/ (*in-CLINE*) — iambic stress on the second syllable.
 * **Noun:** /ˈɪn.klaɪn/ (*IN-cline*) — trochaic stress on the first syllable.
+
+### Etymological Architecture
+Compounded from Latin prefix **in-** (into, toward, upon) + **clīnāre** (to bend or lean). Literally: *"to bend toward a direction."*
