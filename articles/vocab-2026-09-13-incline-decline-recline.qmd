@@ -162,3 +162,7 @@ In historical linguistics and classical grammar (Latin, Greek, Sanskrit, Russian
 
 
 ## 3. Recline & Reclined (Verb & Adjective)
+
+### Phonetic Architecture
+* **Verb:** /rɪˈklaɪn/ (*re-CLINE*)
+* **Adjective:** /rɪˈklaɪnd/ (*re-CLINED*) or /ˈrek.laɪ.nɪŋ/ (*REC-lin-ing*)
