@@ -2,3 +2,4 @@
 title: "The Architecture of Tilts and Tendencies: Mastering the Clināre Family ('Incline', 'Decline', 'Recline', 'Proclivity')"
 subtitle: "Deconstructing physical slopes, psychological propensities, civilizational decay, polite refusals, and recumbent postures."
 description: "A comprehensive linguistic masterclass exploring the Latin root clināre and PIE *ḱley-—tracing how physical gradients transform into cognitive predispositions, social manners, and architectural lexicons."
+date: "2026-09-13"
