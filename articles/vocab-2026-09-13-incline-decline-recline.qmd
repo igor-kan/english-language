@@ -16,3 +16,5 @@ format:
 
 
 # Introduction: The Embodied Geometry of Tilts
+
+In cognitive linguistics, few physical experiences shape our abstract vocabulary as profoundly as the simple concept of **tilting**. Human beings navigate a gravitational world: standing upright signals alertness, sovereignty, and strength; leaning forward suggests desire, curiosity, or movement; leaning backward reflects relaxation, withdrawal, or defensive skepticism; and sloping downward connotes decay, deterioration, and yielding.
