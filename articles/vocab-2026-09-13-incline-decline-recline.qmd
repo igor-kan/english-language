@@ -374,3 +374,5 @@ D) There is no phonological distinction; both are pronounced identically.
 ***
 
 ### Answer Key & Linguistic Rationales
+
+1. **B — The upright vs. oblique cases.** In Greco-Roman grammatical theory, the nominative case was the "upright" form (*casus rectus*). Every oblique case (genitive, dative, accusative, ablative) was analyzed as a deviation or downward tilt (*casus obliquus*, from *dēclīnāre* $\to$ *dēclīnātiō*).
