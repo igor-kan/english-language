@@ -136,3 +136,10 @@ In communicative registers, to *decline* is to turn down an invitation, nominati
 | **Reject** | Dismissal based on deficiency, inadequacy, or incompatibility. | Evaluative, judicial, analytical. | Critical / Severing. |
 | **Spurn** | Rejection accompanied by contempt, disdain, or scorn. | Literary, emotional, dramatic. | Arrogant / Contemptuous. |
 | **Repudiate** | Formal, public disavowal of authority, treaty, or paternity. | Legal, political, philosophical. | Solemn / Final. |
+
+```text
+[ The Refusal Continuum: Courtesy to Contempt ]
+
+  Decline ───────────> Refuse ───────────> Reject ───────────> Repudiate ───────────> Spurn
+(Courteous)            (Firm)             (Evaluative)           (Formal Disavowal)     (Contemptuous)
+```
