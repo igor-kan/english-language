@@ -262,3 +262,5 @@ From Latin *clīvus* (slope, hillside):
 | *prō- + clīvus* | **Proclivity** | Noun | Downward slope | Habitual vice or idiosyncratic trait | *Proclivity for exaggeration* |
 | *dē- + clīvus* | **Declivity** | Noun | Downward | Physical topography | *Forested declivity* |
 | *ad- + clīvus* | **Acclivity** | Noun | Upward | Physical topography | *Arduous acclivity* |
+| *klīnē* (Greek) | **Clinical** | Adjective | Bedside / Couch | Medical; dispassionately analytical | *Clinical detachment* |
+| *klīmax* (Greek) | **Climax** | Noun | Ladder / Step | Rhetorical crescendo; peak event | *Emotional climax; anticlimactic* |
