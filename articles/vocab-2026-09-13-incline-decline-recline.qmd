@@ -234,3 +234,6 @@ From Latin *clīvus* (slope, hillside):
                ▲
         Observer at Base
 ```
+
+### 3. Scientific Instrumentation: Clinometer & Inclinometer
+* **Clinometer / Inclinometer:** An instrument used in surveying, geophysics, civil engineering, and aviation to measure angles of slope, tilt, elevation, or depression of an object relative to gravity's direction.
