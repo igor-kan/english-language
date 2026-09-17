@@ -1,0 +1,184 @@
+---
+title: "Dependent Prepositions: The Complete Reference to Verb, Adjective, and Noun Collocations"
+subtitle: "Why we 'depend on', are 'good at', and have 'a reason for' — mastering English's prepositional partners."
+description: "A comprehensive reference to dependent prepositions: the prepositions that verbs, adjectives, and nouns require, meaning shifts when the preposition changes, and the most common learner errors."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Grammar, Prepositions, Collocation, Lexical-Deep-Dive, Syntax]
+---
+
+## Introduction: Prepositions Are Lexical, Not Logical
+
+There is usually no logical reason why English says *depend **on*** rather than *depend **of***, or *interested **in*** rather than *interested **on***. Preposition choice after a given word is largely a matter of **collocation** — historical convention, not meaning. This makes **dependent prepositions** one of the hardest parts of English to master and one of the most reliable markers of a native speaker.
+
+A **dependent preposition** is the preposition that a particular verb, adjective, or noun "governs" — its required partner. This reference maps the most important patterns.
+
+---
+
+## 1. Verb + Preposition
+
+| Verb + Preposition | Meaning | Example |
+| :--- | :--- | :--- |
+| **depend on / rely on** | be contingent upon | *"Success **depends on** preparation."* |
+| **belong to** | be owned by / a member of | *"This **belongs to** her."* |
+| **consist of / comprise** | be made up of | *"The team **consists of** six members."* |
+| **apologize for** | express regret for | *"He **apologized for** the delay."* |
+| **insist on** | demand firmly | *"She **insisted on** paying."* |
+| **object to** | oppose | *"They **objected to** the proposal."* |
+| **refer to** | mention / consult | *"Please **refer to** the appendix."* |
+| **comply with** | act in accordance with | *"All staff must **comply with** the rules."* |
+| **account for** | explain / constitute | *"This **accounts for** 30% of sales."* |
+| **result in / result from** | cause / be caused by | *"Negligence **resulted in** the failure."* |
+| **suffer from** | be afflicted by | *"He **suffers from** migraines."* |
+| **deal with** | handle | *"We **dealt with** the complaint."* |
+| **look after** | take care of | *"She **looks after** her grandmother."* |
+| **listen to** | attend to sound | *"**Listen to** me carefully."* |
+| **believe in** | have faith in | *"I **believe in** you."* |
+| **concentrate on** | focus on | *"**Concentrate on** the task."* |
+| **arrive at / in** | reach (a place) | *"We **arrived at** the airport."* |
+
+---
+
+## 2. Verb + Object + Preposition
+
+These verbs take a direct object **and** a dependent preposition:
+
+| Pattern | Meaning | Example |
+| :--- | :--- | :--- |
+| **accuse sb of sth** | charge with | *"They **accused him of** fraud."* |
+| **blame sb for sth** | hold responsible | *"Don't **blame me for** the error."* |
+| **remind sb of sth** | cause to remember | *"This **reminds me of** home."* |
+| **provide sb with sth** | supply | *"They **provided us with** tools."* |
+| **congratulate sb on sth** | praise for | *"I **congratulated her on** the award."* |
+| **thank sb for sth** | express gratitude | *"We **thanked them for** their help."* |
+| **prevent sb from sth/doing** | stop | *"Illness **prevented him from** attending."* |
+| **warn sb about / against** | caution | *"She **warned us about** the risks."* |
+| **deprive sb of sth** | deny | *"They were **deprived of** water."* |
+| **suspect sb of sth** | believe guilty | *"Police **suspect him of** arson."* |
+
+---
+
+## 3. Adjective + Preposition
+
+| Adjective + Preposition | Example |
+| :--- | :--- |
+| **afraid of** | *"afraid of spiders"* |
+| **good / bad at** | *"good at maths"* |
+| **interested in** | *"interested in history"* |
+| **responsible for** | *"responsible for the budget"* |
+| **capable of** | *"capable of great things"* |
+| **keen on** | *"keen on sailing"* |
+| **proud of** | *"proud of her work"* |
+| **similar to** | *"similar to yours"* |
+| **different from / to** | *"different from the rest"* |
+| **aware of** | *"aware of the danger"* |
+| **guilty of** | *"guilty of theft"* |
+| **married to** | *"married to an architect"* |
+| **fond of** | *"fond of chocolate"* |
+| **angry with (person) / about (thing)** | *"angry with him about the delay"* |
+| **excited about** | *"excited about the trip"* |
+| **famous for** | *"famous for its wine"* |
+| **satisfied with** | *"satisfied with the result"* |
+| **tired of** | *"tired of waiting"* |
+| **accustomed / used to** | *"used to the noise"* |
+| **allergic / addicted to** | *"addicted to sugar"* |
+
+---
+
+## 4. Noun + Preposition
+
+| Noun + Preposition | Example |
+| :--- | :--- |
+| **reason for** | *"the reason for the delay"* |
+| **increase / decrease / rise / fall in** | *"a rise in prices"* |
+| **attitude to / toward(s)** | *"her attitude to work"* |
+| **solution / answer / key to** | *"the key to success"* |
+| **cause of** | *"the cause of the accident"* |
+| **effect / impact / influence on** | *"the effect on morale"* |
+| **demand / need for** | *"the demand for housing"* |
+| **relationship / connection with** | *"a relationship with the firm"* |
+| **difference between** | *"the difference between the two"* |
+| **example of** | *"an example of courage"* |
+| **access to** | *"access to information"* |
+
+---
+
+## 5. Same Word, Different Preposition: Meaning Shifts
+
+The choice of preposition frequently changes the meaning entirely. This table is essential:
+
+| Pairing | Meaning |
+| :--- | :--- |
+| **agree with** (a person) / **agree to** (a proposal) / **agree on** (a plan) | consent; concur; settle jointly |
+| **care about** (be concerned) / **care for** (look after; like) | concern vs. caretaking/taste |
+| **think of** (recall; opinion) / **think about** (consider) | *"What do you think of it?"* vs. *"I'm thinking about it."* |
+| **look at / for / after / forward to** | direct gaze; search; caretake; anticipate |
+| **good at** (skill) / **good for** (benefit) / **good with** (handling) | *"good at chess," "good for you," "good with children"* |
+| **made of** (material, unchanged) / **made from** (material, transformed) / **made with** (ingredient) | *"made of wood," "made from grapes," "made with love"* |
+| **angry with** (person) / **angry about** (situation) | directed at a person vs. a circumstance |
+| **arrive at** (building, decision) / **arrive in** (city, country) | smaller vs. larger location |
+| **responsible for** (duty) / **responsible to** (authority) | *"responsible for sales, to the board"* |
+| **compare with** (differences) / **compare to** (likeness) | *"compared with last year"* vs. *"compared to a lion"* |
+
+---
+
+## 6. The Most Frequent Learner Errors
+
+> ❌ *"It depends **of** the weather."* → ✅ *"It depends **on** the weather."*
+> ❌ *"I'm interested **on** physics."* → ✅ *"I'm interested **in** physics."*
+> ❌ *"Discuss **about** the plan."* → ✅ *"Discuss the plan."* (no preposition)
+> ❌ *"She's married **with** a doctor."* → ✅ *"She's married **to** a doctor."*
+> ❌ *"We arrived **to** London."* → ✅ *"We arrived **in** London."*
+> ❌ *"Afraid **from** dogs."* → ✅ *"Afraid **of** dogs."*
+
+---
+
+## 7. Reference Table: High-Frequency Dependent Prepositions
+
+| Preposition | Common Partners |
+| :--- | :--- |
+| **of** | afraid, aware, capable, guilty, proud, jealous, tired, accuse, remind, consist |
+| **to** | belong, refer, object, married, similar, allergic, addicted, accustomed, prefer |
+| **in** | interested, involved, succeed, believe, specialize, invest, participate |
+| **on** | depend, rely, insist, concentrate, focus, comment, congratulate, keen |
+| **with** | comply, deal, satisfied, angry (person), familiar, agree (person) |
+| **for** | apologize, blame, thank, responsible, famous, reason, search, wait |
+| **at** | good, bad, arrive (place), laugh, look, skilled |
+| **about** | think, talk, worry, excited, angry (thing), happy, concerned |
+
+---
+
+## 8. Knowledge Check
+
+**1. Choose the correct preposition: "It depends ___ the outcome."**
+A) of
+B) on
+C) to
+
+**2. What is the difference between "made of" and "made from"?**
+A) No difference.
+B) "Made of" is used when the material is unchanged; "made from" when it is transformed.
+C) "Made from" is formal; "made of" is informal.
+
+**3. Which is correct?**
+A) She is married with a doctor.
+B) She is married to a doctor.
+
+**4. "I'm thinking ___ your proposal." Which is correct?**
+A) of
+B) about
+
+**5. Which verb takes no preposition before its object?**
+A) discuss
+B) depend
+C) arrive
+
+### Answer Key & Rationale
+1. **B.** *Depend* governs *on*.
+2. **B.** *A table made of wood* (material intact) vs. *wine made from grapes* (material transformed).
+3. **B.** *Married* governs *to*.
+4. **B.** *Think about* means "consider"; *think of* means "recall/have an opinion."
+5. **A.** *Discuss* is transitive and takes a direct object.
+
+***
+© 2026 Igor Kan

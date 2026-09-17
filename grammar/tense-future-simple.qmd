@@ -1,0 +1,114 @@
+---
+title: "The Future Simple Tense: Will, Predictions, and Spontaneous Decisions"
+subtitle: "Will vs. going to, and the full inventory of English future forms."
+description: "A detailed guide to the future simple: will and be going to, their distinct uses, and how the present simple and present continuous also express the future."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Grammar, Verbs, Tense, Future-Simple, Modals]
+---
+
+## Introduction
+
+English has **no true future tense inflection** — unlike Spanish (*hablaré*) or French (*parlerai*). Instead, the future is expressed through **modal and semi-modal constructions**: *will*, *be going to*, the present simple, and the present continuous. The future simple (*will* + base verb) is the most common, but choosing correctly among these forms conveys crucial nuance about intention, planning, and evidence.
+
+## Formation
+
+**Subject + will + base verb** (invariable for all subjects)
+
+| | Affirmative | Negative | Interrogative |
+| :--- | :--- | :--- | :--- |
+| **All subjects** | They **will leave** | They **will not (won't) leave** | **Will** they **leave**? |
+
+In formal British English, *shall* may replace *will* with *I/we*: *"I **shall** return."*
+
+## Core Uses of "Will"
+
+### 1. Predictions and Forecasts
+* *"The economy **will grow** by 2% next year."*
+* *"You **will love** this film."*
+
+### 2. Spontaneous Decisions (made at the moment of speaking)
+* *"I'm tired — I **will** just **skip** dessert."*
+* *"The phone's ringing. I **will get** it."*
+
+### 3. Promises, Offers, Threats, and Refusals
+* *"I **will help** you move on Saturday."* (offer)
+* *"I **will never** speak to him again."* (promise/threat)
+* *"The engine **won't start**."* (refusal of a thing)
+
+### 4. Requests
+* *"**Will** you close the window, please?"*
+
+### 5. Future Facts and Conditional Results
+* *"The concert **will begin** at 8 p.m."*
+* *"If you heat ice, it **will melt**."* (first conditional)
+
+## Core Uses of "Be Going To"
+
+### 1. Prior Plans and Intentions
+The decision existed before the moment of speaking:
+* *"We **are going to visit** my parents this weekend."* (already planned)
+* *"She **is going to start** a new job in May."*
+
+### 2. Predictions Based on Present Evidence
+* *"Look at those clouds — it **is going to rain**."*
+* *"He's losing his balance! He **is going to fall**!"*
+
+## Will vs. Be Going To
+
+| Will | Be Going To |
+| :--- | :--- |
+| Spontaneous decision | Premeditated plan |
+| *"I'll have the soup."* (deciding now) | *"I'm going to have the soup."* (decided earlier) |
+| Prediction (opinion/belief) | Prediction (visible evidence) |
+| *"I think it will rain tomorrow."* | *"It's going to rain — look at the sky."* |
+
+## The Complete Future Inventory
+
+| Form | Use | Example |
+| :--- | :--- | :--- |
+| **Will + base** | Predictions, spontaneous decisions | *"It will be cold tomorrow."* |
+| **Be going to** | Plans, evidence-based predictions | *"We're going to move."* |
+| **Present continuous** | Definite arrangements | *"I'm meeting Sam at six."* |
+| **Present simple** | Timetables, schedules | *"The train leaves at nine."* |
+| **Be about to** | Immediate future | *"The film is about to start."* |
+| **Be to** | Official plans, instructions | *"The Queen is to visit Canada."* |
+| **Shall** | Offers/suggestions (I/we) | *"Shall I open the window?"* |
+
+## Nuances
+
+* **"Shall I / Shall we"** is the standard way to make offers and suggestions in British English: *"**Shall we** go?"*
+* **Deduction (not future):** *Will* can express present assumptions: *"That **will be** the postman"* (= I assume that is the postman).
+* **Future in the past:** For past viewpoints, use *would* or *was going to*: *"He said he **would call**,"* *"She **was going to** resign."*
+
+## Common Errors
+
+> ❌ *"I will to call you."* → ✅ *"I **will call** you."* (no *to* after *will*)
+> ❌ *"The phone is ringing — I'm going to get it."* (suggests prior plan) → ✅ *"I'**ll** get it."* (spontaneous)
+> ❌ *"When I will see him, I'll tell him."* → ✅ *"When I **see** him, I'll tell him."*
+
+## Model Sentences
+
+> *"The board **is going to announce** the merger on Monday; the markets **will likely react** nervously, and analysts **will be watching** every word."*
+
+## Knowledge Check
+
+**1. Which expresses a spontaneous decision?**
+A) I'm going to buy a car next month.
+B) I'll have the chicken.
+
+**2. Which predicts based on visible evidence?**
+A) I think it will rain.
+B) Look at the clouds — it's going to rain.
+
+**3. What is the correct form: "When she ___ (arrive), we'll eat."**
+A) will arrive
+B) arrives
+
+### Answer Key
+1. **B.** *Will* marks a decision made at the moment of speaking.
+2. **B.** *Going to* is used for predictions grounded in present evidence.
+3. **B.** Time clauses take the present simple, not *will*.
+
+***
+© 2026 Igor Kan

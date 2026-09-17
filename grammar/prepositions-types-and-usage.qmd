@@ -1,0 +1,213 @@
+---
+title: "The Complete Guide to English Prepositions: Types, Functions, and the at/in/on System"
+subtitle: "From simple prepositions to complex phrases — a systematic map of English's relational words."
+description: "A comprehensive guide to English prepositions: simple, compound, complex, and double forms; prepositions of place, time, movement, agent, and cause; the at/in/on system; prepositions vs. particles; and the rules of stranding."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Grammar, Prepositions, Syntax, Fundamentals]
+---
+
+## Introduction: The Smallest Giants of English
+
+Prepositions are short, unassuming words — *at, in, on, of, to, by, for, with* — yet they carry an enormous share of a sentence's meaning. There are only about 150 of them, making prepositions a **closed class**: new ones are rarely coined, and the same handful recur with bewildering frequency. They are also the most idiomatic words in English. Logic alone will not tell you why we say *good **at*** but *interested **in***, *depend **on*** but *consist **of***. Prepositions must be learned as **collocations** as much as rules.
+
+A preposition links a noun, pronoun, or gerund (its **object**) to another part of the sentence, expressing a relationship of place, time, direction, cause, manner, agency, or possession.
+
+---
+
+## 1. The Four Formal Categories
+
+### A. Simple (one-word) Prepositions
+```text
+at  by  for  from  in  of  on  to  with  without  over  under
+up  down  off  near  past  since  until  through  between  among
+```
+
+### B. Compound (two-word) Prepositions
+Formed by adding a prefix to a simple preposition:
+```text
+into   onto   upon   within   without   throughout   alongside
+amidst  amongst  toward  towards  outside  inside  notwithstanding
+```
+
+### C. Complex (multi-word / phrasal) Prepositions
+Fixed phrases functioning as a single preposition:
+```text
+in front of     on behalf of     in spite of      because of
+due to          owing to         apart from       according to
+by means of     with regard to   in terms of      next to
+out of          as for           except for       instead of
+prior to        subsequent to    in addition to   with respect to
+```
+
+### D. Double Prepositions
+Two prepositions working together:
+```text
+from behind   from under   from beneath   from among   until after   out of
+```
+*"He emerged **from behind** the curtain." / "She waited **until after** the ceremony."*
+
+---
+
+## 2. Prepositions of Place and Location
+
+### The at / in / on System
+The three most important place prepositions form a system based on **how we conceive of the location**:
+
+| Preposition | Concept | Examples |
+| :--- | :--- | :--- |
+| **at** | A **point** or location seen abstractly | *at the door, at the station, at the party, at 10 Downing Street* |
+| **in** | An **enclosed space**, area, or volume | *in the box, in London, in the car, in the water* |
+| **on** | A **surface**; a line; public transport | *on the table, on the wall, on the bus, on the third floor* |
+
+> **Subtle difference:** *"I'll meet you **at** the station"* (a meeting point) vs. *"I'll wait **in** the station"* (inside the building) vs. *"I'm **on** the train"* (aboard).
+
+### Other Spatial Prepositions
+
+| Preposition | Relationship |
+| :--- | :--- |
+| **above / over** | Higher than (over often implies covering or movement across) |
+| **below / under / underneath / beneath** | Lower than (underneath emphasizes being directly beneath; beneath is literary) |
+| **between** | In the space separating **two** things |
+| **among** | Surrounded by **three or more** |
+| **beside / next to / by / near** | At the side of; close to |
+| **behind / in front of** | To the rear / to the front of |
+| **opposite / across from** | Facing |
+| **along / around / past / beyond / through** | Following a length, encircling, passing, further than, penetrating |
+
+---
+
+## 3. Prepositions of Time
+
+### The at / on / in System
+
+| Preposition | Use | Examples |
+| :--- | :--- | :--- |
+| **at** | Clock times, points in the day, festivals | *at 6 o'clock, at noon, at night, at Christmas* |
+| **on** | Days and dates | *on Monday, on 4 July, on my birthday, on the weekend* (AmE) |
+| **in** | Months, years, seasons, longer periods, parts of the day | *in July, in 2026, in winter, in the morning* |
+
+### Other Temporal Prepositions
+
+| Preposition | Meaning | Example |
+| :--- | :--- | :--- |
+| **for** | Duration | *for three hours* |
+| **since** | From a past point until now | *since 2020* |
+| **during** | Within a period (not its length) | *during the film* |
+| **until / till** | Up to a point (continuation) | *until midnight* |
+| **by** | No later than a deadline | *by Friday* |
+| **before / after** | Earlier / later than | *before dawn, after lunch* |
+| **within** | Inside a limit of time | *within an hour* |
+| **throughout** | For the whole of a period | *throughout the year* |
+| **between … and** | A span with two limits | *between 9 and 5* |
+
+> **Critical contrast — "by" vs. "until":** *"Finish it **by** Friday"* = deadline (finish at or before Friday). *"Wait **until** Friday"* = continue waiting up to Friday.
+
+---
+
+## 4. Prepositions of Movement and Direction
+
+```text
+to      into     onto     toward(s)   through   across   along
+around  past     over     under       up        down      out of
+off     from     back to
+```
+
+* *"She walked **to** the door, **through** the hall, and **out of** the building."*
+* *"The cat jumped **onto** the table and **off** again."*
+* He ran **toward** the exit, **past** the guards, and **down** the stairs."*
+
+Note the distinction between **in/into** (location vs. movement): *"She is **in** the room"* (location) vs. *"She walked **into** the room"* (movement).
+
+---
+
+## 5. Prepositions of Other Semantic Roles
+
+| Role | Prepositions | Example |
+| :--- | :--- | :--- |
+| **Agent** | *by* | *"written **by** Orwell"* |
+| **Instrument** | *with* | *"cut **with** a knife"* |
+| **Cause / reason** | *because of, due to, owing to, on account of, thanks to, for* | *"cancelled **due to** rain"* |
+| **Purpose** | *for, for the sake of* | *"a tool **for** cutting"* |
+| **Manner / means** | *by, with, in, without* | *"travelled **by** train"* |
+| **Possession / measure** | *of* | *"a cup **of** tea"* |
+| **Topic / regard** | *about, on, of, regarding, concerning, over* | *"a book **about** Rome"* |
+| **Concession** | *despite, in spite of, notwithstanding* | *"**despite** the storm"* |
+
+---
+
+## 6. Prepositional Phrases and Their Functions
+
+A preposition plus its object forms a **prepositional phrase**, which can function as:
+
+* **Adjectival** (modifying a noun): *"the man **in the hat**," "a matter **of principle**."*
+* **Adverbial** (modifying a verb, adjective, or the whole clause): *"She left **in a hurry**," "famous **for her wit**."*
+
+---
+
+## 7. Prepositions vs. Particles vs. Adverbs
+
+The same word can play different roles. Compare *up*:
+
+| Sentence | Function of *up* |
+| :--- | :--- |
+| *"She climbed **up** the hill."* | **Preposition** (has object *the hill*) |
+| *"She looked **up** the word."* | **Particle** (part of phrasal verb; object *the word*) |
+| *"She looked **up**."* | **Adverb** (no object) |
+
+**Test:** A preposition is always followed by its object; a particle is bound to the verb and changes its meaning; an adverb is independent.
+
+---
+
+## 8. Grammatical Rules and Persistent Myths
+
+* **Ending a sentence with a preposition is perfectly grammatical.** English "strands" prepositions: *"That's the book I told you **about**."* The formal alternative (pied-piping) is *"the book **about which** I told you,"* which is appropriate in very formal prose but not required.
+* **Prepositions govern gerunds, not infinitives:** ✅ *"interested in **learning**,"* ❌ *"interested in **to learn**."*
+* **Use the object case after a preposition:** ✅ *"between you and **me**,"* ❌ *"between you and **I**."*
+* **A preposition never takes a verb as its object** (except in the gerund form).
+* **Avoid unnecessary prepositions:** ❌ *"discuss **about** the plan"* → ✅ *"discuss the plan."*
+
+---
+
+## 9. Common Errors
+
+> ❌ *"I'll meet you **in** the corner of the street."* → ✅ *"**on** the corner"* / *"**at** the corner."*
+> ❌ *"I have been here **since** three hours."* → ✅ *"**for** three hours."*
+> ❌ *"Finish it **until** Friday."* → ✅ *"Finish it **by** Friday."*
+> ❌ *"Married **with** him."* → ✅ *"Married **to** him."*
+> ❌ *"Different **than**"* (AmE acceptable) → ✅ *"Different **from**"* (standard BrE) / *"different **to**"* (BrE informal).
+
+---
+
+## 10. Knowledge Check
+
+**1. Which sentence uses the correct preposition?**
+A) I'll meet you in the corner.
+B) I'll meet you at the corner.
+
+**2. Choose the correct form: "She has lived here ___ 2015."**
+A) for
+B) since
+
+**3. When do we use "by" rather than "until"?**
+A) To express a deadline ("finish by 5").
+B) To express continuous waiting.
+
+**4. Which is the object case?**
+A) between you and I
+B) between you and me
+
+**5. In "she looked up the word," what is "up"?**
+A) A preposition
+B) A particle
+C) A noun
+
+### Answer Key
+1. **B.** *At the corner* treats the location as a point; *in the corner* suggests an enclosed inner corner.
+2. **B.** *Since* marks a starting point continuing to now; *for* would require a duration (*for ten years*).
+3. **A.** *By* marks a deadline; *until* marks continuation up to a point.
+4. **B.** Prepositions take the object case (*me*).
+5. **B.** *Up* is a particle forming the phrasal verb *look up*.
+
+***
+© 2026 Igor Kan

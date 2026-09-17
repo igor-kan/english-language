@@ -1,0 +1,185 @@
+---
+title: "The Phrasal Verb 'Set Out': Departure, Purpose, Display, and Exposition"
+subtitle: "Four functions, one particle — mastering English's most versatile 'set' construction."
+description: "A comprehensive guide to 'set out': its four core senses (embark, intend, arrange/display, expound), related 'set' constructions (set off, set forth, set about, set to), and the prepositions and errors that go with them."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Vocabulary, Phrasal-Verbs, Lexical-Deep-Dive, Verb-Systems, Register]
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    minimal: true
+---
+
+# Introduction: The Polysemy of "Set Out"
+
+Few phrasal verbs carry as many distinct meanings as **set out**. From the outset of a journey to the systematic exposition of a legal argument, the same two words do strikingly different work. This article isolates its four core senses, distinguishes it from its near neighbours (*set off, set forth, set about, set to*), and maps the prepositions that govern each use.
+
+---
+
+## 1. Sense One: To Begin a Journey / Depart
+
+The most literal and common sense: to **start a journey or expedition**.
+
+* *"We **set out** at dawn, before the heat became unbearable."*
+* *"They **set out** for the coast with nothing but a map."*
+* *"The expedition **set out** on a two-year voyage."*
+
+### Prepositions
+| Pattern | Meaning | Example |
+| :--- | :--- | :--- |
+| **set out** (intransitive) | Depart | *"We set out early."* |
+| **set out for** + destination | Head toward | *"They set out for Rome."* |
+| **set out on** + journey | Embark upon | *"She set out on a new career."* |
+| **set out from** + origin | Leave from | *"We set out from the harbour."* |
+
+### Nuance: Set Out vs. Set Off vs. Set Forth
+All three can mean "depart," but with different emphases:
+* **Set out:** stresses *beginning the journey* or the whole venture.
+* **Set off:** stresses the *moment of departure*, and is also the verb for *triggering* something (an alarm, a bomb).
+* **Set forth:** a **literary/archaic** variant meaning "depart," now rare except in elevated prose.
+
+> **Model Sentence:** *"The pilgrims **set out** from Canterbury at first light, uncertain of the road ahead."*
+
+---
+
+## 2. Sense Two: To Intend or Aim — "Set Out To Do"
+
+Construed with a **to-infinitive**, *set out to do* means to **begin something with a deliberate, often ambitious purpose**.
+
+* *"She **set out to** become the youngest surgeon in the hospital."*
+* *"He **set out to** prove the critics wrong."*
+* *"They **set out to** build a business from scratch."*
+
+### Nuance
+*Set out to do* implies **conscious, determined intention** — often in the face of difficulty. It is stronger and more purposive than a bare *intend*, and frequently appears in narratives of achievement or ambition.
+
+### Important Restriction
+The construction requires an **infinitive**, not a noun or gerund:
+> ❌ *"She set out a career in medicine."* → ✅ *"She **set out to pursue** a career in medicine."*
+> ❌ *"He set out becoming a pilot."* → ✅ *"He **set out to become** a pilot."*
+
+---
+
+## 3. Sense Three: To Arrange or Display
+
+To **set out** can mean to **lay out, arrange, or display** items in an orderly way.
+
+* *"She **set out** the plates and glasses for dinner."*
+* *"The market stalls were **set out** with fresh produce."*
+* *"He **set out** his tools on the bench before starting."*
+
+### Nuance vs. "Lay Out"
+*Lay out* and *set out* are close synonyms for arranging. *Set out* often suggests a **deliberate, orderly, perhaps formal arrangement** (goods for display, a meal, a chessboard).
+
+> **Related idiom:** *"**set out one's stall**"* (British) = to state one's position, offer, or intentions clearly, especially in politics or business: *"The chancellor **set out his stall** in the budget speech."*
+
+---
+
+## 4. Sense Four: To Explain or Describe Systematically
+
+In formal, academic, and legal writing, *set out* means to **state, detail, or explain** something in an organized way.
+
+* *"The report **sets out** the committee's findings."*
+* *"The contract **sets out** the terms and conditions."*
+* *"The introduction **sets out** the aims of the study."*
+
+### Register and Nuance
+This is a **formal, chiefly written** use. *Set forth* is a near-synonym, slightly more literary or archaic. Both imply a **methodical presentation** of information.
+
+> **Model Sentence:** *"Section 4 of the agreement **sets out** the obligations of each party in precise, unambiguous terms."*
+
+---
+
+## 5. Related "Set" Constructions
+
+| Phrasal Verb | Core Sense | Example |
+| :--- | :--- | :--- |
+| **Set off** | Depart; trigger (alarm/bomb); accentuate by contrast | *"The alarm was set off by smoke."* |
+| **Set forth** | Depart (literary); state, expound | *"The author sets forth her thesis."* |
+| **Set about** | Begin doing (energetically); (BrE) attack | *"They set about cleaning the wreckage."* |
+| **Set to** | Begin energetically (often *set to work*) | *"They set to work at once."* |
+| **Set up** | Establish; configure; (informal) frame someone | *"They set up a new company."* |
+| **Set aside** | Reserve; annul; disregard | *"Set aside time each day."* |
+
+> **Note:** The wider *set* family — *set in, set back, set apart, set up* — is treated in the companion article on the phrasal verbs of *set*. The *aside* family has its own comprehensive article.
+
+---
+
+## 6. Distinguishing the Look-Alikes
+
+```text
+[ "Set" + Particle: A Semantic Map ]
+
+set out   ──► depart / intend / arrange / expound
+set off   ──► depart  / trigger / accentuate
+set forth ──► depart (literary) / expound
+set about ──► begin (an activity) / attack
+set to    ──► begin energetically
+set aside ──► reserve / annul / disregard
+```
+
+The particles do real semantic work: *out* and *forth* lean toward **exposition and beginning**; *off* leans toward **departure and triggering**; *about* and *to* mark **initiation**.
+
+---
+
+## 7. Common Errors
+
+> ❌ *"We set out from the hotel at 8, and arrived to the coast by noon."* → ✅ *"…arrived **at** the coast by noon."*
+> ❌ *"He set out becoming an engineer."* → ✅ *"He **set out to become** an engineer."*
+> ❌ *"The smoke set out the alarm."* → ✅ *"The smoke **set off** the alarm."*
+> ❌ *"The report sets out on the findings."* → ✅ *"The report **sets out** the findings."* (no preposition)
+
+---
+
+## 8. Diagnostic Synthesis
+
+> "At first light the team **set out** for the summit. Each member had **set out to** break a personal record, and no one intended to turn back. That evening, back at base, they **set out** their notes on the table and **set out** the day's measurements in meticulous rows, determined that the record of the climb would be beyond dispute."
+
+---
+
+## 9. Knowledge Retention Quiz
+
+**1. Which sense does "She set out to reform the system" illustrate?**
+A) Departure
+B) Purpose/intention
+C) Arrangement
+D) Exposition
+
+**2. What does "The contract sets out the terms" mean?**
+A) The contract cancels the terms
+B) The contract states the terms systematically
+C) The contract hides the terms
+D) The contract departs from the terms
+
+**3. Which phrasal verb means to *trigger* an alarm or bomb?**
+A) set out
+B) set off
+C) set about
+D) set to
+
+**4. What is the British idiom "set out one's stall"?**
+A) To go to market
+B) To state one's position or offer clearly
+C) To give up
+D) To arrange furniture
+
+**5. Which sentence is correct?**
+A) He set out becoming a doctor.
+B) He set out to become a doctor.
+C) He set out become a doctor.
+D) He set out becoming a doctor.
+
+### Answer Key & Rationale
+1. **B.** *Set out to do* expresses deliberate purpose.
+2. **B.** In formal/legal register, *set out* means to state or detail systematically.
+3. **B.** *Set off* means to trigger (as well as to depart).
+4. **B.** To *set out one's stall* is to declare one's position or offer.
+5. **B.** The intention sense requires the *to*-infinitive.
+
+***
+© 2026 Igor Kan

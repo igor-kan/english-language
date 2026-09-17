@@ -1,0 +1,89 @@
+---
+title: "The Future Continuous Tense: Actions in Progress at a Future Time"
+subtitle: "Ongoing future actions, polite inquiries, and casual assumptions."
+description: "A detailed guide to the future continuous: form with will be + -ing, its core uses, the polite-question pattern, and its contrast with the future simple."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Grammar, Verbs, Tense, Future-Continuous, Aspect]
+---
+
+## Introduction
+
+The future continuous describes an action that **will be in progress at a particular moment in the future**. It differs from the simple future in the same way the past continuous differs from the past simple: it foregrounds the *process unfolding* rather than the *event or result*.
+
+## Formation
+
+**Subject + will be + present participle (-ing)**
+
+| | Affirmative | Negative | Interrogative |
+| :--- | :--- | :--- | :--- |
+| **All subjects** | She **will be working** | She **won't be working** | **Will** she **be working**? |
+
+## Core Uses
+
+### 1. Action in Progress at a Future Moment
+* *"This time tomorrow I **will be flying** to Tokyo."*
+* *"At midnight they **will still be dancing**."*
+
+### 2. Predicting or Describing Future States
+* *"Don't call at eight — we **will be having** dinner then."*
+* *"The city **will be celebrating** its centenary all week."*
+
+### 3. Polite Inquiries About Someone's Plans
+This is one of the most useful functions — asking about plans without imposing:
+* *"**Will** you **be using** the car this evening?"*
+* *"**Will** you **be attending** the conference?"*
+
+### 4. Assumptions About the Present (a special idiom)
+*Will be + -ing* can describe what is **probably happening right now**:
+* *"Don't worry — she **will be waiting** for us at the gate."* (= she is probably waiting now)
+* *"He **will be sleeping**; it's three in the morning."*
+
+## Future Continuous vs. Future Simple
+
+| Future Continuous | Future Simple |
+| :--- | :--- |
+| Action in progress at a future time | A future event, decision, or prediction |
+| *"I **will be seeing** her tomorrow."* (arranged/in progress) | *"I **will see** her tomorrow."* (intention/arrangement) |
+| Neutral description of a future state | Volition, promise, or decision |
+| *"I'll be working late."* (fact) | *"I'll work late."* (resolve) |
+
+> **Subtle difference:** *"I'll be seeing him at the meeting"* simply states what will occur; *"I'll see him at the meeting"* can imply a decision or promise to do something (e.g., to speak to him).
+
+## Nuances
+
+* **No imposition:** The future continuous softens requests and questions — *"Will you be using this?"* feels less demanding than *"Are you going to use this?"*
+* **Parallel future actions:** Two continuous actions can run side by side: *"While I **will be presenting**, the team **will be answering** questions online."*
+* **Stative verbs:** As always, stative verbs avoid the continuous: ❌ *"I will be knowing the result."* → ✅ *"I **will know** the result."*
+
+## Common Errors
+
+> ❌ *"I will be know the answer."* → ✅ *"I **will know** the answer."*
+> ❌ *"I will be working here since 2020."* → ✅ *"I **will have been working** here for five years."* (duration to a future point)
+> ❌ *"Will you use the car tonight?"* (can sound like a request for permission) → ✅ *"**Will you be using** the car tonight?"* (neutral inquiry)
+
+## Model Sentences
+
+> *"By the time you read this, the interns **will be presenting** their findings, the partners **will be arguing** over the budget, and I **will be sitting** quietly in the back, taking notes."*
+
+## Knowledge Check
+
+**1. Which sentence best asks neutrally about someone's plans?**
+A) Will you use the car?
+B) Will you be using the car?
+
+**2. "Don't call at seven — we ___ dinner."**
+A) will have
+B) will be having
+
+**3. Which is the correct assumption about the present?**
+A) She will be waiting at the gate now.
+B) She will wait at the gate now.
+
+### Answer Key
+1. **B.** The future continuous is the neutral, non-imposing inquiry.
+2. **B.** An action in progress at a future moment takes the future continuous.
+3. **A.** *Will be + -ing* can express a present assumption.
+
+***
+© 2026 Igor Kan

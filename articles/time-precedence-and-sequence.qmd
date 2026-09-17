@@ -1,0 +1,232 @@
+---
+title: "The Vocabulary of Time I: Precedence, Sequence, and Succession"
+subtitle: "Predate, precede, antedate, postdate, succeed — mapping what comes before and after."
+description: "A comprehensive guide to English words of temporal order: predate, antecede, precede, antedate, postdate, follow, succeed, and the constellations of antecedents, precursors, forerunners, harbingers, and successors — with the forego/forgo trap and usage notes."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Vocabulary, Time, Lexical-Deep-Dive, Etymology, Register]
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    minimal: true
+---
+
+# Introduction: The Grammar of Before and After
+
+Time is one of the deepest organizing dimensions of human language. English encodes temporal order not with a single family of words but with several overlapping systems — some Latinate and formal (*precede, antecedent, subsequent*), some Germanic and plain (*before, after, follow*), and some deceptively similar (*predate* vs. *antedate*; *forego* vs. *forgo*). This article maps the vocabulary of **precedence and succession** with precision.
+
+```text
+[ THE TEMPORAL AXIS ]
+
+   EARLIER ◄────────────────────────────────────────► LATER
+
+   predate      precede      follow       postdate
+   antedate     come before  come after   succeed
+   antecedent   precursor    sequel       successor
+   forerunner   harbinger    consequence  outcome
+```
+
+---
+
+## 1. Predate
+
+**Phonetics:** /priːˈdeɪt/.
+
+**Meaning:** To exist or occur **before** something else in time; to be earlier than.
+
+* *"Dinosaurs **predate** humans by hundreds of millions of years."*
+* *"The custom **predates** the founding of the city."*
+* *"This manuscript **predates** the printed edition."*
+
+**Etymology:** *pre-* ("before") + *date*. Note that *predate* does **not** mean "to date a document earlier"; that is *antedate*.
+
+**Register:** Neutral to formal; the standard verb for "X is older than Y."
+
+---
+
+## 2. Antedate
+
+**Phonetics:** /ˌæntiˈdeɪt/.
+
+**Two senses:**
+1. **To precede in time** (a near-synonym of *predate*): *"The invention of paper **antedates** the printing press."*
+2. **To assign an earlier date to a document or event than the true one:** *"The letter was **antedated** to appear older."* (The opposite of *postdate*.)
+
+**Etymology:** Latin *ante-* ("before") + *date*.
+
+**Nuance:** *Antedate* is rarer and more formal than *predate*. Its second, documentary sense (falsely dating earlier) is unique to it and *postdate*.
+
+---
+
+## 3. Precede
+
+**Phonetics:** /prɪˈsiːd/.
+
+**Meaning:** To come **before** in time, order, rank, or position.
+
+* *"A short silence **preceded** the applause."*
+* *"The chairman is **preceded** by his deputy in the procession."*
+
+**Etymology:** Latin *praecedere* = *prae-* ("before") + *cedere* ("to go"). Literally, *"to go before."*
+
+**Direct object required:** *Precede* is transitive. You do not "precede to" something.
+
+> **Model Sentence:** *"The briefing **preceded** the vote by three hours, allowing the members to weigh the evidence."*
+
+---
+
+## 4. Postdate
+
+**Phonetics:** /ˌpəʊstˈdeɪt/.
+
+**Two senses:**
+1. **To come after in time:** *"The painting **postdates** the artist's Italian period."*
+2. **To assign a later date to a document than the true one:** *"He **postdated** the cheque to the first of the month."*
+
+**Antonym:** *antedate* (in the documentary sense); *predate* / *antedate* (in the chronological sense).
+
+---
+
+## 5. Succeed and Follow
+
+### Succeed
+**Meaning:** To come **after** someone or something (in time, order, or office). This is the direct antonym of *precede*.
+* *"George VI **succeeded** Edward VIII to the throne."* (Note the preposition *to*.)
+* *"A period of calm **succeeded** the storm."*
+
+> **Homonym trap:** *Succeed* also means "to achieve success" (*"she succeeded in business"*). Context disambiguates: *succeed to* a position/office = inherit it.
+
+### Follow
+**Meaning:** To come after — the plain, versatile Germanic antonym of *precede*.
+* *"Night **follows** day."*
+* *"The error **followed** a long silence."*
+* Also figurative: *"It **follows** that the premise is false."*
+
+---
+
+## 6. The Forego / Forgo Trap
+
+This is one of the most frequently confused pairs in English:
+
+| Word | Meaning | Example |
+| :--- | :--- | :--- |
+| **Forego** (*fore* + *go*) | To **precede**, go before (archaic/rare) | *"A fanfare **foregoes** the procession."* |
+| **Forgo** (*for* + *go*) | To **do without**, abstain from | *"She **forwent** dessert."* |
+
+Because *forego* is now rare, modern writers overwhelmingly use *forgo* — and often misspell it as "forego" when they mean "do without." **If you mean "abstain," write *forgo*.**
+
+---
+
+## 7. The Precedence Constellation: Nouns
+
+| Noun | Meaning | Example |
+| :--- | :--- | :--- |
+| **Antecedent** | A thing that existed or occurred before; (grammar) the word a pronoun replaces | *"Deregulation was the **antecedent** of the crisis."* |
+| **Predecessor** | One who came before in a role or office | *"Her **predecessor** left a large deficit."* |
+| **Precursor** | Something that comes before and indicates or leads to another | *"The riots were a **precursor** to revolution."* |
+| **Forerunner** | A person or thing that precedes and signals another's arrival | *"The Model T was the **forerunner** of mass motoring."* |
+| **Harbinger** | A sign of what is to come (often ominous) | *"Swallows are a **harbinger** of spring."* |
+| **Prelude** | An introductory action or event preceding something greater | *"The skirmish was a **prelude** to war."* |
+| **Omen / portent** | A prophetic sign | *"A **portent** of disaster."* |
+| **Prototype** | An early model from which later versions derive | *"The **prototype** preceded the production car."* |
+
+### Nuance Notes
+* **Precursor** is technical/neutral; **forerunner** is more general; **harbinger** is literary and usually signals something momentous or threatening.
+* **Antecedent** (in grammar) names the noun that a pronoun refers to — a distinct technical sense worth knowing.
+* **Predecessor** always implies a **succession of persons in a role**; *ancestor* implies lineage.
+
+---
+
+## 8. The Succession Constellation: Nouns
+
+| Noun | Meaning | Example |
+| :--- | :--- | :--- |
+| **Successor** | One who comes after in a role | *"His **successor** reversed the policy."* |
+| **Sequel** | A work or event that follows another | *"The treaty was the **sequel** to the war."* |
+| **Consequence** | A result that follows from a cause | *"A **consequence** of the delay."* |
+| **Aftermath** | The period following a significant (often destructive) event | *"In the **aftermath** of the flood."* |
+| **Epilogue** | A concluding section | *"The **epilogue** wraps up the tale."* |
+| **Descendant** | One who comes from an ancestor | *"A **descendant** of the original settlers."* |
+
+---
+
+## 9. Simultaneity and Overlap
+
+When events are **not** in sequence but coincide:
+
+| Word | Meaning | Example |
+| :--- | :--- | :--- |
+| **Simultaneous** | At exactly the same time | *"Simultaneous translation."* |
+| **Concurrent** | Happening at the same time; overlapping | *"Concurrent sentences."* |
+| **Contemporaneous** | Existing or occurring at the same period | *"Contemporaneous accounts of the battle."* |
+| **Coeval** | Of the same age or era (formal) | *"Coeval with the pyramids."* |
+| **Synchronous** | Occurring at the same time/rate (technical) | *"Synchronous communication."* |
+| **Contemporary** | Living/existing at the same time; modern | *"A contemporary of Shakespeare."* |
+
+**Nuance:** *Simultaneous* stresses exact coincidence; *concurrent* stresses overlap; *contemporaneous* stresses the same historical period; *synchronous* is the technical term (systems, signals).
+
+---
+
+## 10. Adjectives of Order
+
+| Earlier | Later |
+| :--- | :--- |
+| **prior**, **previous**, **former**, **erstwhile**, **antecedent**, **preliminary** | **subsequent**, **following**, **ensuing**, **consequent**, **later**, **subsequent to** |
+| **anterior** (technical) | **posterior** (technical) |
+| **ex-** (former): *ex-president* | **incoming**, **designate** (*president-elect*) |
+
+**Retroactive / retroactively:** applying to a period **before** enactment — *"a retroactive pay rise."*
+
+---
+
+## 11. Model Sentences
+
+> *"The brief calm that **preceded** the storm was a **harbinger** of what **followed**. The events that **succeeded** it had been **antedated** in rumor for years — a **prelude**, perhaps, to conflicts whose **aftermath** would outlast its architects."*
+
+---
+
+## 12. Knowledge Retention Quiz
+
+**1. Which verb means to exist before something else in time?**
+A) postdate
+B) predate
+C) succeed
+D) follow
+
+**2. Which word means "to do without" (not "to precede")?**
+A) forego
+B) forgo
+C) antedate
+D) postdate
+
+**3. What is the direct antonym of "precede"?**
+A) predate
+B) succeed
+C) repeat
+D) antedate
+
+**4. Which noun means "a sign of what is to come, often ominous"?**
+A) sequel
+B) successor
+C) harbinger
+D) consequence
+
+**5. Which pair describes events occurring at the same historical period?**
+A) coeval / contemporaneous
+B) prior / posterior
+C) antecedent / sequent
+D) prelude / epilogue
+
+### Answer Key & Rationale
+1. **B.** *Predate* means to be earlier than.
+2. **B.** *Forgo* means to abstain from; *forego* (rare) means to precede.
+3. **B.** *Succeed* means to come after — the antonym of *precede*.
+4. **C.** A *harbinger* is a forerunner signalling what is to come.
+5. **A.** *Coeval* and *contemporaneous* mean existing in the same period.
+
+***
+© 2026 Igor Kan

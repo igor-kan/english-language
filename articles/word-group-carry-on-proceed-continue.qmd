@@ -1,0 +1,279 @@
+---
+title: "The Vocabulary of Continuing: 'Carry On', 'Proceed', 'Continue', 'Persist', and the Grammar of Perseverance"
+subtitle: "Choosing among ten ways to say 'go on' — register, transitivity, and subtle semantic differences."
+description: "A comparative masterclass on the synonyms of continuing: carry on, go on, continue, proceed, persist, keep on, press on, soldier on, resume, and endure — with prepositions, nuance, and a diagnostic quiz."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Vocabulary, Phrasal-Verbs, Synonyms, Lexical-Deep-Dive, Register]
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    minimal: true
+---
+
+# Introduction: The Semantics of Continuation
+
+English is extraordinarily rich in verbs meaning *"to keep going."* This abundance is not redundancy — each word encodes a distinct attitude toward the act of continuing: whether it is easy or hard, voluntary or forced, neutral or heroic, informal or legalistic. Choosing correctly is a matter of **register and connotation**, not mere synonyms.
+
+```text
+                    [ THE CONTINUATION SPECTRUM ]
+
+  Neutral ───────────────────────────────────────────────► Adversarial
+  continue        proceed     carry on    persist    press on    soldier on
+  (general)       (formal)    (informal)  (stubborn) (determined) (heroic)
+```
+
+---
+
+## 1. Continue (Verb)
+
+**Phonetics:** /kənˈtɪnjuː/.
+
+### Etymological Architecture
+From Latin **continuare** (to join together, make continuous), from *continuus* ("uninterrupted").
+
+### Semantic Core
+The **neutral, default choice**. It means to keep doing something, or to resume after an interruption, with no emotional colouring.
+
+### Syntactic Patterns
+* **continue + to-infinitive:** *"She **continued to work** through the night."*
+* **continue + gerund:** *"She **continued working** through the night."*
+* **continue + noun (transitive):** *"They **continued the investigation**."*
+* **continue (intransitive):** *"The rain **continued** for days."*
+
+> **Nuance:** *continue to do* can subtly suggest a fresh or deliberate continuation; *continue doing* emphasizes uninterrupted persistence. The difference is slight.
+
+> **Model Sentence:** *"Despite the objections, the committee **continued its deliberations** until dawn."*
+
+---
+
+## 2. Carry On (Phrasal Verb, chiefly BrE)
+
+### Semantic Core
+Informal, sturdy, and distinctively British. To **carry on** is to continue an activity **despite difficulty, interruption, or objection** — often in the spirit of *"keep calm and carry on."*
+
+### Syntactic Patterns
+* **carry on + gerund:** *"They **carried on talking** after the interruption."*
+* **carry on with + noun:** *"Let's **carry on with** the meeting."*
+* **carry on (intransitive):** *"The work **carried on** as usual."*
+
+### The Complication: A Second Sense
+In British colloquial English, *carry on* also means **to behave in a foolish, excited, or improper way**:
+* *"The children were **carrying on** all morning."* (= misbehaving)
+* *"There was a right **carry-on** at the office."* (noun: a fuss or commotion)
+
+> **Model Sentence:** *"The power failed, but the surgeons **carried on** by torchlight."*
+
+---
+
+## 3. Go On (Phrasal Verb)
+
+### Semantic Core
+Informal and extremely flexible. Its meanings diverge sharply depending on what follows:
+
+| Structure | Meaning | Example |
+| :--- | :--- | :--- |
+| **go on + gerund** | Continue the *same* activity | *"He **went on talking**."* (kept talking) |
+| **go on + to-infinitive** | Move on to a *new* activity | *"He **went on to discuss** the budget."* (turned to it next) |
+| **go on (intransitive)** | Continue; happen | *"The party **went on** until midnight."* |
+| **go on about** | Talk at tedious length | *"She **went on about** her holiday for an hour."* |
+| **go on!** | Encouragement | *"**Go on**, you can do it!"* |
+
+> **Critical nuance:** *go on doing* vs. *go on to do* is a classic exam distinction. *Doing* = same action continues; *to do* = transition to a different action.
+
+> **Model Sentence:** *"She **went on to explain** the theory, having first **gone on writing** the equations on the board."*
+
+---
+
+## 4. Proceed (Verb)
+
+**Phonetics:** /prəˈsiːd/.
+
+### Etymological Architecture
+Latin **prōcedere** = *prō-* ("forward") + *cēdere* ("to go"). Literally: *"to go forward."*
+
+### Semantic Core
+Formal and procedural. **Proceed** means to continue after a pause or to move forward along a planned sequence. It is the natural verb of meetings, law, ceremonies, and instructions.
+
+### Syntactic Patterns
+* **proceed with + noun:** *"We will now **proceed with** the vote."*
+* **proceed to + infinitive:** *"The committee **proceeded to review** the evidence."*
+* **proceed (intransitive):** *"Please **proceed** to Gate 12."*
+
+> **Register note:** In conversation, *proceed* can sound stiff or bureaucratic — *"Do proceed"* — which is precisely why it suits legal and formal contexts.
+
+> **Model Sentence:** *"Having verified the signatures, the notary **proceeded to** certify the deed."*
+
+---
+
+## 5. Persist (Verb)
+
+**Phonetics:** /pəˈsɪst/.
+
+### Etymological Architecture
+Latin **persistere** = *per-* ("through, thoroughly") + *sistere* ("to stand"). Literally: *"to keep standing."*
+
+### Semantic Core
+To continue **firmly and often stubbornly**, especially in the face of opposition, difficulty, or discouragement. Unlike *continue*, *persist* carries the connotation of **resistance** — and can be either admirable or irritating.
+
+### Syntactic Patterns
+* **persist in + gerund** (frequently pejorative): *"He **persisted in asking** questions."*
+* **persist with + noun:** *"She **persisted with** her research despite the setbacks."*
+* **persist (intransitive, of things):** *"The smell **persisted** for days."*
+
+### Nuance: Persist vs. Persevere
+* **Persist** can imply stubbornness, even against reason: *"He persisted in his error."*
+* **Persevere** is almost always **positive** — continuing toward a worthy goal with steady determination: *"She persevered and earned her degree."*
+
+> **Model Sentence:** *"The anomaly **persisted** across every trial, so the team **persevered** until they identified its cause."*
+
+---
+
+## 6. Keep On (Phrasal Verb, Informal)
+
+### Semantic Core
+An **emphatic, informal** version of *continue*, stressing repetition and endurance:
+* *"She **kept on** working despite the pain."*
+* *"The alarm **kept on** ringing."*
+
+### The "Nag" Idiom
+* **keep on at someone** = to pester or nag:
+  * *"His mother **kept on at** him to tidy his room."*
+
+> **Nuance:** *keep doing* and *keep on doing* are close, but *keep on* adds insistence or weariness.
+
+---
+
+## 7. Press On / Push On (Phrasal Verbs)
+
+### Semantic Core
+To continue **resolutely in the face of difficulty**, often physical exhaustion. Slightly heroic or narrative in tone:
+* *"Exhausted, the climbers **pressed on** through the blizzard."*
+* *"We must **push on**; there is no time to rest."*
+
+**Register:** Literary, motivational, journalistic. Common in narration of journeys, campaigns, and crises.
+
+---
+
+## 8. Soldier On (Phrasal Verb, BrE, Informal)
+
+### Semantic Core
+To continue **doggedly despite hardship or adversity**, often with the connotation of uncomplaining endurance:
+* *"The team **soldiered on** after losing its captain."*
+* *"She **soldiered on** through chemotherapy."*
+
+**Register:** Informal British, mildly affectionate or admiring. Implies quiet fortitude rather than triumphant heroism.
+
+---
+
+## 9. Resume (Verb)
+
+**Phonetics:** /rɪˈzjuːm/.
+
+### Etymological Architecture
+Latin **resumere** = *re-* ("again") + *sumere* ("to take up"). Literally: *"to take up again."*
+
+### Semantic Core
+To **begin again after an interruption** — the opposite of merely continuing without a break. Formal register:
+* *"Negotiations will **resume** tomorrow morning."*
+* *"She **resumed** her seat."*
+* *"The music **resumed**."*
+
+> **Nuance:** *Resume* presupposes a **break**; *continue* does not necessarily.
+
+---
+
+## 10. Endure (Verb)
+
+**Phonetics:** /ɪnˈdjʊə/.
+
+### Etymological Architecture
+Latin **indurare** = *in-* ("in") + *durus* ("hard"). Literally: *"to make hard"* — to harden oneself to suffering.
+
+### Semantic Core
+To **suffer patiently** and to **continue to exist over time**:
+* *"They **endured** months of hardship."*
+* *"The custom **endures** to this day."*
+
+> **Nuance:** *Endure* adds a dimension of **suffering borne** that *continue* lacks entirely.
+
+---
+
+## 11. The Master Comparison Matrix
+
+| Verb | Register | Transitivity | Connotation | Typical Pattern |
+| :--- | :--- | :--- | :--- | :--- |
+| **Continue** | Neutral | Trans. & intr. | Plain continuation | *continue to do / doing* |
+| **Carry on** | Informal (BrE) | Intr. / + *with* | Resolute, plucky | *carry on doing / with* |
+| **Go on** | Informal | Intr. | Flexible; same vs. next | *go on doing / to do* |
+| **Proceed** | Formal | Intr. / + *with* | Procedural, forward | *proceed with / to do* |
+| **Persist** | Neutral/formal | Intr. / + *in* | Stubborn, insistent | *persist in doing* |
+| **Keep on** | Informal | Intr. | Emphatic repetition | *keep on doing* |
+| **Press on** | Semi-formal | Intr. | Determined, heroic | *press on* |
+| **Soldier on** | Informal (BrE) | Intr. | Uncomplaining fortitude | *soldier on* |
+| **Resume** | Formal | Trans. & intr. | Restart after a break | *resume (doing)* |
+| **Endure** | Semi-formal | Trans. & intr. | Bear suffering; last | *endure hardship* |
+
+---
+
+## 12. Prepositional and Structural Traps
+
+* **go on doing** (same activity) ⟷ **go on to do** (next activity). The single biggest source of confusion.
+* **persist in + gerund** — not *persist to do*: ✅ *"persist in complaining."*
+* **proceed with + noun** / **proceed to + verb**: ✅ *"proceed with the plan"* / *"proceed to sign."*
+* **carry on with + noun**, or **carry on + gerund**: ✅ *"carry on with your work"* / *"carry on working."*
+* **resume** takes a break: ❌ *"resume the same activity without stopping."*
+
+---
+
+## 13. Diagnostic Application: Synthesizing the Lexicon
+
+> "The negotiations had stalled at midnight, but the mediator urged both delegations to **carry on**. They **proceeded** to exchange revised proposals; one side **persisted in** demanding concessions the other refused to grant. Tempers frayed, yet the talks **went on** — not because anyone expected a breakthrough, but because neither side dared be the first to leave. At dawn they **resumed** the formal session, and the exhausted envoys **soldiered on**, knowing the alternative was collapse."
+
+---
+
+## 14. Knowledge Retention Quiz
+
+**1. Which verb presupposes an interruption before continuing?**
+A) continue
+B) persist
+C) resume
+D) keep on
+
+**2. What is the difference between "go on doing" and "go on to do"?**
+A) No difference.
+B) "Go on doing" continues the same activity; "go on to do" moves to a new one.
+C) "Go on doing" is formal; "go on to do" is informal.
+D) "Go on to do" means to stop.
+
+**3. Which verb carries a connotation of stubbornness and often irritation?**
+A) continue
+B) persist
+C) resume
+D) proceed
+
+**4. "The team ___ on despite losing its captain." Which fits the British informal, uncomplaining tone?**
+A) proceeded
+B) persisted
+C) soldiered
+D) resumed
+
+**5. Which sentence uses the correct preposition?**
+A) She persisted to ask questions.
+B) She persisted in asking questions.
+C) She persisted on asking questions.
+D) She persisted for asking questions.
+
+### Answer Key & Rationale
+1. **C.** *Resume* means to begin again after a break; the others do not require one.
+2. **B.** The gerund keeps the same action; the infinitive signals a transition to a new action.
+3. **B.** *Persist* often carries a pejorative, stubborn nuance (especially *persist in doing*).
+4. **C.** *Soldier on* is the informal British phrase for uncomplaining endurance.
+5. **B.** *Persist* governs the preposition *in* followed by a gerund.
+
+***
+© 2026 Igor Kan

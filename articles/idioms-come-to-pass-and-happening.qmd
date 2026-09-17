@@ -1,0 +1,218 @@
+---
+title: "Come to Pass: The Idioms of Happening, Fulfilment, and Unfolding"
+subtitle: "From the archaic gravity of 'come to pass' to the modern nuance of 'transpire', 'pan out', and 'come about'."
+description: "A comprehensive guide to English expressions of occurrence and fulfilment — come to pass, come about, come to be, come true, transpire, befall, betide, materialize, pan out, unfold, and eventuate — with register, usage controversies, and exceptions."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Vocabulary, Idioms, Lexical-Deep-Dive, Register, Etymology]
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    minimal: true
+---
+
+# Introduction: Saying "It Happened"
+
+To say that something *happened* is one of the most basic functions of language — yet English offers an extraordinary range of expressions for it, each carrying its own register, emotional colour, and theological or philosophical overtone. At the majestic, archaic end sits **come to pass**; at the casual end, **pan out** and **go down**. Between them lie dozens of nuanced options.
+
+This article maps the whole family, with particular attention to the celebrated **"transpire" controversy** — one of English's most instructive usage disputes.
+
+---
+
+## 1. Come to Pass
+
+**Phonetics:** /kʌm tə pɑːs/.
+
+### Meaning
+**To happen; to occur; especially, to be fulfilled** (of a prophecy, prediction, or expectation). The phrase carries a strong implication of *destiny* or *foretelling*: what "comes to pass" was, in some sense, expected to come.
+
+* *"All that he had foretold **came to pass**."*
+* *"It **came to pass** that the two rivals met again at the summit."*
+* *"Her worst fears **came to pass**."*
+
+### Etymological and Biblical Architecture
+The phrase is a **Hebraism** — a construction imported from Biblical Hebrew through Greek and Latin. The Hebrew narrative formula **wayehi** ("and it happened / and it came about") was rendered in the Greek Septuagint as *kai egeneto* and in the Latin Vulgate as *factum est*. The **King James Bible (1611)** translated it as *"and it came to pass"* — a formula that recurs roughly **450 times** in the KJV. This scriptural saturation is precisely why the phrase sounds so solemn today.
+
+Here, *pass* is used in its older sense of **"to happen, occur"** — a sense preserved in *happen*'s archaic cousin *hap* (as in *perhaps*, *mishap*, *haphazard*).
+
+### Register and Usage
+* **Register:** archaic, biblical, literary, ceremonial. It is rare in ordinary speech.
+* **Effect in modern use:** dignity, gravity, or — deliberately — irony and mock-grandeur.
+* **Grammar:** typically impersonal with *it* (*"it came to pass that…"*), or takes a plural subject (*"these things came to pass"*).
+* **Related archaic form:** **bring to pass** = to cause to happen (*"He brought his promise to pass"*).
+
+> **Model Sentence:** *"For years the analysts had warned of a liquidity crisis — and in the autumn of that year, it **came to pass**."*
+
+---
+
+## 2. Come About
+
+**Meaning:** To happen, especially through a process, a chain of events, or by chance; frequently used of **change**.
+
+* *"How did this situation **come about**?"*
+* *"The reform **came about** after decades of campaigning."*
+
+**Nuance:** Unlike *come to pass* (which stresses *fulfilment*), *come about* stresses **causation and process**. It is common in British English and neutral-to-formal.
+
+**Separate nautical sense:** Of a ship, to *come about* is to **change tack** (turn through the wind).
+
+---
+
+## 3. Come to Be / Come into Being
+
+* **Come to be:** to begin to exist or arise — *"No one knows how the custom **came to be**."*
+* **Come into being / existence:** to be created or brought into existence — *"A new nation **came into being** in 1947."*
+
+---
+
+## 4. Come True
+
+Of a wish, dream, hope, or prediction: to be **realized**.
+* *"Her lifelong ambition finally **came true**."*
+* *"Be careful what you wish for — it might **come true**."*
+
+---
+
+## 5. Transpire — The Great Usage Controversy
+
+**Phonetics:** /trænˈspaɪər/.
+
+### Etymological Architecture
+From Latin **trans-** ("through, across") + **spirare** ("to breathe") — literally *"to breathe through,"* hence *"to evaporate, escape as vapour."* The word travelled from the physical (moisture transpiring through a surface) to the informational.
+
+### The Two Competing Senses
+
+#### A. The Traditional Sense: To Become Known, to Leak Out
+*"Transpire"* originally came to mean, of a secret or fact, **to become known or to come to light**:
+* *"It later **transpired** that the minister had known all along."*
+* *"Nothing **transpired** about the closed-door meeting."*
+
+#### B. The Disputed Sense: To Happen, to Occur
+In the 18th century, a second sense emerged — *transpire* as a synonym for *happen*:
+* *"What **transpired** at the meeting remains unclear."*
+
+### Why It Is Controversial
+Traditional authorities (and much British usage) object that this second sense is a **misuse**, since the word's proper function is to describe *information becoming known*, not *events occurring*. American English, however, has adopted the "happen" sense widely, and many modern dictionaries now list it as fully standard in that register.
+
+> **Practical guidance:** In careful formal prose, reserve *transpire* for **"become known"** (*"it transpired that…"*) and use *happen, occur, take place,* or *come about* for events. Avoid *"what transpired"* if your audience is likely to be prescriptive.
+
+---
+
+## 6. Befall and Betide
+
+### Befall
+**Meaning:** (of something, usually unwelcome) to **happen to** a person. Literary and formal.
+* *"A terrible tragedy **befell** the family."*
+* *"Whatever **befalls** us, we face it together."*
+
+**Etymology:** Old English **befallan** = *be-* ("about") + *feallan* ("to fall") — literally *"to fall to (someone's lot)."*
+
+**Exception/restriction:** *Befall* almost always takes a **negative or fateful** event as its subject (*misfortune, disaster, tragedy*), and the person affected is the object.
+
+### Betide
+**Meaning:** To happen to; to befall. Now archaic/literary, fossilized chiefly in the threat **"woe betide"**:
+* *"**Woe betide** anyone who interrupts him."* (= misfortune will come to them)
+* *"Whatever **betide**, we shall endure."*
+
+**Etymology:** Old English **betīdan** = *be-* + *tīdan* ("to happen"), from the root of *tide* and *time*.
+
+---
+
+## 7. Materialize, Pan Out, Unfold, Eventuate, Come Off
+
+| Expression | Meaning | Register | Nuance |
+| :--- | :--- | :--- | :--- |
+| **Materialize** | To become actual or real | Neutral | Often implies doubt: *"the funding never materialized."* |
+| **Pan out** | To turn out; to succeed | Informal | *"It didn't pan out."* |
+| **Unfold** | To develop or be revealed gradually | Neutral/literary | *"Events unfolded rapidly."* |
+| **Eventuate** | To result (in) | Very formal, chiefly BrE | *"The dispute eventuated in war."* |
+| **Come off** | To happen; to succeed | Informal (BrE) | *"The wedding came off beautifully."* |
+| **Go down** | To happen | Informal | *"What went down last night?"* |
+| **Come to be** | To arise, begin to exist | Neutral/formal | *"How did this come to be?"* |
+
+> **Note on *come off*:** It has several other senses: to *succeed* (*"the trick came off"*), to *leave* (*"come off the stage"*), and in the exclamation **"Come off it!"** (= stop talking nonsense).
+
+---
+
+## 8. Comparative Master Matrix
+
+| Expression | Register | Core Nuance | Typical Pattern |
+| :--- | :--- | :--- | :--- |
+| **Come to pass** | Archaic/biblical | Fulfilment of what was foretold | *it came to pass that…* |
+| **Come about** | Neutral/formal | Arise through process or chance | *how did it come about?* |
+| **Come to be** | Neutral/formal | Begin to exist | *how did this come to be?* |
+| **Come true** | Neutral | A wish/prediction realized | *her dream came true* |
+| **Transpire** | Formal (disputed) | Become known / (loosely) happen | *it transpired that…* |
+| **Befall** | Literary | (Bad thing) happen to someone | *misfortune befell him* |
+| **Betide** | Archaic | Happen (often ill) | *woe betide you* |
+| **Materialize** | Neutral | Become actual (with doubt) | *it never materialized* |
+| **Pan out** | Informal | Turn out / succeed | *it panned out well* |
+| **Unfold** | Neutral/literary | Develop gradually | *the story unfolded* |
+| **Eventuate** | Very formal | Result in | *eventuated in disaster* |
+| **Come off** | Informal | Happen / succeed | *the plan came off* |
+
+---
+
+## 9. Cases and Exceptions to Watch
+
+* **"Come to pass" is virtually never used in casual speech.** Deploy it only for deliberate gravity or irony.
+* **The "transpire" trap.** Traditionalists reject *transpire* = *happen*. Know your audience.
+* **"Befall" takes bad news.** You rarely say *"good fortune befell him"* — the word leans ominous.
+* **"Betide" survives mainly in threats:** *"woe betide…"*.
+* **"Pan out" is informal and often dismissive** of grand plans.
+* **The *hap* family:** *perhaps, mishap, haphazard, haply* are fossilized cousins of "happen."
+* **Register mismatch is the classic error:** *"It transpired that…"* next to *"things panned out"* creates tonal whiplash.
+
+---
+
+## 10. Diagnostic Synthesis
+
+> "The prophecy, long dismissed as superstition, **came to pass** on a grey October morning. It **transpired** that the two signatories had known each other for years, though how their alliance **came about** no one could say. As events **unfolded**, the promised reforms simply never **materialized**; the grand plan did not **pan out**, and a quiet dread **befell** the city."
+
+---
+
+## 11. Knowledge Retention Quiz
+
+**1. Which expression most strongly implies the fulfilment of something foretold?**
+A) pan out
+B) come to pass
+C) come off
+D) go down
+
+**2. Why does "come to pass" sound archaic and solemn?**
+A) It is a brand name
+B) It is a Hebraism popularized by the King James Bible
+C) It comes from Old Norse
+D) It is a recent coinage
+
+**3. What is the traditional objection to the sentence "What transpired at the meeting?"**
+A) It should be "transpired to"
+B) *Transpire* traditionally means "become known," not "happen"
+C) It is too informal
+D) *Transpire* is a noun
+
+**4. Which word almost always takes a negative, fateful event as its subject?**
+A) materialize
+B) unfold
+C) befall
+D) eventuate
+
+**5. "Woe betide anyone who is late" uses "betide" to mean:**
+A) bless
+B) happen to (with a threat of misfortune)
+C) celebrate
+D) forgive
+
+### Answer Key & Rationale
+1. **B.** *Come to pass* implies fulfilment of a prophecy or expectation.
+2. **B.** Its solemnity derives from the King James Bible's Hebrew-derived formula.
+3. **B.** Purists insist *transpire* means "become known"; the "happen" sense is disputed.
+4. **C.** *Befall* is used chiefly of misfortune or tragedy.
+5. **B.** *Woe betide* is a fossilized threat meaning "misfortune will come to."
+
+***
+© 2026 Igor Kan

@@ -28,6 +28,8 @@ The engine of the sentence. Verbs convey action, occurrence, or state of being (
 ## 4. Prepositions ($Prep$)
 Relational connectors establishing spatial, temporal, or logical vectors between nominal phrases and the rest of the clause (*in, on, through, beyond, despite*).
 
+> **See also:** [The Complete Guide to English Prepositions](prepositions-types-and-usage.qmd) and [Dependent Prepositions & Collocations](prepositions-dependent-and-collocations.qmd).
+
 ## 5. Conjunctions ($Conj$)
 Structural joints binding words, phrases, or clauses:
 * **Coordinating (FANBOYS):** *For, And, Nor, But, Or, Yet, So* (joins syntactically equivalent units).

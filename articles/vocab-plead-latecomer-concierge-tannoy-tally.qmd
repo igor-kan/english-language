@@ -1,0 +1,208 @@
+---
+title: "Words of Appeals and Public Spaces: 'Plead For', 'Latecomer', 'Concierge', 'Tannoy', and 'Tally'"
+subtitle: "A lexical tour through begging, belated arrivals, hospitality, mass announcements, and counting."
+description: "A vocabulary masterclass on five distinctive words: plead (for), latecomer, concierge, tannoy, and tally — with etymology, register, syntax, and idiomatic usage."
+author: "Igor Kan"
+date: "2026-09-14"
+categories: [Vocabulary, Lexical-Deep-Dive, Etymology, Register, British-English]
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    minimal: true
+---
+
+# Introduction: Five Windows onto English Life
+
+Some words are best understood not as isolated definitions but as small windows onto culture: the courtroom and the plea, the turned head of the **latecomer**, the discreet power of the hotel **concierge**, the crackling **tannoy** of a British railway station, and the reassuring **tally** of a final count. This masterclass treats each in turn.
+
+---
+
+## 1. Plead (For) — Verb
+
+**Phonetics:** /pliːd/.
+
+### Etymological Foundation
+From Old French **plaidier** ("to plead a case"), from Medieval Latin **placitare**, from Latin **placitum** ("a decision, decree, plea"), from **placere** ("to please, be agreeable"). The same root yields *plea*, *please*, *pleasant*, *placid*, and *complacent* — a family united by the idea of *satisfaction and agreement*.
+
+### The Two Arenas
+
+#### A. The Legal Sense
+To plead is to formally answer a charge or argue a case in court:
+* *"The defendant **pleaded** not guilty."*
+* *"She **pleaded** her case with quiet conviction."*
+* *"He **pleaded** the Fifth"* (US: declined to answer on grounds of self-incrimination).
+* *"They **pleaded** insanity."*
+
+#### B. The Emotional Sense — Plead For / Plead With
+To beg earnestly, or to make an impassioned appeal:
+* **plead for + thing:** *"The prisoner **pleaded for** mercy."*
+* **plead with + person:** *"She **pleaded with** him to stay."*
+* **plead to + infinitive:** *"They **pleaded to** be released."*
+* **plead ignorance:** *"He **pleaded** ignorance of the rules."*
+
+### The Synonym Ladder of Entreaty
+
+```text
+[ Intensity of Entreaty ]
+
+Ask ───► Request ───► Plead ───► Beg ───► Implore ───► Entreat ───► Beseech ───► Supplicate
+(mild)    (polite)    (earnest)  (humble) (emotional)  (formal)     (literary)   (abject)
+```
+
+| Word | Nuance |
+| :--- | :--- |
+| **Plead** | Earnest, often emotional; also legal. |
+| **Beg** | Humble, desperate, or informal. |
+| **Implore** | Deeply emotional; appeals to feeling. |
+| **Entreat** | Formal; appeals to reason or goodwill. |
+| **Beseech** | Literary; archaic gravity. |
+| **Supplicate** | Formal/religious; abject humility. |
+
+> **Note:** The standard past tense is **pleaded**; the form **pled** is common in American and Scottish usage.
+
+> **Model Sentence:** *"The villagers **pleaded with** the council **for** more time, but the demolition order stood."*
+
+---
+
+## 2. Latecomer — Noun
+
+**Phonetics:** /ˈleɪtˌkʌm.ər/.
+
+### Meaning
+A person who arrives late — to an event, a party, a meeting, or (by extension) a field or trend:
+* *"Latecomers were asked to wait at the back."*
+* *"The company was a latecomer to the smartphone market."*
+
+### Nuance and Relations
+* **Latecomer** is neutral; **late arrival** is a slightly more formal synonym.
+* **Johnny-come-lately** is a disparaging term for someone who arrives or joins late, with the implication of inexperience or opportunism: *"Some Johnny-come-lately startup is now claiming to have invented it."*
+* By analogy, *newcomer* emphasizes being new rather than late; *latecomer* emphasizes the timing.
+
+> **Model Sentence:** *"As a **latecomer** to streaming, the studio had to spend heavily to catch up."*
+
+---
+
+## 3. Concierge — Noun
+
+**Phonetics:** BrE /ˈkɒn.si.ɛəʒ/, AmE /ˌkɒn.siˈɛrʒ/.
+
+### Etymological Architecture
+From French **concierge**, from Old French, probably from Vulgar Latin ***conservius*** ("fellow servant," from *con-* "with" + *servus* "servant"). The word has carried two distinct roles for centuries.
+
+### The Two Traditional Roles
+1. **In France and some European cities:** the **caretaker or janitor** of an apartment building, who manages the entrance, keys, and building affairs — a position of surprising power.
+2. **In hotels worldwide:** the **guest-services specialist** who arranges reservations, tickets, transport, and local recommendations — the embodiment of discreet, resourceful hospitality.
+
+### Modern Extensions
+* **Concierge desk / concierge service:** a dedicated assistance function in hotels, airports, and offices.
+* **Concierge medicine:** a premium model in which patients pay a retainer for rapid, personalized access to a physician.
+* **Digital concierge:** an AI or app-based assistant offering the same personalized service.
+
+> **Model Sentence:** *"The **concierge** secured impossible tickets, a private car, and a corner table — all before breakfast."*
+
+---
+
+## 4. Tannoy — Noun (British English)
+
+**Phonetics:** /ˈtæn.ɔɪ/.
+
+### Etymological Origin
+**Tannoy** is a **genericized trademark**. The name was coined in 1926 by the Scottish company Tannoy Ltd., and is a blend of **tantalum** (a metal used in early components) + **alloy**. Like *hoover*, *biro*, and *sellotape*, the brand name passed into common usage in Britain.
+
+### Meaning and Usage
+In British English, *tannoy* denotes a **public-address system** and, by metonymy, an **announcement made over it**:
+* *"They announced the delay over the **tannoy**."*
+* *"The **tannoy** crackled into life."*
+* *"I heard my name on the **tannoy**."*
+
+### Register and Regional Variation
+* **British:** *tannoy* (informal to neutral); *PA system* (formal).
+* **American:** *PA system*, *intercom*, *public address*, or *loudspeaker* — *tannoy* is not used.
+
+> **Model Sentence:** *"A voice over the **tannoy** apologised for the delay and invited passengers to Platform 4."*
+
+---
+
+## 5. Tally — Noun and Verb
+
+**Phonetics:** /ˈtæl.i/.
+
+### Etymological Origin
+From Anglo-Norman **tallie** and Medieval Latin **tallia** ("a cutting, a tally"), from Latin **talea** ("a rod, stick, cutting"). The historical **tally stick** — a notched wooden stick split lengthwise so that debtor and creditor each held half — was the original receipt. The notches recorded the debt; matching the two halves proved authenticity — hence the modern sense of *"corresponding"* or *"agreeing."*
+
+### The Two Roles
+
+#### A. Noun: A Count or Record
+* *"Keep a **tally** of every expense."*
+* *"The final **tally** was 42 votes to 38."*
+* *"The **tally** of casualties rose overnight."*
+
+#### B. Verb: To Count, Sum Up, or Correspond
+* **tally (up) + object (count):** *"They **tallied** the ballots by hand."*
+* **tally with + noun (agree):** *"Her account does not **tally with** the evidence."*
+* *"The numbers simply don't **tally**."*
+
+### Idioms and Collocations
+* *Keep a running tally*
+* *The final tally*
+* *Tally up the results*
+* *His story tallies with hers*
+* *Tally sheet* (a record sheet)
+
+> **Note:** Do not confuse *tally* with **tally-ho** (an unrelated fox-hunting cry) or with *tallywhacker* (slang).
+
+> **Model Sentence:** *"By midnight the scrutineers had **tallied** every ballot, and the final **tally** confirmed the recount."*
+
+---
+
+## 6. Synthesizing the Five Words
+
+> "The guest arrived at the hotel as a **latecomer**, flustered and drenched. The **concierge**, unruffled, arranged a new reservation and, over the **tannoy**-like paging system, summoned the porter. The guest **pleaded for** a room with a view; the concierge promised to **tally** the available upgrades and report back within the hour."
+
+---
+
+## 7. Knowledge Retention Quiz
+
+**1. Which word is a British genericized trademark for a public-address system?**
+A) concierge
+B) tannoy
+C) tally
+D) latecomer
+
+**2. What is the literal origin of "tally"?**
+A) A clock tower
+B) A notched counting stick
+C) A hotel register
+D) A courtroom plea
+
+**3. Which pair is etymologically related?**
+A) plead and please
+B) tally and tall
+C) tannoy and tanner
+D) concierge and concert
+
+**4. What does "Johnny-come-lately" most closely mean?**
+A) A punctual person
+B) A disparaging term for a latecomer or newcomer
+C) A loyal regular
+D) A hotel manager
+
+**5. In "her account does not tally with the evidence," what does "tally" mean?**
+A) To count
+B) To agree or correspond
+C) To argue
+D) To record
+
+### Answer Key & Rationale
+1. **B.** *Tannoy* is a genericized British trademark (TannOy = tantalum alloy) for a PA system.
+2. **B.** A *tally* was originally a notched stick (from Latin *talea*, "cutting/rod") used to record debts.
+3. **A.** *Plead* and *please* both descend from Latin *placere / placitum*.
+4. **B.** *Johnny-come-lately* is a pejorative for a late or opportunistic arrival.
+5. **B.** *Tally with* means to agree or correspond.
+
+***
+© 2026 Igor Kan
