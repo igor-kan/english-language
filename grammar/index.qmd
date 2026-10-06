@@ -20,3 +20,4 @@ Grammar is not a collection of arbitrary schoolhouse rules; it is the structural
 * **Tense and Aspect:** Mapping time, completion, and duration across the twelve canonical tense-aspect permutations.
 * **Prepositions:** [Types and Usage](prepositions-types-and-usage.qmd) and [Dependent Prepositions & Collocations](prepositions-dependent-and-collocations.qmd).
 * **Sentence Architecture:** Independent vs. dependent clauses, coordination, subordination, and parallel construction.
+* **Grammatical Mood:** [Subjunctive vs. Indicative Mood](subjunctive-and-indicative-mood.qmd) — Demarcating realis from irrealis, counterfactual conditionals, mandative demands, and formulaic expressions.
