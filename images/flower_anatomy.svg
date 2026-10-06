@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="100%" height="100%">
+  <defs>
+    <style>
+      .label-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 22px; font-weight: 700; fill: #1e293b; }
+      .label-subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 14px; fill: #64748b; font-style: italic; }
+      .organ-header { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; font-weight: 700; fill: #0f172a; }
+      .organ-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; fill: #334155; }
+      .latin-term { font-family: "Georgia", serif; font-size: 12px; fill: #64748b; font-style: italic; }
+      .leader-line { stroke: #475569; stroke-width: 1.5; stroke-dasharray: 4,3; fill: none; }
+      .callout-box { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 1.5; rx: 8; }
+      .petal-bg { fill: #f472b6; fill-opacity: 0.25; stroke: #db2777; stroke-width: 2.5; }
+      .petal-fg { fill: #f472b6; fill-opacity: 0.45; stroke: #be185d; stroke-width: 2.5; }
+      .sepal-path { fill: #86efac; fill-opacity: 0.6; stroke: #16a34a; stroke-width: 2; }
+      .stem-path { fill: none; stroke: #15803d; stroke-width: 16; stroke-linecap: round; }
+      .receptacle-path { fill: #22c55e; stroke: #166534; stroke-width: 2; }
+      .carpel-body { fill: #a7f3d0; stroke: #059669; stroke-width: 2.5; }
+      .stigma-head { fill: #fde047; stroke: #ca8a04; stroke-width: 2; }
+      .ovule-dot { fill: #fef08a; stroke: #a16207; stroke-width: 1.5; }
+      .filament-line { stroke: #ca8a04; stroke-width: 3; fill: none; }
+      .anther-head { fill: #eab308; stroke: #a16207; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="10" y="10" width="880" height="600" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- Title Header -->
+  <text x="450" y="45" text-anchor="middle" class="label-title">Angiosperm Floral Anatomy: The Visual Dictionary</text>
+  <text x="450" y="68" text-anchor="middle" class="label-subtitle">Morphological architecture of the flower (Petals, Sepals, Stamen, and Carpel/Pistil)</text>
+
+  <!-- Stem & Pedicel -->
+  <path d="M 450 490 Q 450 560 450 580" class="stem-path"/>
+  <ellipse cx="450" cy="490" rx="42" ry="18" class="receptacle-path"/>
+
+  <!-- Sepals (Calyx) -->
+  <path d="M 408 490 C 340 495 300 460 280 430 C 315 450 370 470 412 482 Z" class="sepal-path"/>
+  <path d="M 492 490 C 560 495 600 460 620 430 C 585 450 530 470 488 482 Z" class="sepal-path"/>
+
+  <!-- Background Petals -->
+  <path d="M 450 480 C 320 440 220 300 250 180 C 310 180 390 280 430 420 Z" class="petal-bg"/>
+  <path d="M 450 480 C 580 440 680 300 650 180 C 590 180 510 280 470 420 Z" class="petal-bg"/>
+  <path d="M 450 480 C 390 320 400 160 450 110 C 500 160 510 320 450 480 Z" class="petal-bg"/>
+
+  <!-- Forefront Petals (Corolla) -->
+  <path d="M 450 485 C 340 485 240 380 220 280 C 290 290 370 380 425 470 Z" class="petal-fg"/>
+  <path d="M 450 485 C 560 485 660 380 680 280 C 610 290 530 380 475 470 Z" class="petal-fg"/>
+
+  <!-- Stamens (Male Anatomy: Filament + Anther) -->
+  <!-- Left Inner Stamen -->
+  <path d="M 435 475 Q 370 360 360 240" class="filament-line"/>
+  <ellipse cx="360" cy="235" rx="14" ry="8" transform="rotate(-25 360 235)" class="anther-head"/>
+
+  <!-- Left Outer Stamen -->
+  <path d="M 425 480 Q 330 390 310 280" class="filament-line"/>
+  <ellipse cx="310" cy="275" rx="14" ry="8" transform="rotate(-35 310 275)" class="anther-head"/>
+
+  <!-- Right Inner Stamen -->
+  <path d="M 465 475 Q 530 360 540 240" class="filament-line"/>
+  <ellipse cx="540" cy="235" rx="14" ry="8" transform="rotate(25 540 235)" class="anther-head"/>
+
+  <!-- Right Outer Stamen -->
+  <path d="M 475 480 Q 570 390 590 280" class="filament-line"/>
+  <ellipse cx="590" cy="275" rx="14" ry="8" transform="rotate(35 590 275)" class="anther-head"/>
+
+  <!-- Carpel / Pistil (Female Anatomy: Ovary, Style, Stigma) -->
+  <!-- Ovary Base -->
+  <path d="M 420 480 C 410 440 430 390 440 370 L 460 370 C 470 390 490 440 480 480 Z" class="carpel-body"/>
+  <!-- Ovules inside Ovary -->
+  <circle cx="442" cy="435" r="5" class="ovule-dot"/>
+  <circle cx="458" cy="435" r="5" class="ovule-dot"/>
+  <circle cx="442" cy="455" r="5" class="ovule-dot"/>
+  <circle cx="458" cy="455" r="5" class="ovule-dot"/>
+
+  <!-- Style (Neck) -->
+  <rect x="444" y="210" width="12" height="160" fill="#a7f3d0" stroke="#059669" stroke-width="2"/>
+
+  <!-- Stigma (Receptive Tip) -->
+  <ellipse cx="450" cy="205" rx="22" ry="12" class="stigma-head"/>
+  <path d="M 440 198 Q 450 192 460 198" stroke="#854d0e" stroke-width="2" fill="none"/>
+
+  <!-- ================= LABELS & CALLOUTS ================= -->
+
+  <!-- 1. PISTIL / CARPEL (Left Callout Box) -->
+  <rect x="35" y="110" width="220" height="150" class="callout-box"/>
+  <text x="50" y="135" class="organ-header" fill="#047857">CARPEL / PISTIL</text>
+  <text x="50" y="152" class="latin-term">Gynoecium (Female Organ)</text>
+  <text x="50" y="178" class="organ-sub">• <tspan font-weight="bold">Stigma</tspan>: Receptive sticky tip</text>
+  <text x="50" y="202" class="organ-sub">• <tspan font-weight="bold">Style</tspan>: Elongated pollen tube conduit</text>
+  <text x="50" y="226" class="organ-sub">• <tspan font-weight="bold">Ovary</tspan>: Swollen basal chamber</text>
+  <text x="50" y="248" class="organ-sub">• <tspan font-weight="bold">Ovule</tspan>: Seed precursor</text>
+
+  <!-- Leader lines to Carpel -->
+  <path d="M 255 174 L 426 205" class="leader-line"/> <!-- to Stigma -->
+  <path d="M 255 198 L 442 290" class="leader-line"/> <!-- to Style -->
+  <path d="M 255 222 L 418 430" class="leader-line"/> <!-- to Ovary -->
+
+  <!-- 2. STAMEN (Right Callout Box) -->
+  <rect x="645" y="110" width="220" height="120" class="callout-box"/>
+  <text x="660" y="135" class="organ-header" fill="#b45309">STAMEN</text>
+  <text x="660" y="152" class="latin-term">Androecium (Male Organ)</text>
+  <text x="660" y="180" class="organ-sub">• <tspan font-weight="bold">Anther</tspan>: Pollen-producing sac</text>
+  <text x="660" y="206" class="organ-sub">• <tspan font-weight="bold">Filament</tspan>: Slender supporting stalk</text>
+
+  <!-- Leader lines to Stamen -->
+  <path d="M 645 176 L 555 235" class="leader-line"/> <!-- to Anther -->
+  <path d="M 645 202 L 535 340" class="leader-line"/> <!-- to Filament -->
+
+  <!-- 3. PETALS (COROLLA) -->
+  <rect x="35" y="320" width="200" height="85" class="callout-box"/>
+  <text x="50" y="345" class="organ-header" fill="#be185d">PETAL (COROLLA)</text>
+  <text x="50" y="362" class="latin-term">Attraction & Protection</text>
+  <text x="50" y="388" class="organ-sub">Pigmented whorl attracting pollinators</text>
+  <path d="M 235 355 L 290 355" class="leader-line"/>
+
+  <!-- 4. SEPALS (CALYX) -->
+  <rect x="665" y="420" width="200" height="85" class="callout-box"/>
+  <text x="680" y="445" class="organ-header" fill="#15803d">SEPAL (CALYX)</text>
+  <text x="680" y="462" class="latin-term">Protective Outer Whorl</text>
+  <text x="680" y="488" class="organ-sub">Encloses & shields the developing bud</text>
+  <path d="M 665 455 L 590 460" class="leader-line"/>
+
+  <!-- 5. RECEPTACLE & PEDICEL (Bottom Box) -->
+  <rect x="320" y="525" width="260" height="70" class="callout-box"/>
+  <text x="450" y="550" text-anchor="middle" class="organ-header" fill="#0f172a">RECEPTACLE &amp; PEDICEL</text>
+  <text x="450" y="572" text-anchor="middle" class="organ-sub">Thickened stem axis supporting floral organs</text>
+</svg>

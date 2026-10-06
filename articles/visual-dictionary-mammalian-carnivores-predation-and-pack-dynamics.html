@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Igor Kan">
+<meta name="dcterms.date" content="2026-09-13">
+
+<title>The Visual Dictionary of Mammalian Predation: Ethology, Pack Dynamics, and the Anatomy of the Hunt – English Mastery</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-9ab4d25b100e0cf1b4ddd8980a311296.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-696f7de94c590cebaa90b3a918fdc0b6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-9ab4d25b100e0cf1b4ddd8980a311296.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">English Mastery</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../articles.html"> 
+<span class="menu-text">All Articles &amp; Tags</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../curriculum.html"> 
+<span class="menu-text">Learning Roadmap</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a>
+  <ul class="collapse">
+  <li><a href="#pack-dynamics-coordinated-canid-hunting" id="toc-pack-dynamics-coordinated-canid-hunting" class="nav-link" data-scroll-target="#pack-dynamics-coordinated-canid-hunting">1. Pack Dynamics &amp; Coordinated Canid Hunting</a>
+  <ul class="collapse">
+  <li><a href="#the-canid-ethology-lexicon" id="toc-the-canid-ethology-lexicon" class="nav-link" data-scroll-target="#the-canid-ethology-lexicon">The Canid Ethology Lexicon</a></li>
+  </ul></li>
+  <li><a href="#pride-structure-apex-dominance-and-ambush" id="toc-pride-structure-apex-dominance-and-ambush" class="nav-link" data-scroll-target="#pride-structure-apex-dominance-and-ambush">2. Pride Structure, Apex Dominance, and Ambush</a>
+  <ul class="collapse">
+  <li><a href="#the-felid-ethology-lexicon" id="toc-the-felid-ethology-lexicon" class="nav-link" data-scroll-target="#the-felid-ethology-lexicon">The Felid Ethology Lexicon</a></li>
+  </ul></li>
+  <li><a href="#ursid-strength-and-the-visceral-mechanics-of-maul" id="toc-ursid-strength-and-the-visceral-mechanics-of-maul" class="nav-link" data-scroll-target="#ursid-strength-and-the-visceral-mechanics-of-maul">3. Ursid Strength and the Visceral Mechanics of “Maul”</a>
+  <ul class="collapse">
+  <li><a href="#deep-etymology-nuance-maul" id="toc-deep-etymology-nuance-maul" class="nav-link" data-scroll-target="#deep-etymology-nuance-maul">Deep Etymology &amp; Nuance: Maul</a></li>
+  </ul></li>
+  <li><a href="#anatomical-visual-lexicon-locomotion-dentition" id="toc-anatomical-visual-lexicon-locomotion-dentition" class="nav-link" data-scroll-target="#anatomical-visual-lexicon-locomotion-dentition">4. Anatomical Visual Lexicon: Locomotion &amp; Dentition</a>
+  <ul class="collapse">
+  <li><a href="#skeletal-stances-plantigrade-vs.-digitigrade-vs.-unguligrade" id="toc-skeletal-stances-plantigrade-vs.-digitigrade-vs.-unguligrade" class="nav-link" data-scroll-target="#skeletal-stances-plantigrade-vs.-digitigrade-vs.-unguligrade">Skeletal Stances: Plantigrade vs.&nbsp;Digitigrade vs.&nbsp;Unguligrade</a></li>
+  <li><a href="#the-carnassial-apparatus" id="toc-the-carnassial-apparatus" class="nav-link" data-scroll-target="#the-carnassial-apparatus">The Carnassial Apparatus</a></li>
+  </ul></li>
+  <li><a href="#diagnostic-synthesis-the-anatomy-of-an-arctic-hunt" id="toc-diagnostic-synthesis-the-anatomy-of-an-arctic-hunt" class="nav-link" data-scroll-target="#diagnostic-synthesis-the-anatomy-of-an-arctic-hunt">Diagnostic Synthesis: The Anatomy of an Arctic Hunt</a></li>
+  <li><a href="#knowledge-retention-diagnostic" id="toc-knowledge-retention-diagnostic" class="nav-link" data-scroll-target="#knowledge-retention-diagnostic">Knowledge Retention Diagnostic</a>
+  <ul class="collapse">
+  <li><a href="#explanatory-answer-key" id="toc-explanatory-answer-key" class="nav-link" data-scroll-target="#explanatory-answer-key">Explanatory Answer Key</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<div class="quarto-title-block"><div><h1 class="title">The Visual Dictionary of Mammalian Predation: Ethology, Pack Dynamics, and the Anatomy of the Hunt</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
+<p class="subtitle lead">A photographic and terminological guide to carnivore hunting strategies, social hierarchy, and predatory behavior</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Visual Dictionary</div>
+    <div class="quarto-category">Zoological Lexicon</div>
+    <div class="quarto-category">Comparative Ethology</div>
+    <div class="quarto-category">Predation &amp; Anatomy</div>
+    <div class="quarto-category">C1-Effective-Operational</div>
+    <div class="quarto-category">C2-Mastery</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Igor Kan </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2026-09-13</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>In evolutionary biology and wildlife literature, describing how apex carnivores survive demands a lexicon as sharp as the claws and teeth of the animals themselves. The interactions between predator and prey—and the intricate social hierarchies within hunting groups—are governed by precise scientific and descriptive vocabulary.</p>
+<p>This visual dictionary pairs high-definition field photography with rigorous linguistic analysis, exploring the mechanics of <strong>pack dynamics</strong>, the visceral reality of being <strong>mauled</strong>, and the physiological adaptations that define mammalian predators.</p>
+<hr>
+<section id="pack-dynamics-coordinated-canid-hunting" class="level2">
+<h2 data-anchor-id="pack-dynamics-coordinated-canid-hunting">1. Pack Dynamics &amp; Coordinated Canid Hunting</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/wolf_pack.jpg" style="width:95.0%" class="figure-img"></p>
+<figcaption>Gray Wolf Pack (<em>Canis lupus</em>) navigating a snowbound boreal forest in tight chronological formation. Note the alert ear posture, forward eye placement, and collective vigilance.</figcaption>
+</figure>
+</div>
+<section id="the-canid-ethology-lexicon" class="level3">
+<h3 data-anchor-id="the-canid-ethology-lexicon">The Canid Ethology Lexicon</h3>
+<section id="pack-noun-intransitive-verb" class="level4">
+<h4 data-anchor-id="pack-noun-intransitive-verb">Pack (Noun &amp; Intransitive Verb)</h4>
+<ul>
+<li><strong>Phonetics</strong>: /pæk/</li>
+<li><strong>Etymology</strong>: From Middle Dutch or Middle Low German <em>pak</em> (bundle, package), evolving by the 15th century to describe a cohesive, organized band of animals or hounds working in concert.</li>
+<li><strong>Ethological Definition</strong>: A structured, cooperative social unit—typically composed of an interrelated family group—operating under collective communication, territorial defense, and collaborative hunting strategies.</li>
+<li><em>Collocations</em>: <em>Pack hunting</em>, <em>pack mentality</em> (often applied sociologically to human conformism), <em>leader of the pack</em>.</li>
+</ul>
+</section>
+<section id="the-anatomy-of-the-chase-stalk-ambush-and-coursing" class="level4">
+<h4 data-anchor-id="the-anatomy-of-the-chase-stalk-ambush-and-coursing">The Anatomy of the Chase: Stalk, Ambush, and Coursing</h4>
+<p>Mammalian predators employ distinct predatory strategies based on skeletal morphology:</p>
+<pre class="text"><code>                  [ PREDATORY HUNTING STRATEGIES ]
+
+       COURSING PREDATORS               AMBUSH &amp; STALKING PREDATORS
+       (e.g., Wolves, Painted Dogs)     (e.g., Tigers, Leopards, Cougars)
+               │                                      │
+               ▼                                      ▼
+     Long-distance endurance               Stealth approach (stalking)
+     exhaustion of quarry;                 utilizing cover, followed by
+     testing herd vulnerability.           an explosive leap (pouncing).</code></pre>
+<ul>
+<li><strong>Coursing</strong> <em>(Noun / Verb)</em>: The pursuit of prey using sight and long-distance cardiovascular stamina rather than concealment. Wolves run down their quarry over kilometers, exploiting weakness and fatigue.</li>
+<li><strong>Quarry</strong> <em>(Noun)</em>: /ˈkwɒri/ From Old French <em>cuirée</em> (the skin and parts of a hunted animal given to hounds, from Latin <em>corium</em>, skin). Denotes the targeted animal or prey being pursued in a hunt.</li>
+<li><strong>Alpha / Dominance Hierarchy Myth</strong>: Modern wildlife biology (notably L. David Mech) has largely retired the popular concept of the brutal “alpha male” fighting for dominance in wild wolf packs; natural wild packs function primarily as <strong>nuclear family units</strong>, where the breeding male and female guide their offspring.</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="pride-structure-apex-dominance-and-ambush" class="level2">
+<h2 data-anchor-id="pride-structure-apex-dominance-and-ambush">2. Pride Structure, Apex Dominance, and Ambush</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/lion_pride.jpg" style="width:95.0%" class="figure-img"></p>
+<figcaption>African Lion Pride (<em>Panthera leo</em>) resting on the Serengeti savanna during golden hour. Note the heavy cranial musculature of the male and the streamlined, vigilant gaze of the lionesses.</figcaption>
+</figure>
+</div>
+<section id="the-felid-ethology-lexicon" class="level3">
+<h3 data-anchor-id="the-felid-ethology-lexicon">The Felid Ethology Lexicon</h3>
+<section id="pride-noun" class="level4">
+<h4 data-anchor-id="pride-noun">Pride (Noun)</h4>
+<ul>
+<li><strong>Phonetics</strong>: /praɪd/</li>
+<li><strong>Etymology</strong>: From Old English <em>prȳde</em> (arrogance, self-esteem), adopted as the specific venereal/collective noun for a congregation of lions by the 15th century.</li>
+<li><strong>Social Architecture</strong>: Unlike almost all other felids—which are solitary—lions form permanent matrilineal coalitions of related females, their cubs, and a small coalition of resident males that defend pride territory against rival coalitions.</li>
+</ul>
+</section>
+<section id="apex-predator-noun-phrase" class="level4">
+<h4 data-anchor-id="apex-predator-noun-phrase">Apex Predator (Noun Phrase)</h4>
+<ul>
+<li><strong>Phonetics</strong>: /ˈeɪpɛks ˈprɛdətər/</li>
+<li><strong>Definition</strong>: A predator residing at the absolute summit of a trophic food web, having no natural predators of its own in its native ecosystem (e.g., lions, orcas, polar bears).</li>
+<li><strong>Trophic Cascade</strong>: The ecological phenomenon whereby the presence or removal of an apex predator radically transforms the population dynamics and vegetation of the entire biome.</li>
+</ul>
+</section>
+<section id="pounce-verb-noun" class="level4">
+<h4 data-anchor-id="pounce-verb-noun">Pounce (Verb &amp; Noun)</h4>
+<ul>
+<li><strong>Phonetics</strong>: /paʊns/</li>
+<li><strong>Definition</strong>: To spring or swoop suddenly upon prey with outstretched claws or talons, delivering kinetic shock to collapse or pin the quarry.</li>
+<li><em>Collocation</em>: <em>Pounce on the opportunity</em> (metaphorical business/strategic idiom).</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="ursid-strength-and-the-visceral-mechanics-of-maul" class="level2">
+<h2 data-anchor-id="ursid-strength-and-the-visceral-mechanics-of-maul">3. Ursid Strength and the Visceral Mechanics of “Maul”</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/grizzly_bear.jpg" style="width:95.0%" class="figure-img"></p>
+<figcaption>Grizzly Bear (<em>Ursus arctos horribilis</em>) powerfully positioned in an Alaskan river rapids, seizing a leaping salmon. Note the massive shoulder hump and formidable non-retractile claws.</figcaption>
+</figure>
+</div>
+<section id="deep-etymology-nuance-maul" class="level3">
+<h3 data-anchor-id="deep-etymology-nuance-maul">Deep Etymology &amp; Nuance: Maul</h3>
+<section id="maul-transitive-verb-noun" class="level4">
+<h4 data-anchor-id="maul-transitive-verb-noun">Maul (Transitive Verb &amp; Noun)</h4>
+<ul>
+<li><strong>Phonetics</strong>: /mɔːl/</li>
+<li><strong>Historical Etymology</strong>: Traces through Middle English <em>mallen</em> (“to strike with a heavy hammer”) to the Old French <em>mail</em>, derived from Classical Latin <strong><em>malleus</em></strong> (a hammer, mallet).</li>
+<li><strong>Evolution of Meaning</strong>: Originally, to <em>maul</em> was to crush or hammer violently with a bludgeon. Over centuries of wildlife reporting and legal chronicles, the term shifted from blunt mechanical impact to describe the <strong>tearing, clawing, and lacerating damage inflicted by powerful wild beasts</strong> (primarily bears, big cats, and canids).</li>
+</ul>
+<pre class="text"><code>               [ ETYMOLOGICAL TRAJECTORY OF 'MAUL' ]
+
+    Latin: MALLEUS ──────► Middle English: MALLEN ──────► Modern English: MAUL
+    (Heavy Iron Hammer)    (To beat with a mallet)        (To tear, crush, &amp; lacerate
+                                                           with claws and teeth)</code></pre>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Semantic Nuance: Maul vs.&nbsp;Attack vs.&nbsp;Bite
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Attack</strong>: The broad initiating action; an animal can attack without making physical contact or causing injury.</li>
+<li><strong>Bite</strong>: A singular puncture or grasp with teeth.</li>
+<li><strong>Maul</strong>: Implies <strong>sustained, catastrophic, tearing physical trauma</strong>, combining heavy blunt force with lacerating claw strikes and crushing jaw pressure, leaving disfiguring wounds.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="high-register-usages-metaphorical-extensions" class="level4">
+<h4 data-anchor-id="high-register-usages-metaphorical-extensions">High-Register Usages &amp; Metaphorical Extensions</h4>
+<ul>
+<li><em>A horrific mauling</em>: A savage encounter resulting in extensive soft-tissue trauma.</li>
+<li><em>Critical mauling</em>: In literary or theatrical criticism, a devastating, merciless review that utterly destroys a production. (<em>“The director’s new play received a savage critical mauling.”</em>)</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="anatomical-visual-lexicon-locomotion-dentition" class="level2">
+<h2 data-anchor-id="anatomical-visual-lexicon-locomotion-dentition">4. Anatomical Visual Lexicon: Locomotion &amp; Dentition</h2>
+<p>To read and write about animal behavior with scientific precision, one must distinguish how animals carry their weight and how their teeth are structured for food processing.</p>
+<section id="skeletal-stances-plantigrade-vs.-digitigrade-vs.-unguligrade" class="level3">
+<h3 data-anchor-id="skeletal-stances-plantigrade-vs.-digitigrade-vs.-unguligrade">Skeletal Stances: Plantigrade vs.&nbsp;Digitigrade vs.&nbsp;Unguligrade</h3>
+<pre class="text"><code>  PLANTIGRADE                DIGITIGRADE                 UNGULIGRADE
+  (Bears, Humans)            (Wolves, Cats)              (Deer, Horses)
+      ┌───┐                      ┌───┐                       ┌───┐
+      │   │ Heel on              │   │ Heel elevated;        │   │ Tips of toes
+      │   │ ground               │   │ walks on toes         │   │ (hooves)
+  ════╧═══╧════              ════╧═══╧════               ════╧═══╧════</code></pre>
+<ol type="1">
+<li><strong>Plantigrade</strong> <em>(Adjective)</em>: Walking with the entire sole of the foot—including heel and metatarsals—flat on the ground (e.g., bears, raccoons, humans). Yields maximum stability and wrestling leverage, but limits sprinting efficiency.</li>
+<li><strong>Digitigrade</strong> <em>(Adjective)</em>: Walking exclusively on the digits (toes), with the wrist and heel elevated high off the ground (e.g., canids, felids). Maximizes stride length, silent stalking, and explosive acceleration.</li>
+<li><strong>Unguligrade</strong> <em>(Adjective)</em>: Walking on the very tips of the digits, typically shielded by keratinized hooves (e.g., horses, deer, bison).</li>
+</ol>
+</section>
+<section id="the-carnassial-apparatus" class="level3">
+<h3 data-anchor-id="the-carnassial-apparatus">The Carnassial Apparatus</h3>
+<p>Unlike herbivores with flat, grinding molars, true carnivores possess specialized <strong>carnassials</strong>—paired premolars and molars that shear against one another like heavy surgical shears to slice through tough tendons, hide, and muscle fiber.</p>
+<hr>
+</section>
+</section>
+<section id="diagnostic-synthesis-the-anatomy-of-an-arctic-hunt" class="level2">
+<h2 data-anchor-id="diagnostic-synthesis-the-anatomy-of-an-arctic-hunt">Diagnostic Synthesis: The Anatomy of an Arctic Hunt</h2>
+<p>Read the following passage demonstrating how these terms synthesize into rich descriptive prose:</p>
+<blockquote class="blockquote">
+<p>“The barren-ground caribou herd drifted warily across the tundra, their unguligrade hooves clicking softly against the permafrost. From the ridge above, a <strong>pack</strong> of arctic wolves began their silent, digitigrade approach, keeping downwind to avoid alerting their <strong>quarry</strong>. Rather than launching an immediate sprint, the wolves patiently <strong>coursed</strong> the flanks of the migration, testing the perimeter for any animal slowed by injury. A rogue solitary wolf that attempted to challenge a full-grown grizzly feeding on <strong>carrion</strong> at the riverbank was swiftly <strong>mauled</strong>, serving as a brutal reminder of the physical disparity between opportunistic predators and undisputed <strong>apex</strong> giants.”</p>
+</blockquote>
+<hr>
+</section>
+<section id="knowledge-retention-diagnostic" class="level2">
+<h2 data-anchor-id="knowledge-retention-diagnostic">Knowledge Retention Diagnostic</h2>
+<p><strong>1. What is the historical, etymological root of the verb “to maul”?</strong> A) Old Norse <em>máll</em>, meaning a sharp wolf tooth. B) Latin <em>malleus</em>, meaning a heavy iron hammer or mallet. C) Anglo-Saxon <em>mūl</em>, meaning a wide riverbank. D) Greek <em>melas</em>, meaning black darkness.</p>
+<p><strong>2. Which foot posture allows wolves and big cats to achieve silent stalking and explosive sprinting speed?</strong> A) Plantigrade (heel flat on the ground). B) Digitigrade (weight supported entirely on the digits/toes). C) Unguligrade (weight balanced on single hooves). D) Palmate (webbed toe membranes).</p>
+<p><strong>3. In ethological terminology, what characterizes a “coursing” predator?</strong> A) Laying in wait in subterranean burrows until prey passes overhead. B) Relying on sustained cardiovascular endurance to exhaust quarry in an open chase. C) Luring prey using bioluminescent organs. D) Scavenging exclusively on decaying carcasses.</p>
+<p><strong>4. What distinct structural feature distinguishes “carnassial” teeth from herbivorous molars?</strong> A) They are wide, flat millstones designed to crush cellulose. B) They act as self-sharpening shears designed to slice through flesh and sinew. C) They are hollow tubes used to extract bone marrow. D) They are loose incisors that shed annually.</p>
+<section id="explanatory-answer-key" class="level3">
+<h3 data-anchor-id="explanatory-answer-key">Explanatory Answer Key</h3>
+<ol type="1">
+<li><strong>B.</strong> <em>Maul</em> descends from Latin <em>malleus</em> (hammer), evolving through Middle English <em>mallen</em> (to bludgeon) into modern lacerating animal trauma.</li>
+<li><strong>B.</strong> <em>Digitigrade</em> locomotion elevates the heel and wrist, acting as an extra kinetic shock absorber and lengthening the effective limb for silent locomotion.</li>
+<li><strong>B.</strong> Coursing predators (like wolves and hunting dogs) run down their quarry over vast distances, contrasting with short-range ambush stalkers.</li>
+<li><strong>B.</strong> Carnassials are specialized shearing teeth unique to the mammalian order Carnivora.</li>
+</ol>
+<hr>
+<p>© 2026 Igor Kan</p>
+
+
+
+<!-- -->
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+    const viewSource = window.document.getElementById('quarto-view-source') ||
+                       window.document.getElementById('quarto-code-tools-source');
+    if (viewSource) {
+      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+      viewSource.addEventListener("click", function(e) {
+        if (sourceUrl) {
+          // rstudio viewer pane
+          if (/\bcapabilities=\b/.test(window.location)) {
+            window.open(sourceUrl);
+          } else {
+            window.location.href = sourceUrl;
+          }
+        } else {
+          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+          modal.show();
+        }
+        return false;
+      });
+    }
+    function toggleCodeHandler(show) {
+      return function(e) {
+        const cellDetails = window.document.querySelectorAll(".cell details.code-fold");
+        for (let i=0; i<cellDetails.length; i++) {
+          const details = cellDetails[i];
+          if (show) {
+            details.open = true;
+          } else {
+            details.removeAttribute("open");
+          }
+        }
+        const cellCodeDivs = window.document.querySelectorAll(".cell div.sourceCode.cell-code");
+        const fromCls = show ? "hidden" : "unhidden";
+        const toCls = show ? "unhidden" : "hidden";
+        for (let i=0; i<cellCodeDivs.length; i++) {
+          const codeDiv = cellCodeDivs[i];
+          if (codeDiv.classList.contains(fromCls)) {
+            codeDiv.classList.remove(fromCls);
+            codeDiv.classList.add(toCls);
+          } 
+        }
+        return false;
+      }
+    }
+    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+    if (hideAllCode) {
+      hideAllCode.addEventListener("click", toggleCodeHandler(false));
+    }
+    const showAllCode = window.document.getElementById("quarto-show-all-code");
+    if (showAllCode) {
+      showAllCode.addEventListener("click", toggleCodeHandler(true));
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/igor-kan\.github\.io\/english-language");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+  });
+  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "The Visual Dictionary of Mammalian Predation: Ethology, Pack Dynamics, and the Anatomy of the Hunt"</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "A photographic and terminological guide to carnivore hunting strategies, social hierarchy, and predatory behavior"</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="an">author:</span><span class="co"> "Igor Kan"</span></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "2026-09-13"</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a><span class="an">categories:</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="co">  - "Visual Dictionary"</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="co">  - "Zoological Lexicon"</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a><span class="co">  - "Comparative Ethology"</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a><span class="co">  - "Predation &amp; Anatomy"</span></span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a><span class="co">  - "C1-Effective-Operational"</span></span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a><span class="co">  - "C2-Mastery"</span></span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a><span class="an">format:</span></span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a><span class="co">  html:</span></span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a><span class="co">    theme:</span></span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a><span class="co">      light: flatly</span></span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a><span class="co">      dark: darkly</span></span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a><span class="co">    toc: true</span></span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a><span class="co">    toc-depth: 3</span></span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a><span class="co">    minimal: true</span></span>
+<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a><span class="fu"># Introduction</span></span>
+<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a>In evolutionary biology and wildlife literature, describing how apex carnivores survive demands a lexicon as sharp as the claws and teeth of the animals themselves. The interactions between predator and prey—and the intricate social hierarchies within hunting groups—are governed by precise scientific and descriptive vocabulary.</span>
+<span id="cb4-26"><a href="#cb4-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a>This visual dictionary pairs high-definition field photography with rigorous linguistic analysis, exploring the mechanics of **pack dynamics**, the visceral reality of being **mauled**, and the physiological adaptations that define mammalian predators.</span>
+<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-29"><a href="#cb4-29" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-30"><a href="#cb4-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-31"><a href="#cb4-31" aria-hidden="true" tabindex="-1"></a><span class="fu">## 1. Pack Dynamics &amp; Coordinated Canid Hunting</span></span>
+<span id="cb4-32"><a href="#cb4-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-33"><a href="#cb4-33" aria-hidden="true" tabindex="-1"></a><span class="al">![Gray Wolf Pack (*Canis lupus*) navigating a snowbound boreal forest in tight chronological formation. Note the alert ear posture, forward eye placement, and collective vigilance.](../images/wolf_pack.jpg)</span>{fig-align="center" width="95%"}</span>
+<span id="cb4-34"><a href="#cb4-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-35"><a href="#cb4-35" aria-hidden="true" tabindex="-1"></a><span class="fu">### The Canid Ethology Lexicon</span></span>
+<span id="cb4-36"><a href="#cb4-36" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-37"><a href="#cb4-37" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Pack (Noun &amp; Intransitive Verb)</span></span>
+<span id="cb4-38"><a href="#cb4-38" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Phonetics**: /pæk/</span>
+<span id="cb4-39"><a href="#cb4-39" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Etymology**: From Middle Dutch or Middle Low German *pak* (bundle, package), evolving by the 15th century to describe a cohesive, organized band of animals or hounds working in concert.</span>
+<span id="cb4-40"><a href="#cb4-40" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Ethological Definition**: A structured, cooperative social unit—typically composed of an interrelated family group—operating under collective communication, territorial defense, and collaborative hunting strategies.</span>
+<span id="cb4-41"><a href="#cb4-41" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>*Collocations*: *Pack hunting*, *pack mentality* (often applied sociologically to human conformism), *leader of the pack*.</span>
+<span id="cb4-42"><a href="#cb4-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-43"><a href="#cb4-43" aria-hidden="true" tabindex="-1"></a><span class="fu">#### The Anatomy of the Chase: Stalk, Ambush, and Coursing</span></span>
+<span id="cb4-44"><a href="#cb4-44" aria-hidden="true" tabindex="-1"></a>Mammalian predators employ distinct predatory strategies based on skeletal morphology:</span>
+<span id="cb4-45"><a href="#cb4-45" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-46"><a href="#cb4-46" aria-hidden="true" tabindex="-1"></a><span class="in">```text</span></span>
+<span id="cb4-47"><a href="#cb4-47" aria-hidden="true" tabindex="-1"></a><span class="in">                  [ PREDATORY HUNTING STRATEGIES ]</span></span>
+<span id="cb4-48"><a href="#cb4-48" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-49"><a href="#cb4-49" aria-hidden="true" tabindex="-1"></a><span class="in">       COURSING PREDATORS               AMBUSH &amp; STALKING PREDATORS</span></span>
+<span id="cb4-50"><a href="#cb4-50" aria-hidden="true" tabindex="-1"></a><span class="in">       (e.g., Wolves, Painted Dogs)     (e.g., Tigers, Leopards, Cougars)</span></span>
+<span id="cb4-51"><a href="#cb4-51" aria-hidden="true" tabindex="-1"></a><span class="in">               │                                      │</span></span>
+<span id="cb4-52"><a href="#cb4-52" aria-hidden="true" tabindex="-1"></a><span class="in">               ▼                                      ▼</span></span>
+<span id="cb4-53"><a href="#cb4-53" aria-hidden="true" tabindex="-1"></a><span class="in">     Long-distance endurance               Stealth approach (stalking)</span></span>
+<span id="cb4-54"><a href="#cb4-54" aria-hidden="true" tabindex="-1"></a><span class="in">     exhaustion of quarry;                 utilizing cover, followed by</span></span>
+<span id="cb4-55"><a href="#cb4-55" aria-hidden="true" tabindex="-1"></a><span class="in">     testing herd vulnerability.           an explosive leap (pouncing).</span></span>
+<span id="cb4-56"><a href="#cb4-56" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb4-57"><a href="#cb4-57" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-58"><a href="#cb4-58" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Coursing** *(Noun / Verb)*: The pursuit of prey using sight and long-distance cardiovascular stamina rather than concealment. Wolves run down their quarry over kilometers, exploiting weakness and fatigue.</span>
+<span id="cb4-59"><a href="#cb4-59" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Quarry** *(Noun)*: /ˈkwɒri/ From Old French *cuirée* (the skin and parts of a hunted animal given to hounds, from Latin *corium*, skin). Denotes the targeted animal or prey being pursued in a hunt.</span>
+<span id="cb4-60"><a href="#cb4-60" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Alpha / Dominance Hierarchy Myth**: Modern wildlife biology (notably L. David Mech) has largely retired the popular concept of the brutal "alpha male" fighting for dominance in wild wolf packs; natural wild packs function primarily as **nuclear family units**, where the breeding male and female guide their offspring.</span>
+<span id="cb4-61"><a href="#cb4-61" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-62"><a href="#cb4-62" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-63"><a href="#cb4-63" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-64"><a href="#cb4-64" aria-hidden="true" tabindex="-1"></a><span class="fu">## 2. Pride Structure, Apex Dominance, and Ambush</span></span>
+<span id="cb4-65"><a href="#cb4-65" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-66"><a href="#cb4-66" aria-hidden="true" tabindex="-1"></a><span class="al">![African Lion Pride (*Panthera leo*) resting on the Serengeti savanna during golden hour. Note the heavy cranial musculature of the male and the streamlined, vigilant gaze of the lionesses.](../images/lion_pride.jpg)</span>{fig-align="center" width="95%"}</span>
+<span id="cb4-67"><a href="#cb4-67" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-68"><a href="#cb4-68" aria-hidden="true" tabindex="-1"></a><span class="fu">### The Felid Ethology Lexicon</span></span>
+<span id="cb4-69"><a href="#cb4-69" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-70"><a href="#cb4-70" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Pride (Noun)</span></span>
+<span id="cb4-71"><a href="#cb4-71" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Phonetics**: /praɪd/</span>
+<span id="cb4-72"><a href="#cb4-72" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Etymology**: From Old English *prȳde* (arrogance, self-esteem), adopted as the specific venereal/collective noun for a congregation of lions by the 15th century.</span>
+<span id="cb4-73"><a href="#cb4-73" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Social Architecture**: Unlike almost all other felids—which are solitary—lions form permanent matrilineal coalitions of related females, their cubs, and a small coalition of resident males that defend pride territory against rival coalitions.</span>
+<span id="cb4-74"><a href="#cb4-74" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-75"><a href="#cb4-75" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Apex Predator (Noun Phrase)</span></span>
+<span id="cb4-76"><a href="#cb4-76" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Phonetics**: /ˈeɪpɛks ˈprɛdətər/</span>
+<span id="cb4-77"><a href="#cb4-77" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Definition**: A predator residing at the absolute summit of a trophic food web, having no natural predators of its own in its native ecosystem (e.g., lions, orcas, polar bears).</span>
+<span id="cb4-78"><a href="#cb4-78" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Trophic Cascade**: The ecological phenomenon whereby the presence or removal of an apex predator radically transforms the population dynamics and vegetation of the entire biome.</span>
+<span id="cb4-79"><a href="#cb4-79" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-80"><a href="#cb4-80" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Pounce (Verb &amp; Noun)</span></span>
+<span id="cb4-81"><a href="#cb4-81" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Phonetics**: /paʊns/</span>
+<span id="cb4-82"><a href="#cb4-82" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Definition**: To spring or swoop suddenly upon prey with outstretched claws or talons, delivering kinetic shock to collapse or pin the quarry.</span>
+<span id="cb4-83"><a href="#cb4-83" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>*Collocation*: *Pounce on the opportunity* (metaphorical business/strategic idiom).</span>
+<span id="cb4-84"><a href="#cb4-84" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-85"><a href="#cb4-85" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-86"><a href="#cb4-86" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-87"><a href="#cb4-87" aria-hidden="true" tabindex="-1"></a><span class="fu">## 3. Ursid Strength and the Visceral Mechanics of "Maul"</span></span>
+<span id="cb4-88"><a href="#cb4-88" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-89"><a href="#cb4-89" aria-hidden="true" tabindex="-1"></a><span class="al">![Grizzly Bear (*Ursus arctos horribilis*) powerfully positioned in an Alaskan river rapids, seizing a leaping salmon. Note the massive shoulder hump and formidable non-retractile claws.](../images/grizzly_bear.jpg)</span>{fig-align="center" width="95%"}</span>
+<span id="cb4-90"><a href="#cb4-90" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-91"><a href="#cb4-91" aria-hidden="true" tabindex="-1"></a><span class="fu">### Deep Etymology &amp; Nuance: Maul</span></span>
+<span id="cb4-92"><a href="#cb4-92" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-93"><a href="#cb4-93" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Maul (Transitive Verb &amp; Noun)</span></span>
+<span id="cb4-94"><a href="#cb4-94" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Phonetics**: /mɔːl/</span>
+<span id="cb4-95"><a href="#cb4-95" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Historical Etymology**: Traces through Middle English *mallen* ("to strike with a heavy hammer") to the Old French *mail*, derived from Classical Latin ***malleus*** (a hammer, mallet).</span>
+<span id="cb4-96"><a href="#cb4-96" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Evolution of Meaning**: Originally, to *maul* was to crush or hammer violently with a bludgeon. Over centuries of wildlife reporting and legal chronicles, the term shifted from blunt mechanical impact to describe the **tearing, clawing, and lacerating damage inflicted by powerful wild beasts** (primarily bears, big cats, and canids).</span>
+<span id="cb4-97"><a href="#cb4-97" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-98"><a href="#cb4-98" aria-hidden="true" tabindex="-1"></a><span class="in">```text</span></span>
+<span id="cb4-99"><a href="#cb4-99" aria-hidden="true" tabindex="-1"></a><span class="in">               [ ETYMOLOGICAL TRAJECTORY OF 'MAUL' ]</span></span>
+<span id="cb4-100"><a href="#cb4-100" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-101"><a href="#cb4-101" aria-hidden="true" tabindex="-1"></a><span class="in">    Latin: MALLEUS ──────► Middle English: MALLEN ──────► Modern English: MAUL</span></span>
+<span id="cb4-102"><a href="#cb4-102" aria-hidden="true" tabindex="-1"></a><span class="in">    (Heavy Iron Hammer)    (To beat with a mallet)        (To tear, crush, &amp; lacerate</span></span>
+<span id="cb4-103"><a href="#cb4-103" aria-hidden="true" tabindex="-1"></a><span class="in">                                                           with claws and teeth)</span></span>
+<span id="cb4-104"><a href="#cb4-104" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb4-105"><a href="#cb4-105" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-106"><a href="#cb4-106" aria-hidden="true" tabindex="-1"></a>::: {.callout-important}</span>
+<span id="cb4-107"><a href="#cb4-107" aria-hidden="true" tabindex="-1"></a><span class="fu">### Semantic Nuance: Maul vs. Attack vs. Bite</span></span>
+<span id="cb4-108"><a href="#cb4-108" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Attack**: The broad initiating action; an animal can attack without making physical contact or causing injury.</span>
+<span id="cb4-109"><a href="#cb4-109" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Bite**: A singular puncture or grasp with teeth.</span>
+<span id="cb4-110"><a href="#cb4-110" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>**Maul**: Implies **sustained, catastrophic, tearing physical trauma**, combining heavy blunt force with lacerating claw strikes and crushing jaw pressure, leaving disfiguring wounds.</span>
+<span id="cb4-111"><a href="#cb4-111" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb4-112"><a href="#cb4-112" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-113"><a href="#cb4-113" aria-hidden="true" tabindex="-1"></a><span class="fu">#### High-Register Usages &amp; Metaphorical Extensions</span></span>
+<span id="cb4-114"><a href="#cb4-114" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>*A horrific mauling*: A savage encounter resulting in extensive soft-tissue trauma.</span>
+<span id="cb4-115"><a href="#cb4-115" aria-hidden="true" tabindex="-1"></a><span class="ss">*   </span>*Critical mauling*: In literary or theatrical criticism, a devastating, merciless review that utterly destroys a production. (*"The director's new play received a savage critical mauling."*)</span>
+<span id="cb4-116"><a href="#cb4-116" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-117"><a href="#cb4-117" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-118"><a href="#cb4-118" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-119"><a href="#cb4-119" aria-hidden="true" tabindex="-1"></a><span class="fu">## 4. Anatomical Visual Lexicon: Locomotion &amp; Dentition</span></span>
+<span id="cb4-120"><a href="#cb4-120" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-121"><a href="#cb4-121" aria-hidden="true" tabindex="-1"></a>To read and write about animal behavior with scientific precision, one must distinguish how animals carry their weight and how their teeth are structured for food processing.</span>
+<span id="cb4-122"><a href="#cb4-122" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-123"><a href="#cb4-123" aria-hidden="true" tabindex="-1"></a><span class="fu">### Skeletal Stances: Plantigrade vs. Digitigrade vs. Unguligrade</span></span>
+<span id="cb4-124"><a href="#cb4-124" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-125"><a href="#cb4-125" aria-hidden="true" tabindex="-1"></a><span class="in">```text</span></span>
+<span id="cb4-126"><a href="#cb4-126" aria-hidden="true" tabindex="-1"></a><span class="in">  PLANTIGRADE                DIGITIGRADE                 UNGULIGRADE</span></span>
+<span id="cb4-127"><a href="#cb4-127" aria-hidden="true" tabindex="-1"></a><span class="in">  (Bears, Humans)            (Wolves, Cats)              (Deer, Horses)</span></span>
+<span id="cb4-128"><a href="#cb4-128" aria-hidden="true" tabindex="-1"></a><span class="in">      ┌───┐                      ┌───┐                       ┌───┐</span></span>
+<span id="cb4-129"><a href="#cb4-129" aria-hidden="true" tabindex="-1"></a><span class="in">      │   │ Heel on              │   │ Heel elevated;        │   │ Tips of toes</span></span>
+<span id="cb4-130"><a href="#cb4-130" aria-hidden="true" tabindex="-1"></a><span class="in">      │   │ ground               │   │ walks on toes         │   │ (hooves)</span></span>
+<span id="cb4-131"><a href="#cb4-131" aria-hidden="true" tabindex="-1"></a><span class="in">  ════╧═══╧════              ════╧═══╧════               ════╧═══╧════</span></span>
+<span id="cb4-132"><a href="#cb4-132" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb4-133"><a href="#cb4-133" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-134"><a href="#cb4-134" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**Plantigrade** *(Adjective)*: Walking with the entire sole of the foot—including heel and metatarsals—flat on the ground (e.g., bears, raccoons, humans). Yields maximum stability and wrestling leverage, but limits sprinting efficiency.</span>
+<span id="cb4-135"><a href="#cb4-135" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**Digitigrade** *(Adjective)*: Walking exclusively on the digits (toes), with the wrist and heel elevated high off the ground (e.g., canids, felids). Maximizes stride length, silent stalking, and explosive acceleration.</span>
+<span id="cb4-136"><a href="#cb4-136" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**Unguligrade** *(Adjective)*: Walking on the very tips of the digits, typically shielded by keratinized hooves (e.g., horses, deer, bison).</span>
+<span id="cb4-137"><a href="#cb4-137" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-138"><a href="#cb4-138" aria-hidden="true" tabindex="-1"></a><span class="fu">### The Carnassial Apparatus</span></span>
+<span id="cb4-139"><a href="#cb4-139" aria-hidden="true" tabindex="-1"></a>Unlike herbivores with flat, grinding molars, true carnivores possess specialized **carnassials**—paired premolars and molars that shear against one another like heavy surgical shears to slice through tough tendons, hide, and muscle fiber.</span>
+<span id="cb4-140"><a href="#cb4-140" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-141"><a href="#cb4-141" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-142"><a href="#cb4-142" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-143"><a href="#cb4-143" aria-hidden="true" tabindex="-1"></a><span class="fu">## Diagnostic Synthesis: The Anatomy of an Arctic Hunt</span></span>
+<span id="cb4-144"><a href="#cb4-144" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-145"><a href="#cb4-145" aria-hidden="true" tabindex="-1"></a>Read the following passage demonstrating how these terms synthesize into rich descriptive prose:</span>
+<span id="cb4-146"><a href="#cb4-146" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-147"><a href="#cb4-147" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; "The barren-ground caribou herd drifted warily across the tundra, their unguligrade hooves clicking softly against the permafrost. From the ridge above, a **pack** of arctic wolves began their silent, digitigrade approach, keeping downwind to avoid alerting their **quarry**. Rather than launching an immediate sprint, the wolves patiently **coursed** the flanks of the migration, testing the perimeter for any animal slowed by injury. A rogue solitary wolf that attempted to challenge a full-grown grizzly feeding on **carrion** at the riverbank was swiftly **mauled**, serving as a brutal reminder of the physical disparity between opportunistic predators and undisputed **apex** giants."</span></span>
+<span id="cb4-148"><a href="#cb4-148" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-149"><a href="#cb4-149" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-150"><a href="#cb4-150" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-151"><a href="#cb4-151" aria-hidden="true" tabindex="-1"></a><span class="fu">## Knowledge Retention Diagnostic</span></span>
+<span id="cb4-152"><a href="#cb4-152" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-153"><a href="#cb4-153" aria-hidden="true" tabindex="-1"></a>**1. What is the historical, etymological root of the verb "to maul"?**</span>
+<span id="cb4-154"><a href="#cb4-154" aria-hidden="true" tabindex="-1"></a>A) Old Norse *máll*, meaning a sharp wolf tooth.</span>
+<span id="cb4-155"><a href="#cb4-155" aria-hidden="true" tabindex="-1"></a>B) Latin *malleus*, meaning a heavy iron hammer or mallet.</span>
+<span id="cb4-156"><a href="#cb4-156" aria-hidden="true" tabindex="-1"></a>C) Anglo-Saxon *mūl*, meaning a wide riverbank.</span>
+<span id="cb4-157"><a href="#cb4-157" aria-hidden="true" tabindex="-1"></a>D) Greek *melas*, meaning black darkness.</span>
+<span id="cb4-158"><a href="#cb4-158" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-159"><a href="#cb4-159" aria-hidden="true" tabindex="-1"></a>**2. Which foot posture allows wolves and big cats to achieve silent stalking and explosive sprinting speed?**</span>
+<span id="cb4-160"><a href="#cb4-160" aria-hidden="true" tabindex="-1"></a>A) Plantigrade (heel flat on the ground).</span>
+<span id="cb4-161"><a href="#cb4-161" aria-hidden="true" tabindex="-1"></a>B) Digitigrade (weight supported entirely on the digits/toes).</span>
+<span id="cb4-162"><a href="#cb4-162" aria-hidden="true" tabindex="-1"></a>C) Unguligrade (weight balanced on single hooves).</span>
+<span id="cb4-163"><a href="#cb4-163" aria-hidden="true" tabindex="-1"></a>D) Palmate (webbed toe membranes).</span>
+<span id="cb4-164"><a href="#cb4-164" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-165"><a href="#cb4-165" aria-hidden="true" tabindex="-1"></a>**3. In ethological terminology, what characterizes a "coursing" predator?**</span>
+<span id="cb4-166"><a href="#cb4-166" aria-hidden="true" tabindex="-1"></a>A) Laying in wait in subterranean burrows until prey passes overhead.</span>
+<span id="cb4-167"><a href="#cb4-167" aria-hidden="true" tabindex="-1"></a>B) Relying on sustained cardiovascular endurance to exhaust quarry in an open chase.</span>
+<span id="cb4-168"><a href="#cb4-168" aria-hidden="true" tabindex="-1"></a>C) Luring prey using bioluminescent organs.</span>
+<span id="cb4-169"><a href="#cb4-169" aria-hidden="true" tabindex="-1"></a>D) Scavenging exclusively on decaying carcasses.</span>
+<span id="cb4-170"><a href="#cb4-170" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-171"><a href="#cb4-171" aria-hidden="true" tabindex="-1"></a>**4. What distinct structural feature distinguishes "carnassial" teeth from herbivorous molars?**</span>
+<span id="cb4-172"><a href="#cb4-172" aria-hidden="true" tabindex="-1"></a>A) They are wide, flat millstones designed to crush cellulose.</span>
+<span id="cb4-173"><a href="#cb4-173" aria-hidden="true" tabindex="-1"></a>B) They act as self-sharpening shears designed to slice through flesh and sinew.</span>
+<span id="cb4-174"><a href="#cb4-174" aria-hidden="true" tabindex="-1"></a>C) They are hollow tubes used to extract bone marrow.</span>
+<span id="cb4-175"><a href="#cb4-175" aria-hidden="true" tabindex="-1"></a>D) They are loose incisors that shed annually.</span>
+<span id="cb4-176"><a href="#cb4-176" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-177"><a href="#cb4-177" aria-hidden="true" tabindex="-1"></a><span class="fu">### Explanatory Answer Key</span></span>
+<span id="cb4-178"><a href="#cb4-178" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**B.** *Maul* descends from Latin *malleus* (hammer), evolving through Middle English *mallen* (to bludgeon) into modern lacerating animal trauma.</span>
+<span id="cb4-179"><a href="#cb4-179" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**B.** *Digitigrade* locomotion elevates the heel and wrist, acting as an extra kinetic shock absorber and lengthening the effective limb for silent locomotion.</span>
+<span id="cb4-180"><a href="#cb4-180" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**B.** Coursing predators (like wolves and hunting dogs) run down their quarry over vast distances, contrasting with short-range ambush stalkers.</span>
+<span id="cb4-181"><a href="#cb4-181" aria-hidden="true" tabindex="-1"></a><span class="ss">4. </span>**B.** Carnassials are specialized shearing teeth unique to the mammalian order Carnivora.</span>
+<span id="cb4-182"><a href="#cb4-182" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-183"><a href="#cb4-183" aria-hidden="true" tabindex="-1"></a>***</span>
+<span id="cb4-184"><a href="#cb4-184" aria-hidden="true" tabindex="-1"></a>© 2026 Igor Kan</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+</div></div></div></div></div>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>© 2026 Igor Kan</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
