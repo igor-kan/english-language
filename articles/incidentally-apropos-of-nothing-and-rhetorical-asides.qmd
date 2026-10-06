@@ -1,0 +1,259 @@
+---
+title: "The Art of the Rhetorical Aside: 'Incidentally', 'Apropos of Nothing', and the Grammar of Digression"
+subtitle: "Deconstructing discourse markers, parenthetical clauses, and conversational pivots across registers."
+description: "An exhaustive masterclass on phrases of digression and incidental remarks in English: incidentally, be it said incidentally, apropos of nothing, en passant, parenthetically, obiter dictum, speaking of which, and as an aside."
+author: "Igor Kan"
+date: "2026-10-05"
+categories: [Vocabulary, Discourse-Markers, Register, Rhetoric, Lexical-Deep-Dive, Syntax]
+draft: false
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme:
+      light: cosmo
+      dark: darkly
+---
+
+## Introduction: The Metadiscursive Pivot
+
+Human communication rarely follows a strictly linear trajectory. In any serious intellectual dialogue, negotiation, or narrative prose, the speaker frequently needs to step outside the primary argument to inject a secondary observation, drop a historical footnote, introduce an unexpected fact, or execute a deliberate conversational detour.
+
+In linguistics, words and phrases that manage these transitions are known as **discourse markers of digression** (or *parenthetical disjuncts*). According to Paul Grice's foundational **Maxim of Relation** (*"Be relevant"*), any unannounced leap to an unrelated or subordinate topic threatens the coherence of a conversation. 
+
+Discourse markers such as **incidentally**, **be it said incidentally**, and **apropos of nothing** function as conversational shock absorbers: they explicitly signal to the listener the precise logical, hierarchical, and stylistic relationship between the main thesis and the incoming tangent.
+
+```text
+                     ┌── Associative Tangent  ──> "Incidentally" / "By the way"
+                     │
+Rhetorical Asides ───┼── Complete Non Sequitur ──> "Apropos of nothing" / "Out of the blue"
+ (Metadiscourse)     │
+                     ├── Formal Subordination ──> "Be it said incidentally" / "In passing"
+                     │
+                     └── High-Register Gloss  ──> "En passant" / "Obiter dictum"
+```
+
+---
+
+## 1. Deconstructing "Incidentally"
+
+### Etymology and Morphological Roots
+* **Origin:** From Latin *incidentem* (nominative *incidens*), present participle of *incidere*—formed from *in-* ("upon", "into") and *cadere* ("to fall"). Literally, that which "falls upon" or happens concurrently with a primary event.
+* **Morphological Family:** *incident* (noun), *incidental* (adjective), *incidentally* (adverb), *incidence* (rate of occurrence).
+
+### Phonetics & Common Orthographic Errors
+* **Phonetics:** /ˌɪnsɪˈdentli/ or /ˌɪnsəˈdentəli/
+* **Orthographic Trap:** Writers occasionally misspell the word as $\times$ *incidently*. In standard English, the adverb is formed from the adjective *incidental* by adding *-ly*, yielding **incidentally**.
+
+### Dual Syntactic Behaviors
+
+The word operates in two fundamentally different grammatical capacities:
+
+#### A. As a Sentence Adverb / Discourse Disjunct (The Aside)
+In this role, *incidentally* modifies the entire clause, signaling that the upcoming proposition is supplementary, secondary, or associative:
+* *"We have finalized the Q3 server infrastructure budget. **Incidentally**, the chief architect requested additional telemetry nodes for the distributed cluster."*
+* *"She is an authority on early Roman jurisprudence—and, **incidentally**, an accomplished cellist."*
+
+#### B. As an Adverb of Manner / Secondary Cause
+Here, *incidentally* means *as a chance consequence*, *subordinately*, or *not primarily by deliberate design*:
+* *"The security sandbox was engineered to isolate microservices, but it **incidentally** improved cache hit rates across all worker threads."*
+* *"The economic policy benefited large exporters, but only **incidentally**."*
+
+---
+
+## 2. The Formal Construction: "Be It Said Incidentally"
+
+### Syntactic Architecture
+The phrase **"be it said incidentally"** is a classical **subjunctive passive formula** (*"let it be said incidentally"* or *"may it be observed in passing"*). 
+
+In traditional grammar, it functions as an absolute parenthetical clause:
+$$\text{Matrix Clause} \longleftrightarrow \text{[} \mathbf{Be\ it\ said\ incidentally} \text{]} \longleftrightarrow \text{Resumed Exposition}$$
+
+```
+"The treaty of 1648—[be it said incidentally]—reshaped the sovereignty of the German principalities."
+                           │
+                           └── Subjunctive copula "be" + passive participle "said"
+```
+
+### Register and Pragmatic Function
+* **Register:** High formal, academic, historiographical, or legal prose.
+* **Function:** It allows a scholar or essayist to introduce an explanatory nuance, caveat, or historical footnote without committing to making that nuance a major theme of the exposition.
+* **Tone:** Elegant, measured, dispassionate, and aristocratic in intellectual posture.
+
+### Exemplars in Context
+* *"His personal contribution to the mathematical proof was modest—**be it said incidentally**, though without malice—compared to Gauss's monumental breakthroughs."*
+* *"The committee approved the capital allocation—**be it said incidentally** that two senior directors abstained from the vote."*
+* *"The manuscript—**be it said incidentally** to his greater philosophical works—reveals an intimate portrait of daily life in eighteenth-century Edinburgh."*
+
+::: {.callout-note}
+### Parallel Formulaic Siblings
+English contains a family of related subjunctive parentheticals sharing this exact syntactic template:
+* *"Be it remembered that..."* (Admonishing the reader not to overlook a vital historical fact).
+* *"Be it noted that..."* (Directing analytical attention to a technical prerequisite).
+* *"Be it understood that..."* (Setting clear boundaries of interpretation).
+:::
+
+---
+
+## 3. "Apropos of Nothing" vs. "Apropos of..."
+
+Few idiomatic phrases illustrate the sensitivity of English prepositions better than the contrast between **apropos of [something]** and **apropos of nothing**.
+
+### Etymological Foundation
+* **Origin:** From French *à propos*, literally meaning "to the purpose", "fit", "seasonable", or "aptly timed".
+* **Core Sense:** Relevancy and contextual alignment.
+
+### The Divergent Polarities
+
+```text
+  "Apropos of [Topic]"                    "Apropos of nothing"
+┌─────────────────────────────────┐     ┌─────────────────────────────────┐
+│ • Relevant & Connected          │     │ • Complete Non Sequitur         │
+│ • "With regard to..."           │     │ • Totally unprompted            │
+│ • Logical transition marker     │     │ • Spontaneous / Out of nowhere  │
+└─────────────────────────────────┘     └─────────────────────────────────┘
+```
+
+#### A. "Apropos of [Noun / Pronoun]" (The Bridge of Relevance)
+Used as a formal prepositional locution meaning *with respect to*, *concerning*, or *on the subject of*:
+* *"**Apropos of** our recent discussion on distributed consensus algorithms, have you evaluated the Raft protocol's performance under asymmetric network partitions?"*
+* *"The chairman’s remarks were particularly **apropos of** the ongoing merger negotiations."*
+
+#### B. "Apropos of Nothing" (The Deliberate Non Sequitur)
+Used when a speaker introduces a remark that has **absolutely zero connection** to what was previously being discussed. It acknowledges that the statement is unprompted, spontaneous, or bursting out of internal contemplation rather than conversational flow:
+* *"We were quietly reviewing database schemas when Marcus announced, **apropos of nothing**, that he was considering moving to Patagonia."*
+* *"**Apropos of nothing**, did you know that honey never spoils?"*
+* *"She stared at the rain and murmured, **apropos of nothing**, that life was too short for bad coffee."*
+
+### Rhetorical and Psychological Implications
+When someone speaks *apropos of nothing*, it frequently betrays an underlying psychological state:
+1. **Preoccupation:** The speaker’s mind has been fixated on a private thought that suddenly breaches the surface of consciousness.
+2. **Nervous Deflection:** Squeezing in a difficult or awkward subject by abandoning the current conversational thread entirely.
+3. **Conversational Whimsy:** Deliberately injecting spontaneity into an otherwise predictable dialogue.
+
+---
+
+## 4. The Complete Taxonomy of Rhetorical Asides
+
+To master register control, a writer must command the full spectrum of words and phrases used to introduce parenthetical thoughts:
+
+| Phrase / Discourse Marker | Register | Logical Linkage | Canonical Syntactic Placement | Pragmatic Intention |
+| :--- | :--- | :--- | :--- | :--- |
+| **Incidentally** | Neutral / Educated | Associative connection | Clause-initial or clause-medial | Introduces supplementary, relevant detail. |
+| **Be it said incidentally** | Formal / Scholarly | Subordinate footnote | Medial (set off by dashes or commas) | Polite intellectual qualification or footnote. |
+| **Apropos of nothing** | Conversational / Literary | Zero connection (Non sequitur) | Prepositional phrase, initial or medial | Admits total absence of topical context. |
+| **Apropos of [X]** | Elevated / Formal | Direct relevance | Clause-initial prepositional phrase | Links current point directly to prior subject. |
+| **By the way** | Colloquial / Neutral | Associative | Clause-initial or clause-final | Everyday, conversational pivot. |
+| **Speaking of which** | Conversational | Immediate lexical trigger | Clause-initial | Pivots on a specific word or concept just uttered. |
+| **Parenthetically** | Academic / Formal | Typographical aside | Clause-initial or parenthetic | Signals information that belongs in parentheses. |
+| **In passing** | Formal / Literate | Brief observation | Adverbial phrase at predicate or medial | Notes an issue without treating it exhaustively. |
+| **En passant** | Cosmopolitan / Literary | Casual / Sophisticated | Predicate or adverbial adjunct | French borrowing: dropped casually or without weight. |
+| **Obiter dictum** | Legal / Juridical | Non-binding commentary | Nominal subject or complement | An incidental remark carrying persuasive but not binding weight. |
+| **Tangentially** | Analytical / Academic | Perimeter contact only | Adverbial adjunct | Acknowledges divergence from the primary vector. |
+| **As an aside** | Theatrical / Rhetorical | Meta-commentary | Clause-initial prepositional phrase | Direct address to the audience stepping outside the frame. |
+
+---
+
+## 5. Lexical Deep Dives: Sophisticated Equivalents
+
+### A. "En Passant" (The Chess Metaphor)
+* **Phonetics:** /ˌɒ̃ pæˈsɒ̃/ (approx. *on pass-on*)
+* **Literal Sense:** French for *"in passing"*.
+* **Usage:** Borrowed both from standard French and the chess rule *en passant* (capturing a pawn that has advanced two squares). In prose, it implies addressing something fleetingly, deftly, or almost nonchalantly while on the way to a larger goal:
+  * *"In his introductory chapter, the author mentions **en passant** that classical mechanics is merely a low-velocity approximation of relativity."*
+  * *"He dropped the revelation **en passant**, as if it were of no consequence whatever."*
+
+### B. "Parenthetically"
+* **Syntactic Role:** Adverb acting as a metadiscursive signal.
+* **Sense:** Explicitly tells the reader that what follows is analogous to text enclosed within typographical brackets—informative context that can be omitted without harming the core grammatical syntax:
+  * *"The algorithm performs with logarithmic efficiency (**parenthetically**, assuming uniform key distribution across all hash buckets)."*
+  * *"He noted, **parenthetically**, that previous attempts to reproduce the experiment had encountered equipment anomalies."*
+
+### C. "Obiter Dictum" (Plural: *Obiter Dicta*)
+* **Etymology:** Latin *obiter* ("by the way", "in passing") + *dictum* ("saying", "word").
+* **Jurisprudential Distinction:** In common law, a judicial opinion consists of two components:
+  1. **Ratio Decidendi:** The legal reasoning essential to the ruling; constitutes binding legal precedent.
+  2. **Obiter Dictum:** Incidental observations, illustrations, or musings made by the judge in the ruling that are *not* strictly necessary to resolve the dispute; does *not* create binding precedent, though it may hold persuasive authority.
+* **General Rhetorical Extension:** Any opinion expressed in passing by an expert or commentator outside the scope of their primary argument:
+  * *"The professor’s remark regarding the future of quantum computing was a mere **obiter dictum**, yet it sparked a fierce debate among doctoral candidates."*
+
+---
+
+## 6. Syntactic Mechanics: Punctuation and Placement
+
+How a digression is punctuated dictates its rhetorical weight, pacing, and dramatic impact.
+
+### 1. Commas: The Seamless Transition
+Used when the digression is mild, brief, and intended to blend fluidly with the surrounding syntax:
+* *"We should, **incidentally**, verify the cryptographic signature before committing the transaction."*
+* *"**Incidentally**, the flight has been rescheduled for Thursday morning."*
+
+### 2. Em-Dashes (—): The Dramatic Interruption
+Em-dashes physically disrupt the visual flow of the sentence, creating suspense or emphasizing the parenthetical nature of the thought:
+* *"The architect's initial blueprint—**be it said incidentally**—had omitted the entire emergency stairwell."*
+* *"His latest publication—**apropos of nothing** in his prior research catalog—explores seventeenth-century Dutch cartography."*
+
+### 3. Parentheses `( )`: The Informational Footnote
+Parentheses visually enclose the thought, signaling that it is purely supplementary and can be skipped without loss of narrative continuity:
+* *"The system achieved five-nines availability last quarter (**incidentally**, our peak concurrency reached forty thousand requests per second)."*
+
+### 4. Semicolons `;`: Binding Two Coordinated Propositions
+When *incidentally* connects two complete independent clauses, it requires a semicolon before it and a comma after it:
+* $\times$ **Run-on / Comma Splice:** *"The compiler detected three deprecated calls, incidentally they have all been refactored."*
+* $\checkmark$ **Correct:** *"The compiler detected three deprecated calls; **incidentally**, they have all been refactored."*
+
+---
+
+## 7. The Rhetorical Strategy: The "Trojan Horse" Aside
+
+While discourse markers of digression ostensibly announce minor points, astute rhetoricians, negotiators, and politicians frequently use them as **subversive instruments of persuasion**.
+
+```text
+                     [ THE "TROJAN HORSE" ASIDE ]
+
+       Speaker Downplays Weight:      "Incidentally..." / "By the way..."
+                                              │
+       Listener Lowers Defenses:      "This is just a casual comment."
+                                              │
+       Critical Payload Delivered:    [The single most crucial concession,
+                                       damaging admission, or demand]
+```
+
+### The Negotiator's Gambit ("Columbo Technique")
+Named after the fictional television detective Lieutenant Columbo, who would exit a suspect's room only to turn back at the door and say: *"Oh, just one more thing... by the way..."*
+* By framing a question or demand as an afterthought (*"Incidentally, did you confirm the warranty indemnification clause?"*), the speaker prevents the counterparty from preparing defensive barriers.
+
+### The Diplomatic Softener
+Directly stating an uncomfortable truth can trigger defensiveness. Wrapping it in an aside softens the impact:
+* **Blunt:** *"Your unit missed the delivery deadline."*
+* **Softened Aside:** *"We reviewed the quarterly deliverables yesterday; **incidentally**, the telemetry report from your team appears to have been delayed."*
+
+---
+
+## 8. Diagnostic Decision Guide
+
+When choosing how to pivot away from your main argument, refer to this selection matrix:
+
+```
+                                [ Nature of the Digression ]
+                                             │
+                       Does it have any connection to the topic?
+                                    ╱            ╲
+                                  YES             NO
+                                  ╱                 ╲
+                    Is it formal or literary?      [ Complete Non Sequitur ]
+                           ╱        ╲              • "Apropos of nothing"
+                         YES         NO            • "Out of the blue"
+                         ╱             ╲
+              [ High Register ]    [ Casual / Direct ]
+              • "Be it said        • "Incidentally"
+                incidentally"      • "By the way"
+              • "En passant"       • "Speaking of which"
+              • "Parenthetically"
+```
+
+### Summary of Best Practices
+1. **Match the Register:** Use *by the way* for conversation; reserve *incidentally*, *be it said incidentally*, and *en passant* for analytical essays, formal debate, or executive memoranda.
+2. **Respect the Preposition:** Never say *apropos to* or *apropos of nothing* when you mean *apropos of [a topic]*.
+3. **Punctuate with Precision:** Always set off parenthetical discourse markers with appropriate commas, em-dashes, or semicolons to prevent comma splices.
+4. **Be Intentional with Digressions:** Use them sparingly to illuminate, contextualize, or tactically soften, rather than to clutter your prose.
