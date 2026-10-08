@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -80,9 +80,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b626d73c4c936ccc3cb08be7d45d1df6.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-f6e81f4864cb6d8b696b855696ff1c11.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -125,9 +125,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -396,7 +396,7 @@ window.Quarto = {
   </ul></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QWNhZGVtaWMtUHJvc2U=">Academic-Prose <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXR5bW9sb2d5">Etymology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9ycGhvbG9neQ==">Morphology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmhldG9yaWM=">Rhetoric <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Vm9jYWJ1bGFyeQ==">Vocabulary <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -431,6 +431,19 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>A commanding vocabulary is not about ostentatious verbosity; it is about semantic resolution. Having the exact word prevents paragraphs of rambling qualification.</p>
 <p>English is a composite language: a Germanic grammatical core overlaid with a massive Norman French, Latin, and Ancient Greek intellectual lexicon. By mastering root morphemes, prefixes, and suffixes, you unlock thousands of words deductively.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Archival Notice
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>All extended lexical deep dives, etymological root analyses, and vocabulary masterclasses in this section are archived in the private companion repository.</p>
+</div>
+</div>
 <section id="modules-in-this-section" class="level3">
 <h3 class="anchored" data-anchor-id="modules-in-this-section">Modules in this Section</h3>
 <ul>
@@ -449,83 +462,21 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-    </select>
-  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table">
+<table class="quarto-listing-table table caption-top">
 <thead>
-<tr>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-
-<th>
-Description
-</th>
-
-<th>
-Categories
-</th>
-
+<tr class="header">
+<th data-quarto-table-cell-role="th">Date</th>
+<th data-quarto-table-cell-role="th">Title</th>
+<th data-quarto-table-cell-role="th">Description</th>
+<th data-quarto-table-cell-role="th">Categories</th>
 </tr>
 </thead>
 <tbody class="list">
-
-<tr data-index="0" data-categories="Vm9jYWJ1bGFyeSUyQ0FjYWRlbWljLVByb3NlJTJDUmhldG9yaWM=" data-listing-date-sort="1789171200000" data-listing-file-modified-sort="1791251188976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="147" data-listing-title-sort="The Analytical Lexicon: Words for Nuanced Intellectual Discourse" data-listing-filename-sort="academic-and-precise-lexicon.qmd">
-<td>
-<span class="listing-date">2026-09-12</span>
-</td>
-<td>
-<a href="../vocabulary/academic-and-precise-lexicon.html" class="title listing-title">The Analytical Lexicon: Words for Nuanced Intellectual Discourse</a>
-</td>
-<td>
-<span class="listing-description">Mastering words that delineate subtle gradations of truth, evidence, causality, and argumentation.</span>
-</td>
-<td>
-<span class="listing-categories">Vocabulary, Academic-Prose, Rhetoric</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-categories="Vm9jYWJ1bGFyeSUyQ0V0eW1vbG9neSUyQ01vcnBob2xvZ3k=" data-listing-date-sort="1789171200000" data-listing-file-modified-sort="1791251188976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197" data-listing-title-sort="The Morphological Engine: High-Leverage Latin and Greek Roots" data-listing-filename-sort="latin-greek-roots.qmd">
-<td>
-<span class="listing-date">2026-09-12</span>
-</td>
-<td>
-<a href="../vocabulary/latin-greek-roots.html" class="title listing-title">The Morphological Engine: High-Leverage Latin and Greek Roots</a>
-</td>
-<td>
-<span class="listing-description">How understanding morphophonemic roots like tract, scrib, chron, and morph multiplies your passive and active vocabulary.</span>
-</td>
-<td>
-<span class="listing-categories">Vocabulary, Etymology, Morphology</span>
-</td>
-
-</tr>
-
 </tbody>
 </table>
 <div class="listing-no-matching d-none">No matching items</div>
@@ -1013,10 +964,15 @@ Categories
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>English is a composite language: a Germanic grammatical core overlaid with a massive Norman French, Latin, and Ancient Greek intellectual lexicon. By mastering root morphemes, prefixes, and suffixes, you unlock thousands of words deductively.</span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="fu">### Modules in this Section</span></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>**Etymological Roots:** Latin and Greek affixes that govern academic, scientific, and legal discourse.</span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>**Elevated Diction:** Precise vocabulary for critical analysis, philosophical debate, and technical literature.</span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>**Idiomatic Nuance:** Collocations, phrasal verbs, and context-dependent connotation.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="fu">### Archival Notice</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>All extended lexical deep dives, etymological root analyses, and vocabulary masterclasses in this section are archived in the private companion repository.</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="fu">### Modules in this Section</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>**Etymological Roots:** Latin and Greek affixes that govern academic, scientific, and legal discourse.</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>**Elevated Diction:** Precise vocabulary for critical analysis, philosophical debate, and technical literature.</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>**Idiomatic Nuance:** Collocations, phrasal verbs, and context-dependent connotation.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">
