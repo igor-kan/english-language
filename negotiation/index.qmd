@@ -15,6 +15,11 @@ listing:
 
 Negotiation is not warfare; it is the art of collaborative problem-solving under conflicting interests. Every interpersonal transaction—from contract renewals and compensation discussions to everyday project prioritization—relies on structured negotiation frameworks.
 
+::: {.callout-note}
+### Archival Notice
+All tactical negotiation frameworks, hostage negotiation heuristics, and anchoring guides in this section are archived in the private companion repository.
+:::
+
 ### Modules in this Section
 * **Principled Negotiation:** Harvard's Fisher and Ury framework (BATNA, ZOPA, interest separation).
 * **Tactical Empathy:** Black Swan hostage negotiation heuristics (Chris Voss methodology).

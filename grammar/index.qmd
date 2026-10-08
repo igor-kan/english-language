@@ -18,6 +18,6 @@ Grammar is not a collection of arbitrary schoolhouse rules; it is the structural
 ### Modules in this Section
 * **Taxonomy of Speech:** Categorizing nouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections.
 * **Tense and Aspect:** Mapping time, completion, and duration across the twelve canonical tense-aspect permutations.
-* **Prepositions:** [Types and Usage](prepositions-types-and-usage.qmd) and [Dependent Prepositions & Collocations](prepositions-dependent-and-collocations.qmd).
+* **Prepositions:** Types and usage, dependent prepositions, and collocations (Archived in private drafts vault).
 * **Sentence Architecture:** Independent vs. dependent clauses, coordination, subordination, and parallel construction.
 * **Grammatical Mood:** [Subjunctive vs. Indicative Mood](subjunctive-and-indicative-mood.qmd) — Demarcating realis from irrealis, counterfactual conditionals, mandative demands, and formulaic expressions.

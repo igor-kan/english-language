@@ -15,6 +15,11 @@ listing:
 
 Communication is not merely transmitting data; it is managing cognitive load in the mind of the listener or reader. Whether drafting an engineering specification, leading an asynchronous team, or addressing an auditorium, clarity is achieved through structure, brevity, and empathetic perspective-taking.
 
+::: {.callout-note}
+### Archival Notice
+All full-length communication modules, active listening frameworks, and executive prose guides in this section are archived in the private companion repository.
+:::
+
 ### Modules in this Section
 * **Clarity & Brevity:** Eliminating bureaucratic obfuscation and implementing the Minto Pyramid Principle.
 * **Conversational Psychology:** High-fidelity active listening, managing status differentials, and emotional resonance.

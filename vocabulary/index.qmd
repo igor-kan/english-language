@@ -17,6 +17,11 @@ A commanding vocabulary is not about ostentatious verbosity; it is about semanti
 
 English is a composite language: a Germanic grammatical core overlaid with a massive Norman French, Latin, and Ancient Greek intellectual lexicon. By mastering root morphemes, prefixes, and suffixes, you unlock thousands of words deductively.
 
+::: {.callout-note}
+### Archival Notice
+All extended lexical deep dives, etymological root analyses, and vocabulary masterclasses in this section are archived in the private companion repository.
+:::
+
 ### Modules in this Section
 * **Etymological Roots:** Latin and Greek affixes that govern academic, scientific, and legal discourse.
 * **Elevated Diction:** Precise vocabulary for critical analysis, philosophical debate, and technical literature.

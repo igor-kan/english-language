@@ -10,6 +10,8 @@ listing:
     - "communication/*.qmd"
     - "negotiation/*.qmd"
     - "debate/*.qmd"
+    - "!*/index.qmd"
+    - "!index.qmd"
   sort: "date desc"
   type: default
   categories: true
