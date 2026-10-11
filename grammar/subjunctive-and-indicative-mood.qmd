@@ -442,6 +442,13 @@ To ensure complete conceptual clarity when analyzing modal syntax and semantics,
 * **Nomological Invariant:** A physical law or empirical regularity of nature that holds true across all physically accessible worlds $\mathcal{W}_{\text{phys}}$ (governing Zero Conditionals: *"If water reaches 100°C, it boils"*).
 * **Covert Subject ($\text{Pro}_{\text{null}}$):** An unpronounced second-person subject pronoun ($[\text{you}]$) structurally present in the underlying syntactic tree of an imperative clause.
 * **Dummy Auxiliary (*Do*-Support):** The insertion of the semantically empty auxiliary verb *do* to carry negation or inversion (mandatory in negative imperatives: *"Do not touch"*; suppressed in negative subjunctives: *"that he not touch"*).
+* **Catalog (Catalogue):** A systematic, comprehensive register or inventory of items, propositions, or syntactic forms arranged according to an explicit organizational rubric.
+* **Alibi:** (From Latin *alibi*, meaning "elsewhere") A factual defense asserting that a subject was physically present at a location distinct from the scene of an alleged occurrence at the relevant timestamp, rendering physical participation logically and physically impossible.
+* **Erroneous:** Containing or characterized by error; mistaken, invalid, or deviating from verified empirical fact or grammatical law.
+* **Concede:** To yield, grant, or admit the truth of a premise or opposing argument, often reluctantly or as a logical surrender within debate.
+* **Negation:** The logical or grammatical operation converting a proposition $P$ into its contradictory counterpart $\neg P$, inverting its truth value from True to False or vice versa.
+* **Ledger:** An authoritative, permanent book or digital record containing transactional logs, accounts, or cryptographic entries serving as an immutable historical record of fact.
+* **Copula:** A linking verb (chiefly the verb *to be* in English) that connects the grammatical subject of a sentence with an adjectival or nominal predicate complement without expressing independent physical action.
 * **Protasis and Apodosis:** In conditional sentences, the *protasis* is the antecedent condition clause (introduced by *if*), and the *apodosis* is the consequence or matrix conclusion clause.
 * **Atlantic Dialectical Variation:** The systematic divide between North American English (which strictly maintains the mandative subjunctive bare base form) and British English (which frequently substitutes the modal auxiliary *should* or the indicative present).
 * **Formulaic / Optative Subjunctive:** Set archaic expressions retaining subjunctive morphology without subordinators (*"Come what may"*, *"Be that as it may"*, *"God forbid"*).
