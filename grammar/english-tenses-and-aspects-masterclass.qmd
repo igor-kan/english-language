@@ -34,7 +34,17 @@ As established in our companion study on [Subjunctive vs. Indicative Mood](subju
 * In the **Subjunctive Mood**, tense morphology is repurposed to signal **hypothetical distance from reality** rather than chronological time (e.g., the *were*-subjunctive uses past morphology to express present counterfactuals: *"If I were present..."*).
 
 ```{mermaid}
-%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#f7f6f3',
+    'primaryTextColor': '#37352f',
+    'primaryBorderColor': '#d4d4d4',
+    'lineColor': '#787774',
+    'fontSize': '16px',
+    'fontFamily': 'ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'
+  }
+}}%%
 graph TD
     subgraph Temporal_Axis ["Temporal Axis (Tense)"]
         Past["<b>Past</b><br>(Before Now)"]
@@ -202,7 +212,17 @@ Mastery of English syntax requires appreciating how the same real-world scenario
 ## Catalogue of Frequent Grammatical Pitfalls
 
 ```{mermaid}
-%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#f7f6f3',
+    'primaryTextColor': '#37352f',
+    'primaryBorderColor': '#d4d4d4',
+    'lineColor': '#787774',
+    'fontSize': '16px',
+    'fontFamily': 'ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'
+  }
+}}%%
 flowchart TD
     subgraph Errors ["Common Grammatical Pitfalls (Errors)"]
         direction TB
@@ -227,31 +247,31 @@ flowchart TD
 
 ### 1. Stative Verbs Trapped in Continuous Aspect
 Verbs expressing cognitive states (*know, understand, believe*), emotional stances (*love, prefer, hate*), sensory perception (*smell, taste*), or relational possession (*own, contain, possess*) resist the continuous aspect because they represent unbroken states rather than dynamic activities:
-* $\times$ *"The architect is possessing extensive experience in microkernel design."*
-* $\checkmark$ *"The architect **possesses** extensive experience in microkernel design."*
+* ✗ *"The architect is possessing extensive experience in microkernel design."*
+* ✓ *"The architect **possesses** extensive experience in microkernel design."*
 
 ### 2. Contaminating the Present Perfect with Definite Past Adverbials
 The Present Perfect cannot tolerate adverbials that anchor an event to a closed, finished past time frame (*yesterday, last week, in 1998, two hours ago*):
-* $\times$ *"The board has approved the merger yesterday."*
-* $\checkmark$ *"The board **approved** the merger yesterday."* (Past Simple)
-* $\checkmark$ *"The board **has approved** the merger."* (Present Perfect: indefinite, currently binding).
+* ✗ *"The board has approved the merger yesterday."*
+* ✓ *"The board **approved** the merger yesterday."* (Past Simple)
+* ✓ *"The board **has approved** the merger."* (Present Perfect: indefinite, currently binding).
 
 ### 3. Inserting *Will* into Conditional and Temporal Subordinate Clauses
 In subordinate clauses initiated by conjunctions of time (*when, as soon as, after, before, until*) or condition (*if, provided that, unless*), future time is grammatically expressed by the **Present Simple**, not *will*:
-* $\times$ *"We will release the patch as soon as the test suite will pass."*
-* $\checkmark$ *"We will release the patch as soon as the test suite **passes**."*
+* ✗ *"We will release the patch as soon as the test suite will pass."*
+* ✓ *"We will release the patch as soon as the test suite **passes**."*
 
 ### 4. Unanchored Past Perfect ("Had Done" in a Vacuum)
 Past Perfect should never be deployed simply to convey that an action took place "a very long time ago." It requires an anterior reference point in the past to justify its relative positioning:
-* $\times$ *"Isaac Newton had discovered calculus in the seventeenth century."*
-* $\checkmark$ *"Isaac Newton **discovered** calculus in the seventeenth century."*
-* $\checkmark$ *"Newton **had already discovered** calculus before Leibniz published his independent notation."*
+* ✗ *"Isaac Newton had discovered calculus in the seventeenth century."*
+* ✓ *"Isaac Newton **discovered** calculus in the seventeenth century."*
+* ✓ *"Newton **had already discovered** calculus before Leibniz published his independent notation."*
 
 ### 5. Prepositional Confusion: *Since* vs. *For*
 * **Since:** Marks the specific **starting point** of an interval (*since 2018, since yesterday, since the merger*).
 * **For:** Measures the **total duration** of the elapsed interval (*for six years, for three hours, for a millennium*).
-* $\times$ *"The server has been online since three weeks."*
-* $\checkmark$ *"The server has been online **for three weeks**."*
+* ✗ *"The server has been online since three weeks."*
+* ✓ *"The server has been online **for three weeks**."*
 
 ---
 
