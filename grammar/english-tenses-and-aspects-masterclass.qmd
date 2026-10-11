@@ -34,18 +34,19 @@ As established in our companion study on [Subjunctive vs. Indicative Mood](subju
 * In the **Subjunctive Mood**, tense morphology is repurposed to signal **hypothetical distance from reality** rather than chronological time (e.g., the *were*-subjunctive uses past morphology to express present counterfactuals: *"If I were present..."*).
 
 ```{mermaid}
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
 graph TD
     subgraph Temporal_Axis ["Temporal Axis (Tense)"]
-        Past["Past (Before Now)"]
-        Present["Present (Concurrent with Now)"]
-        Future["Future (After Now)"]
+        Past["<b>Past</b><br>(Before Now)"]
+        Present["<b>Present</b><br>(Concurrent with Now)"]
+        Future["<b>Future</b><br>(After Now)"]
     end
     
     subgraph Aspectual_Contour ["Internal Contour (Aspect)"]
-        Simple["Simple: Complete fact or habitual routine"]
-        Continuous["Continuous: Dynamic, ongoing, uncompleted flow"]
-        Perfect["Perfect: Prior completion with current relevance"]
-        PerfCont["Perfect Continuous: Prior inception with ongoing duration"]
+        Simple["<b>Simple:</b> Complete fact or habitual routine"]
+        Continuous["<b>Continuous:</b> Dynamic, ongoing, uncompleted flow"]
+        Perfect["<b>Perfect:</b> Prior completion with current relevance"]
+        PerfCont["<b>Perfect Continuous:</b> Prior inception with ongoing duration"]
     end
     
     Past --> Simple
@@ -201,28 +202,27 @@ Mastery of English syntax requires appreciating how the same real-world scenario
 ## Catalogue of Frequent Grammatical Pitfalls
 
 ```{mermaid}
-graph LR
-    subgraph Errors ["Common Error Vectors"]
-        E1["Stative Verbs in Continuous Aspect"]
-        E2["Time Adverbials with Present Perfect"]
-        E3["Future Modal 'Will' in Temporal Clauses"]
-        E4["Isolated Past Perfect without Anchor"]
-        E5["'Since' vs. 'For' Prepositional Clashes"]
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
+flowchart TD
+    subgraph Errors ["Common Grammatical Pitfalls (Errors)"]
+        direction TB
+        E1["<b>1. Stative Verbs in Continuous Aspect:</b><br><i>'is possessing'</i> / <i>'am knowing'</i>"]
+        E2["<b>2. Closed Past Adverbials with Present Perfect:</b><br><i>'has approved yesterday'</i>"]
+        E3["<b>3. Future 'Will' in Temporal / Conditional Clauses:</b><br><i>'as soon as the suite will pass'</i>"]
+        E4["<b>4. Unanchored Past Perfect ('Had done' in a vacuum):</b><br><i>'Newton had discovered calculus'</i>"]
+        E5["<b>5. Prepositional Collision ('Since' vs. 'For'):</b><br><i>'online since three weeks'</i>"]
     end
     
-    subgraph Corrections ["Syntactic Corrections"]
-        C1["Use Simple Aspect for Cognitive/Stative Verbs"]
-        C2["Anchor Definite Adverbials to Past Simple"]
-        C3["Use Present Simple following 'when, as soon as, if'"]
-        C4["Use Past Simple unless anteriority is necessary"]
-        C5["'Since' = starting point; 'For' = elapsed interval"]
+    subgraph Corrections ["Syntactic Corrections (Standard English)"]
+        direction TB
+        C1["<b>Use Simple Aspect:</b><br>Cognitive/stative verbs denote unbroken states: <i>'possesses'</i>"]
+        C2["<b>Anchor to Past Simple:</b><br>Specific historical timestamps demand Past Simple: <i>'approved yesterday'</i>"]
+        C3["<b>Use Present Simple:</b><br>Subordinate clauses with <i>when, if, as soon as</i> take Present Simple: <i>'passes'</i>"]
+        C4["<b>Require Prior Anchor:</b><br>Past Perfect requires an anterior reference event in the past"]
+        C5["<b>Enforce Temporal Syntax:</b><br><i>'Since'</i> = starting point; <i>'For'</i> = elapsed duration interval"]
     end
     
-    E1 --> C1
-    E2 --> C2
-    E3 --> C3
-    E4 --> C4
-    E5 --> C5
+    Errors ==> Corrections
 ```
 
 ### 1. Stative Verbs Trapped in Continuous Aspect

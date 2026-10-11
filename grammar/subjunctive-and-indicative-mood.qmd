@@ -19,38 +19,21 @@ format:
 
 Human language does not merely convey static data about the physical world; it actively **modulates** how **propositions** relate to reality. It provides a syntactic and semantic framework demarcating what *is* from what *ought to be*, what is *wished*, what is *commanded*, and what is *contrary to fact*.
 
-To master this distinction, we must first define the core linguistic machinery:
-
-::: {.callout-note}
-### Foundational Terminology for Precise Analysis
-* **Modulate:** To adjust, inflect, or calibrate the tone, certainty, or force of an utterance rather than expressing it as a flat assertion.
-* **Proposition:** The underlying semantic claim or statement within a clause that evaluates to a determinate truth value—either True ($1$) or False ($0$)—such as *"the server is online"*.
-* **State of Affairs:** A specific condition, configuration of facts, or physical reality in the world.
-* **Interrogate a State of Affairs:** To actively question, probe, or examine whether a given situation actually exists in empirical reality.
-* **Inquiry:** A formal interrogation seeking empirical verification of the truth.
-* **Factual Status:** The objective truth-value of a statement—whether it describes verified empirical reality, an open question, or an impossibility.
-* **Likelihood:** The estimated probability that an event has occurred, is occurring, or will occur.
-* **Necessity or Feasibility:** Whether a condition *must* occur by obligation/rule (**necessity**) versus whether it *can* realistically occur (**feasibility**).
-* **Epistemic Attitude / Epistemic Validity:** The speaker’s psychological stance or commitment regarding the truth, credibility, or certainty of the proposition.
-* **Suasion:** The act of urging, commanding, recommending, or exerting pressure on someone to perform an action.
-* **Mandate:** An authoritative decree, binding order, or obligatory requirement.
-* **Counterfactual:** A statement explicitly contrary to past, present, or historical fact; describing what *would* happen if reality were different from what it actually is.
-:::
-
-### Why Language Modulates Propositions Against Reality
-
-Language is not merely a descriptive catalog; it is an instrument of human action, coordination, and reasoning. If language only allowed flat factual statements, humans could never negotiate treaties, debate legal obligations, formulate scientific hypotheses, or contemplate alternative realities. 
+Language is not merely a descriptive catalog; it is an instrument of human action, coordination, and reasoning. If language only allowed flat factual assertions, humans could never negotiate treaties, debate statutory obligations, formulate scientific hypotheses, or contemplate alternative realities. 
 
 By modulating verbal forms through **grammatical mood** (derived from Latin *modus*, meaning "manner," "mode," or "measure"), a language informs the listener whether a proposition is being presented as:
 1. An empirical fact in the actual world (**Indicative Mood**).
 2. An unfulfilled wish, an unreal condition, a mandated necessity, or a counterfactual scenario (**Subjunctive Mood**).
 3. A direct directive, instruction, or command to act (**Imperative Mood**).
 
+> *(Note: A comprehensive glossary defining foundational semantic, philosophical, and syntactic terminology in bulk—including modulate, proposition, state of affairs, suasion, mandate, and counterfactual—is catalogued at the conclusion of this study preceding the references.)*
+
 ```{mermaid}
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
 flowchart TD
-    A["Grammatical Mood (Verbal Stance)"] --> B["Indicative Mood (Realis)"]
-    A --> C["Subjunctive Mood (Irrealis)"]
-    A --> D["Imperative Mood (Directives)"]
+    A["<b>Grammatical Mood (Verbal Stance)</b>"] --> B["<b>Indicative Mood (Realis)</b>"]
+    A --> C["<b>Subjunctive Mood (Irrealis)</b>"]
+    A --> D["<b>Imperative Mood (Directives)</b>"]
     
     B --> B1["Actuality & Factual Assertions"]
     B --> B2["Empirical Inquiries"]
@@ -62,7 +45,7 @@ flowchart TD
 
     D --> D1["Direct Commands & Instructions"]
     D --> D2["Prohibitions (Auxiliary Do-Support)"]
-    D --> D3["Entreaties & Invitations"]
+    D --> D3["Cohortative 'Let's' & Entreaties"]
 ```
 
 ### Triad of Verbal Dimensions: Tense vs. Aspect vs. Mood
@@ -143,19 +126,20 @@ When we evaluate an **open empirical question**, the "openness" is purely **epis
 Because the speaker's epistemic set leaves open the live possibility that $P$ is true in the actual world $\mathcal{W}_0$, **the grammar remains firmly anchored in the Indicative Mood (Realis)**.
 
 ```{mermaid}
-flowchart LR
-    subgraph Indicative_Realm ["Indicative Mood (Realis)"]
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
+flowchart TD
+    subgraph Indicative_Realm ["Indicative Mood (Realis) — Truth-Functional in Actual World 𝒲₀"]
         direction TB
-        OpenQ["Open Empirical Question<br>P is either True or False in W₀<br>Live real-world possibility"]
-        OpenQ --> Zero["Zero Conditional (Invariant Law):<br>If the server crashes, cluster activates."]
-        OpenQ --> First["First Conditional (Future Contingency):<br>If inflation remains elevated, rates will rise."]
-        OpenQ --> OpenPast["Open Past Conditional (Historical Inquiry):<br>If the witness was in Boston, he is innocent."]
+        OpenQ["<b>Open Empirical Question:</b> ⟦P⟧ ∈ {0, 1}<br>Truth value is determinate and fixed in 𝒲₀;<br>Speaker has incomplete knowledge, but reality is not open"]
+        OpenQ --> Zero["<b>Zero Conditional (Invariant Law):</b><br><i>'If the server crashes, the failover cluster activates.'</i><br>Nomological rule in actual physical/computational reality"]
+        OpenQ --> First["<b>First Conditional (Future Contingency):</b><br><i>'If inflation remains elevated, rates will rise.'</i><br>Live, forward-looking empirical contingency in 𝒲₀"]
+        OpenQ --> OpenPast["<b>Open Past Conditional (Historical Inquiry):</b><br><i>'If the witness was in Boston, he is innocent.'</i><br>Settled historical fact; alibi evaluates material truth in 𝒲₀"]
     end
 
-    subgraph Subjunctive_Realm ["Subjunctive Mood (Irrealis)"]
+    subgraph Subjunctive_Realm ["Subjunctive Mood (Irrealis) — Non-Actual World 𝒲'"]
         direction TB
-        CounterF["Counterfactual Premise<br>P is KNOWN FALSE in W₀<br>Evaluated only in alternative world W'"]
-        CounterF --> WereSubj["Counterfactual Were:<br>If the witness were here right now..."]
+        CounterF["<b>Counterfactual Premise:</b> ⟦P⟧ = 0 in 𝒲₀<br>Known False in reality; evaluated strictly<br>in a hypothetical divergence world 𝒲'"]
+        CounterF --> WereSubj["<b>Counterfactual Were:</b><br><i>'If the witness were in Boston right now...'</i><br>Presupposes absence; fatal if uttered during an alibi!"]
     end
 ```
 
@@ -302,11 +286,14 @@ Having analyzed the **Indicative** (asserting facts) and the **Subjunctive** (ev
 While the indicative is *descriptive* and the subjunctive is *evaluative*, the imperative is **performative and directive**: its primary communicative function is to cause an action to happen by directly commanding, instructing, prohibiting, or entreating an interlocutor.
 
 ```{mermaid}
-flowchart LR
-    Imp["Imperative Mood"] --> NullSubj["1. Null Subject: Covert [You]"]
-    Imp --> BaseVerb["2. Invariant Bare Base Verb"]
-    Imp --> DoNeg["3. Mandatory Auxiliary Do in Negation ('Do not / Don't')"]
-    Imp --> Force["4. Spectrum of Pragmatic Force: Command, Instruction, Warning, Entreaty"]
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
+flowchart TD
+    Imp["<b>Imperative Mood: Performative Directive</b>"]
+    
+    Imp --> NullSubj["<b>1. Covert Second-Person Subject [Pro_null]</b><br>Underlying [You]: <i>'[You] deploy the patch immediately.'</i>"]
+    Imp --> BaseVerb["<b>2. Invariant Bare Base Verb (V_base)</b><br>Uninflected base infinitive: <i>'Halt the execution!'</i> / <i>'Be quiet!'</i>"]
+    Imp --> DoNeg["<b>3. Mandatory Auxiliary 'Do'-Support in Negation</b><br>Requires 'Do not' / 'Don't': <i>'Do not touch!'</i><br>(Contrasts with Subjunctive suppression of 'do')"]
+    Imp --> Force["<b>4. Dynamic Spectrum of Pragmatic Force</b><br>Commands, warnings, technical directives, and cohortative <i>'Let's'</i>"]
 ```
 
 ### The Syntactic Architecture of the Imperative
@@ -360,16 +347,17 @@ To achieve complete mastery, examine how the same underlying scenario is express
 ## 9. Diagnostic Decision Matrix
 
 ```{mermaid}
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontSize': '15px' }}}%%
 flowchart TD
-    Start["Analyze Sentence Intent"] --> Q1{"Is it a direct directive or order issued to the listener?"}
-    Q1 -- Yes --> Imperative["IMPERATIVE MOOD<br>• Covert [you] subject<br>• Bare base verb: 'Halt!'<br>• Negation requires 'Do not': 'Don't touch!'"]
-    Q1 -- No --> Q2{"Does the clause assert, interrogate, or assume an open condition in reality?"}
-    Q2 -- Yes --> Indicative["INDICATIVE MOOD (Realis)<br>• Factual statements & inquiries<br>• Zero, First, & Open Past Conditionals<br>• Standard tense conjugation & 'do'-support"]
-    Q2 -- No --> Q3{"Is it a command, mandate, or suasion in a subordinate clause?"}
-    Q3 -- Yes --> Mandative["MANDATIVE SUBJUNCTIVE<br>• Bare base verb in that-clause<br>• Invariant 'be'<br>• Direct negation: 'not' + base verb (no 'do')"]
-    Q3 -- No --> Q4{"Is it explicitly contrary to present/past reality?"}
-    Q4 -- Yes --> Counterfactual["COUNTERFACTUAL SUBJUNCTIVE<br>• Invariant 'were' for all persons<br>• Inverted: 'Were he to resign...'"]
-    Q4 -- No --> Formulaic["FORMULAIC SUBJUNCTIVE<br>• Fossilized idioms<br>• 'Be that as it may'<br>• 'Suffice it to say'"]
+    Start["<b>Analyze Clause Intent</b>"] --> Q1{"Is it a direct directive or order<br>issued to the listener?"}
+    Q1 -- "Yes" --> Imperative["<b>IMPERATIVE MOOD</b><br>• Covert [you] subject<br>• Bare base verb: <i>'Halt!'</i><br>• Negation requires 'Do not': <i>'Don't touch!'</i>"]
+    Q1 -- "No" --> Q2{"Does the clause assert, interrogate,<br>or assume an open condition in reality?"}
+    Q2 -- "Yes" --> Indicative["<b>INDICATIVE MOOD (Realis)</b><br>• Factual statements & empirical inquiries<br>• Zero, First, & Open Past Conditionals<br>• Standard tense conjugation & 'do'-support"]
+    Q2 -- "No" --> Q3{"Is it a command, mandate, or suasion<br>in a subordinate that-clause?"}
+    Q3 -- "Yes" --> Mandative["<b>MANDATIVE SUBJUNCTIVE</b><br>• Bare base verb in that-clause<br>• Invariant base 'be'<br>• Direct negation: 'not' + base verb (no 'do')"]
+    Q3 -- "No" --> Q4{"Is it explicitly contrary<br>to present or past reality?"}
+    Q4 -- "Yes" --> Counterfactual["<b>COUNTERFACTUAL SUBJUNCTIVE</b><br>• Invariant 'were' across all persons<br>• Inversion: <i>'Were he to resign...'</i>"]
+    Q4 -- "No" --> Formulaic["<b>FORMULAIC SUBJUNCTIVE</b><br>• Fossilized optative idioms<br>• <i>'Be that as it may'</i>, <i>'Suffice it to say'</i>"]
 ```
 
 ---
@@ -383,3 +371,47 @@ flowchart TD
    * Imperative **requires** auxiliary *do*: *"**Do not alter** the ledger."*
    * Mandative Subjunctive **suppresses** auxiliary *do*: *"We require that he **not alter** the ledger."*
 5. **The Irrealis *Were*:** The copula takes *were* across all grammatical persons in counterfactual conditionals and wishes (*"If I **were**"*, *"I wish she **were**"*).
+
+---
+
+## Foundational Terminology & Glossary for Precise Analysis
+
+To ensure complete conceptual clarity when analyzing modal syntax and semantics, this glossary compiles foundational and advanced linguistic, grammatical, and philosophical terminology in bulk:
+
+* **Modulate:** To adjust, inflect, or calibrate the tone, certainty, or force of an utterance rather than expressing it as a flat assertion.
+* **Proposition:** The underlying semantic claim or statement within a clause that evaluates to a determinate truth value—either True ($1$) or False ($0$)—such as *"the server is online"*.
+* **State of Affairs:** A specific condition, configuration of facts, or physical reality in the world.
+* **Interrogate a State of Affairs:** To actively question, probe, or examine whether a given situation actually exists in empirical reality.
+* **Inquiry:** A formal interrogation seeking empirical verification of the truth.
+* **Factual Status:** The objective truth-value of a statement—whether it describes verified empirical reality, an open question, or an impossibility.
+* **Likelihood:** The estimated probability that an event has occurred, is occurring, or will occur.
+* **Necessity or Feasibility:** Whether a condition *must* occur by obligation/rule (**necessity**) versus whether it *can* realistically occur (**feasibility**).
+* **Epistemic Attitude / Epistemic Validity:** The speaker’s psychological stance or commitment regarding the truth, credibility, or certainty of the proposition.
+* **Suasion:** The act of urging, commanding, recommending, or exerting pressure on someone to perform an action.
+* **Mandate:** An authoritative decree, binding order, or obligatory requirement.
+* **Counterfactual:** A statement explicitly contrary to past, present, or historical fact; describing what would happen if reality were different from what it actually is.
+* **Realis vs. Irrealis:** *Realis* refers to grammatical moods (such as the indicative) that portray events as objectively realized, historical, or empirically verifiable in the actual world ($\mathcal{W}_0$). *Irrealis* refers to moods (such as the subjunctive) that depict scenarios as unreal, purely potential, contrary to fact, or mandated.
+* **Mandative Subjunctive:** A subordinate that-clause construction following matrix verbs, adjectives, or nouns of suasion/mandate (*demand, require, recommend, imperative*), deploying the invariant bare base verb form ($V_{\text{base}}$) without tense or person agreement.
+* **Cohortative Directive:** A first-person plural imperative (formed with *Let's* or *Let us*) that functions as an inclusive invitation, proposal, or mutual call to collective action.
+* **Jussive Directive:** A third-person command or instruction formed periphrastically (*Let* + third-person objective pronoun/noun phrase + $V_{\text{base}}$) instructing an absent party or dictating institutional record-keeping (*"Let the record show..."*).
+* **Performative Utterance:** A speech act that does not merely report a descriptive state of affairs, but actively executes or brings about the action named in the utterance (e.g., *"[You] Cease operations!"*).
+* **Illocutionary Force:** The communicative intent or pragmatic force of an utterance—the difference between making an assertion, issuing a directive, formulating a question, or imposing a prohibition.
+* **Principle of Bivalence:** The classical logical axiom stating that every declarative proposition has exactly one determinate truth value: $\llbracket P \rrbracket \in \{0, 1\}$.
+* **Possible Worlds Semantics ($\mathcal{W}_0$ vs. $\mathcal{W}'$):** The Lewis-Stalnaker semantic framework wherein counterfactuals are evaluated by comparing the actual world ($\mathcal{W}_0$) to hypothetical minimally divergent worlds ($\mathcal{W}'$) where the counterfactual premise holds true.
+* **Nomological Invariant:** A physical law or empirical regularity of nature that holds true across all physically accessible worlds $\mathcal{W}_{\text{phys}}$ (governing Zero Conditionals: *"If water reaches 100°C, it boils"*).
+* **Covert Subject ($Pro_{\text{null}}$):** An unpronounced second-person subject pronoun ($[you]$) structurally present in the underlying syntactic tree of an imperative clause.
+* **Dummy Auxiliary (*Do*-Support):** The insertion of the semantically empty auxiliary verb *do* to carry negation or inversion (mandatory in negative imperatives: *"Do not touch"*; suppressed in negative subjunctives: *"that he not touch"*).
+* **Protasis and Apodosis:** In conditional sentences, the *protasis* is the antecedent condition clause (introduced by *if*), and the *apodosis* is the consequence or matrix conclusion clause.
+* **Atlantic Dialectical Variation:** The systematic divide between North American English (which strictly maintains the mandative subjunctive bare base form) and British English (which frequently substitutes the modal auxiliary *should* or the indicative present).
+* **Formulaic / Optative Subjunctive:** Set archaic expressions retaining subjunctive morphology without subordinators (*"Come what may"*, *"Be that as it may"*, *"God forbid"*).
+
+---
+
+## References & Recommended Reading
+
+1. **Huddleston, Rodney, and Geoffrey K. Pullum.** *The Cambridge Grammar of the English Language*. Cambridge: Cambridge University Press, 2002. (Chapters 3 & 11: The Clause and Non-Finite/Subjunctive Subordination).
+2. **Quirk, Randolph, Sidney Greenbaum, Geoffrey Leech, and Jan Svartvik.** *A Comprehensive Grammar of the English Language*. London: Longman, 1985. (Sections on Mood, Modality, and Mandative Complements).
+3. **Lewis, David.** *Counterfactuals*. Cambridge, MA: Harvard University Press, 1973.
+4. **Stalnaker, Robert.** *Inquiry*. Cambridge, MA: MIT Press, 1984. (Chapters on Propositions and Possible Worlds).
+5. **Kratzer, Angelika.** *Modals and Conditionals: New and Revised Perspectives*. Oxford: Oxford University Press, 2012.
+6. **Searle, John R.** *Speech Acts: An Essay in the Philosophy of Language*. Cambridge: Cambridge University Press, 1969.
