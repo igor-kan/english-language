@@ -5,7 +5,7 @@ description: "An architectural guide to the indicative, subjunctive, and imperat
 author: "Igor Kan"
 date: "2026-10-11"
 categories: [Grammar, Mood, Syntax, Advanced-Grammar, Verbs]
-draft: false
+draft: true
 format:
   html:
     toc: true

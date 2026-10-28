@@ -5,7 +5,7 @@ description: "An exhaustive masterclass on phrases of digression and incidental 
 author: "Igor Kan"
 date: "2026-10-05"
 categories: [Vocabulary, Discourse-Markers, Register, Rhetoric, Lexical-Deep-Dive, Syntax]
-draft: false
+draft: true
 format:
   html:
     toc: true
