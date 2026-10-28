@@ -85,9 +85,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-f6e81f4864cb6d8b696b855696ff1c11.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-86a62c4a56120b95dfa8e5b77e93b73a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-f6e81f4864cb6d8b696b855696ff1c11.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-7f2fd26b669c19c010417720255ddf26.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-7b1f7543710779d9d05404be8014f975.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-7f2fd26b669c19c010417720255ddf26.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -125,9 +125,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -396,7 +396,7 @@ window.Quarto = {
   </ul></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QWR2YW5jZWQtR3JhbW1hcg==">Advanced-Grammar <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R3JhbW1hcg==">Grammar <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TW9vZA==">Mood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3ludGF4">Syntax <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VGVuc2Vz">Tenses <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmVyYnM=">Verbs <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -434,10 +434,10 @@ window.Quarto = {
 <h3 class="anchored" data-anchor-id="modules-in-this-section">Modules in this Section</h3>
 <ul>
 <li><strong>Taxonomy of Speech:</strong> Categorizing nouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections.</li>
-<li><strong>Tense and Aspect:</strong> <a href="../grammar/english-tenses-and-aspects-masterclass.html">Tense and Aspect Masterclass</a> — Mapping time, completion, and duration across the twelve canonical tense-aspect permutations with synonymous transformations.</li>
+<li><strong>Tense and Aspect:</strong> Tense and Aspect Masterclass — Mapping time, completion, and duration across the twelve canonical tense-aspect permutations with synonymous transformations.</li>
 <li><strong>Prepositions:</strong> Types and usage, dependent prepositions, and collocations (Archived in private drafts vault).</li>
 <li><strong>Sentence Architecture:</strong> Independent vs.&nbsp;dependent clauses, coordination, subordination, and parallel construction.</li>
-<li><strong>Grammatical Mood:</strong> <a href="../grammar/subjunctive-and-indicative-mood.html">Subjunctive vs.&nbsp;Indicative Mood</a> — Demarcating realis from irrealis, counterfactual conditionals, mandative demands, and formulaic expressions.</li>
+<li><strong>Grammatical Mood:</strong> Subjunctive vs.&amp;nbsp;Indicative Mood — Demarcating realis from irrealis, counterfactual conditionals, mandative demands, and formulaic expressions.</li>
 </ul>
 
 
@@ -450,83 +450,21 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-    </select>
-  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table">
+<table class="quarto-listing-table table caption-top">
 <thead>
-<tr>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-
-<th>
-Description
-</th>
-
-<th>
-Categories
-</th>
-
+<tr class="header">
+<th data-quarto-table-cell-role="th">Date</th>
+<th data-quarto-table-cell-role="th">Title</th>
+<th data-quarto-table-cell-role="th">Description</th>
+<th data-quarto-table-cell-role="th">Categories</th>
 </tr>
 </thead>
 <tbody class="list">
-
-<tr data-index="0" data-categories="R3JhbW1hciUyQ1RlbnNlcyUyQ1N5bnRheCUyQ1ZlcmJzJTJDQWR2YW5jZWQtR3JhbW1hcg==" data-listing-date-sort="1791676800000" data-listing-file-modified-sort="1791889530588" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2716" data-listing-title-sort="The Architecture of English Tenses and Aspects" data-listing-filename-sort="english-tenses-and-aspects-masterclass.qmd">
-<td>
-<span class="listing-date">2026-10-11</span>
-</td>
-<td>
-<a href="../grammar/english-tenses-and-aspects-masterclass.html" class="title listing-title">The Architecture of English Tenses and Aspects</a>
-</td>
-<td>
-<span class="listing-description">A comprehensive masterclass on all 12 English tenses and aspects: temporal axes, aspectual contours, synonymous tense transformations, register shifts, and common grammatical pitfalls.</span>
-</td>
-<td>
-<span class="listing-categories">Grammar, Tenses, Syntax, Verbs, Advanced-Grammar</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-categories="R3JhbW1hciUyQ01vb2QlMkNTeW50YXglMkNBZHZhbmNlZC1HcmFtbWFyJTJDVmVyYnM=" data-listing-date-sort="1791676800000" data-listing-file-modified-sort="1791889530589" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="31" data-listing-word-count-sort="6132" data-listing-title-sort="Subjunctive vs. Indicative Mood" data-listing-filename-sort="subjunctive-and-indicative-mood.qmd">
-<td>
-<span class="listing-date">2026-10-11</span>
-</td>
-<td>
-<a href="../grammar/subjunctive-and-indicative-mood.html" class="title listing-title">Subjunctive vs.&nbsp;Indicative Mood</a>
-</td>
-<td>
-<span class="listing-description">An architectural guide to the indicative, subjunctive, and imperative moods: why open conditionals require the indicative, mandative suasion clauses, counterfactual were-constructions, and the syntax of directives.</span>
-</td>
-<td>
-<span class="listing-categories">Grammar, Mood, Syntax, Advanced-Grammar, Verbs</span>
-</td>
-
-</tr>
-
 </tbody>
 </table>
 <div class="listing-no-matching d-none">No matching items</div>
